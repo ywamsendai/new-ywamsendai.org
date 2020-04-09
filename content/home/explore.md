@@ -26,8 +26,8 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Regions"
-    tag = "region"
+    name = "Locations"
+    tag = "Location"
   
   # [[content.filter_button]]
   #   name = "Other"
