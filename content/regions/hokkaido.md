@@ -1,6 +1,6 @@
 ---
 title: Hokkaido
-tags: ["A Tag", "Another Tag"]
+tags: ["region"]
 ---
 
 This is a test.
