@@ -1,5 +1,7 @@
 ---
-title: Shekinah Christian Fellowship (Nagano)
+title: Azumino Church Planting Team
+subtitle: Azumino City, Nagano
+summary: Shekinah Christian Fellowship
 tags: ["HokurikuShinetsu", "Location", "Church"]
 ---
 
