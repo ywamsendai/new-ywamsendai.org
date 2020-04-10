@@ -29,9 +29,9 @@ subtitle = ""
     name = "Locations"
     tag = "Location"
   
-  # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
+  [[content.filter_button]]
+    name = "DTS"
+    tag = "DTS"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
