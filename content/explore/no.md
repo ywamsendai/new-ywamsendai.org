@@ -1,5 +1,7 @@
 ---
-title: National Office
+title: Youth With A Mission Japan National Office
+subtitle: Tokyo
+summary: The national office of YWAM Japan
 tags: ["Kanto", "Location"]
 ---
 
