@@ -1,5 +1,7 @@
 ---
-title: Sendai
+title: Youth With A Mission Sendai
+subtitle: Sendai City, Miyagi
+summary: With a population of over a million people, Sendai is the largest city in North-East Japan.
 tags: ["Tohoku", "Location"]
 ---
 
