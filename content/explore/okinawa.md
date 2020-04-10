@@ -1,5 +1,7 @@
 ---
-title: Okinawa
+title: Youth With A Mission Okinawa
+subtitle: Uruma City, Okinawa
+summary: YWAM training base in Okinawa.
 tags: ["Okinawa", "Location"]
 ---
 
