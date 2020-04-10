@@ -16,8 +16,8 @@ height = "calc(100vh - 70px)"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "YWAM Japan"
-  content = "To know God and make Him known"
+  title = "To know God and make Him known."
+  content = "Reach the unreached millions in Japan."
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
