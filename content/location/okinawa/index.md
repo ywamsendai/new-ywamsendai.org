@@ -2,6 +2,7 @@
 title: Youth With A Mission Okinawa
 subtitle: Uruma City, Okinawa
 summary: YWAM training base in Okinawa.
+type: "widget_page"
 tags: ["Okinawa", "Location"]
 ---
 
