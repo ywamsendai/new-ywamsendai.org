@@ -113,6 +113,19 @@ phone = "888 888 88 88"
 #  ]
 
 ############################
+## Location contact details
+##
+## These details power the Loc-Contact widget (if enabled).
+############################
+
+# Sendai contact details. To hide a field, clear it to "".
+sendai_website = "https://ywamsendai.org"
+sendai_email = "info@ywamsendai.org"
+# sendai_phone = "888 888 88 88"
+# sendai_address = {street = "Ayashichuo, Aoba-ku", city = "Sendai", region = "Miyagi", postcode = "989-3128", country = "Japan", country_code = "JP"}
+# sendai_coordinates = {latitude = "37.4275", longitude = "-122.1697"}
+
+############################
 ## Social
 ############################
 
