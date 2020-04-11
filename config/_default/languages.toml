@@ -4,7 +4,7 @@
 
 # Configure the English version of the site.
 [en]
-  languageCode = "en-us"
+  languageCode = "en-gb"
   contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
 
 # Uncomment the lines below to configure your website in a second language.
@@ -13,7 +13,7 @@
   contentDir = "content/ja"
   title = "日本ワイワム"
   [ja.params]
-#    description = "Site description in Chinese..."
+#    description = "Site description in Japanese..."
   [[ja.menu.main]]
     name = "について"
     url = "#about"
