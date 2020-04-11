@@ -25,9 +25,9 @@ subtitle = ""
     name = "All"
     tag = "Sendai"
 
-  [[content.filter_button]]
-    name = "DTS"
-    tag = "Sendai", "DTS"
+  # [[content.filter_button]]
+  #   name = "DTS"
+  #   tag = "Sendai-DTS"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
