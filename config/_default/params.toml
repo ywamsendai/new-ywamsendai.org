@@ -189,11 +189,11 @@ takatsuki_address = {street = "Ayashichuo, Aoba-ku", city = "Sendai", region = "
 takatsuki_coordinates = {latitude = "38.2728", longitude = "140.761462"}
 
 # Tokyo contact details. To hide a field, clear it to "".
-tokyo_website = "https://ywamsendai.org"
-tokyo_email = "info@ywamsendai.org"
+tokyo_website = "http://ywamtokyo.org"
+tokyo_email = "info@ywamtokyo.org"
 # tokyo_phone = "888 888 88 88"
-tokyo_address = {street = "Ayashichuo, Aoba-ku", city = "Sendai", region = "Miyagi", postcode = "989-3128", country = "Japan", country_code = "JP"}
-tokyo_coordinates = {latitude = "38.2728", longitude = "140.761462"}
+tokyo_address = {street = "1-17-7 Shinkawacho", city = "Higashikurume", region = "Tokyo", postcode = "203-0013", country = "Japan", country_code = "JP"}
+tokyo_coordinates = {latitude = "35.758914", longitude = "139.538747"}
 
 ############################
 ## Social
