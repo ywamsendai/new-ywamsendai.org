@@ -122,8 +122,8 @@ phone = "888 888 88 88"
 sendai_website = "https://ywamsendai.org"
 sendai_email = "info@ywamsendai.org"
 # sendai_phone = "888 888 88 88"
-# sendai_address = {street = "Ayashichuo, Aoba-ku", city = "Sendai", region = "Miyagi", postcode = "989-3128", country = "Japan", country_code = "JP"}
-# sendai_coordinates = {latitude = "37.4275", longitude = "-122.1697"}
+ sendai_address = {street = "Ayashichuo, Aoba-ku", city = "Sendai", region = "Miyagi", postcode = "989-3128", country = "Japan", country_code = "JP"}
+ sendai_coordinates = {latitude = "38.2728", longitude = "140.761462"}
 
 ############################
 ## Social
