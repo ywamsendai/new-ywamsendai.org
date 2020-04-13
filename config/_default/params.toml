@@ -133,11 +133,11 @@ kagoshima_address = {street = "Okuchisato 2698", city = "Isa", region = "Kagoshi
 kagoshima_coordinates = {latitude = "32.063857", longitude = "130.615639"}
 
 # Kobe contact details. To hide a field, clear it to "".
-kobe_website = "https://ywamsendai.org"
-kobe_email = "info@ywamsendai.org"
+# kobe_website = ""
+# kobe_email = ""
 # kobe_phone = "888 888 88 88"
-kobe_address = {street = "Ayashichuo, Aoba-ku", city = "Sendai", region = "Miyagi", postcode = "989-3128", country = "Japan", country_code = "JP"}
-kobe_coordinates = {latitude = "38.2728", longitude = "140.761462"}
+kobe_address = {street = "", city = "Kobe", region = "Hyogo", postcode = "", country = "Japan", country_code = "JP"}
+kobe_coordinates = {latitude = "34.691391", longitude = "135.19628"}
 
 # Kyoto contact details. To hide a field, clear it to "".
 kyoto_website = "https://ywamsendai.org"
