@@ -51,7 +51,7 @@ title = "Overview"
 
 First ever DTS in Tohoku, Japan!
 
-[More about YWAM Sendai](https://ywamsendai.org)
+[Visit Website](https://ywamsendai.org)
 
 ## Details
 
