@@ -36,9 +36,9 @@ title = "2021 Discipleship Training School"
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-# [cta]
-#   url = "https://sourcethemes.com/academic/docs/install/"
-#   label = "Join Us"
+[cta]
+  url = "https://ywamsendai.org/"
+  label = "YWAM Sendai, Miyagi, Tohoku"
 #   icon_pack = "fas"
 #   icon = "download"
 
@@ -51,4 +51,4 @@ title = "2021 Discipleship Training School"
   # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-[YWAM Sendai, Miyagi, Tohoku](https://ywamsendai.org)
+April 2021
