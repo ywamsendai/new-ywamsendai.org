@@ -49,11 +49,12 @@ subtitle = ""
  css_class = ""
 +++
 
+Shekinah Christian Fellowship
 Team: Glynis Osborne, Judith Cassell
 
 
 ## Details
 
 * **Language(s):** English, Japanese
-* **Omega Zone & Region:** Nagano, Hokuriku Shinetsu
+* **Omega Zone & Region:** Nagano, Hokuriku-Shinetsu
 * **Last Updated:** 2020-04-13
