@@ -119,11 +119,11 @@ phone = "888 888 88 88"
 ############################
 
 # Azumino contact details. To hide a field, clear it to "".
-# azumino_website = "https://ywamsendai.org"
+# azumino_website = ""
 azumino_email = "glynosbo@yahoo.co.jp"
 azumino_phone = "0263-87-0034"
-azumino_address = {street = "Ayashichuo, Aoba-ku", city = "Sendai", region = "Miyagi", postcode = "989-3128", country = "Japan", country_code = "JP"}
-azumino_coordinates = {latitude = "38.2728", longitude = "140.761462"}
+azumino_address = {street = "5584-1 Toyoshina", city = "Azumino", region = "Nagano", postcode = "399-8205", country = "Japan", country_code = "JP"}
+azumino_coordinates = {latitude = "36.290246", longitude = "137.910923"}
 
 # Kagoshima contact details. To hide a field, clear it to "".
 kagoshima_website = "https://ywamsendai.org"
