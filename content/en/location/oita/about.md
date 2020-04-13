@@ -49,12 +49,11 @@ subtitle = ""
  css_class = ""
 +++
 
-We are an international community of people settled in Tokyo, Japan, to build an altar of worship to the Lord. We desire to love God and love people by seeking intimate relationship with God - Father, Son, and Holy Spirit - as well as His Word, living in wholehearted relationship with others, and championing the Kingdom of God around us.
+New YWAM location in Oita.
 
-[Visit Website](https://ywamtokyo.org)
 
 ## Details
 
-* **Language(s):** English, Japanese (transitioning)
-* **Omega Zone & Region:** Central Tokyo, Kanto
+* **Language(s):** English
+* **Omega Zone & Region:** Oita, Kyushu
 * **Last Updated:** 2020-04-13

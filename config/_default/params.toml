@@ -161,11 +161,11 @@ no_address = {street = "1-19-6 Nihonzutsumi", city = "Taito-ku", region = "Tokyo
 no_coordinates = {latitude = "35.726806", longitude = "139.799227"}
 
 # Oita contact details. To hide a field, clear it to "".
-oita_website = "https://ywamsendai.org"
-oita_email = "info@ywamsendai.org"
+# oita_website = ""
+# oita_email = ""
 # oita_phone = "888 888 88 88"
-oita_address = {street = "Ayashichuo, Aoba-ku", city = "Sendai", region = "Miyagi", postcode = "989-3128", country = "Japan", country_code = "JP"}
-oita_coordinates = {latitude = "38.2728", longitude = "140.761462"}
+oita_address = {street = "", city = "Oita-shi", region = "Oita-ken", postcode = "", country = "Japan", country_code = "JP"}
+oita_coordinates = {latitude = "33.242238", longitude = "131.608024"}
 
 # Okinawa contact details. To hide a field, clear it to "".
 okinawa_website = "https://www.ywamokinawa.org"
@@ -189,7 +189,7 @@ takatsuki_address = {street = "2-15-3 Kanmaki-cho", city = "Takatsuki", region =
 takatsuki_coordinates = {latitude = "34.864127", longitude = "135.662477"}
 
 # Tokyo contact details. To hide a field, clear it to "".
-tokyo_website = "http://ywamtokyo.org"
+tokyo_website = "https://ywamtokyo.org"
 tokyo_email = "info@ywamtokyo.org"
 # tokyo_phone = "888 888 88 88"
 tokyo_address = {street = "1-17-7 Shinkawacho", city = "Higashikurume", region = "Tokyo", postcode = "203-0013", country = "Japan", country_code = "JP"}
