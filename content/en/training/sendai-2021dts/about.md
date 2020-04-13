@@ -22,18 +22,18 @@ subtitle = "Youth With A Mission Japan"
 
   # Background color.
   color = "white"
-  
+
   # Background gradient.
   # gradient_start = "DarkGreen"
   # gradient_end = "ForestGreen"
-  
+
   # Background image.
   # image = "image.jpg"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   # image_position = "center"  # Options include `left`, `center` (default), or `right`.
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
-  
+
   # Text color (true=light or false=dark).
   text_color_light = false
 
@@ -42,13 +42,24 @@ subtitle = "Youth With A Mission Japan"
   padding = ["20px", "0", "20px", "0"]
 
 [advanced]
- # Custom CSS. 
+ # Custom CSS.
  css_style = ""
- 
+
  # CSS class.
  css_class = ""
 +++
 
-April to September 2021
+First ever DTS in Tohoku, Japan!
 
-COST OF LECTURE PHASE = ¥450,000 COST OF OUTREACH PHASE = around ¥200,000 (test prices only)
+[More about YWAM Sendai](https://ywamsendai.org)
+
+## Details
+
+* **UofN Code:** DSP 211/212
+* **Start date:** April 2021
+* **Length:** 22 Weeks
+* **Language(s):** English, Japanese
+* **Outreach Locations:** N/A
+* **Related Passion:** N/A
+* **Omega Zone & Region:** Miyagi, Tohoku
+* **Last Updated:** 2020-04-13

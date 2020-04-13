@@ -4,9 +4,8 @@ widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
-tags = ["location", "tohoku"]
 
-title = "YWAM Sendai"
+title = "2021 Discipleship Training School"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 # hero_media = "hero-academic.png"
@@ -19,18 +18,18 @@ title = "YWAM Sendai"
 
   # Background color.
   # color = "navy"
-  
+
   # Background gradient.
   gradient_start = "#4bb4e3"
   gradient_end = "#2b94c3"
-  
+
   # Background image.
-  image = "hero-area.jpg"  # Name of image in `static/img/`.
+  image = "sendai.jpg"  # Name of image in `static/img/`.
   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  image_size = "contain"  #  Options are `cover` (default), `contain`, or `actual` size.
+  image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
   image_parallax = false  # Use a fun parallax-like fixed background effect? true/false
-  
+
   # Text color (true=light or false=dark).
   text_color_light = true
 
@@ -42,7 +41,7 @@ title = "YWAM Sendai"
   label = "Join Us"
   icon_pack = "fas"
   icon = "download"
-  
+
 # [cta_alt]
   # url = "https://sourcethemes.com/academic/"
   # label = "View Documentation"
@@ -52,4 +51,4 @@ title = "YWAM Sendai"
   # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-**and make Him known**
+[YWAM Sendai, Miyagi, Tohoku](https://ywamsendai.org)
