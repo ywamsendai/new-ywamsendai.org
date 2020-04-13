@@ -154,11 +154,11 @@ niseko_address = {street = "Ayashichuo, Aoba-ku", city = "Sendai", region = "Miy
 niseko_coordinates = {latitude = "38.2728", longitude = "140.761462"}
 
 # National Office contact details. To hide a field, clear it to "".
-no_website = "https://ywamsendai.org"
-no_email = "info@ywamsendai.org"
-# no_phone = "888 888 88 88"
-no_address = {street = "Ayashichuo, Aoba-ku", city = "Sendai", region = "Miyagi", postcode = "989-3128", country = "Japan", country_code = "JP"}
-no_coordinates = {latitude = "38.2728", longitude = "140.761462"}
+no_website = "http://ywamjpoffice.blogspot.com"
+no_email = "ywamjn@gmail.com"
+no_phone = "03-5603-1775"
+no_address = {street = "1-19-6 Nihonzutsumi", city = "Taito-ku", region = "Tokyo", postcode = "111-0021", country = "Japan", country_code = "JP"}
+no_coordinates = {latitude = "35.726806", longitude = "139.799227"}
 
 # Oita contact details. To hide a field, clear it to "".
 oita_website = "https://ywamsendai.org"
