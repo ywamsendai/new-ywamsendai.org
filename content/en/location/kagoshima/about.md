@@ -50,6 +50,7 @@ subtitle = ""
 +++
 
 Southern part of Kyushu Island in Japan.
+
 Hope Chapel church planting team.
 
 ## Details
