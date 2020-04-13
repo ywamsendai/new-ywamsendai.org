@@ -118,6 +118,13 @@ phone = "888 888 88 88"
 ## These details power the ocation-specific Contact widget (if enabled).
 ############################
 
+# Test contact details. To hide a field, clear it to "".
+test_website = "https://ywamsendai.org"
+test_email = "garyseddon@gmail.com"
+# test_phone = "888 888 88 88"
+test_address = {street = "Ayashichuo, Aoba-ku", city = "Sendai", region = "Miyagi", postcode = "989-3128", country = "Japan", country_code = "JP"}
+test_coordinates = {latitude = "38.2728", longitude = "140.761462"}
+
 # Azumino contact details. To hide a field, clear it to "".
 azumino_website = "https://ywamsendai.org"
 azumino_email = "info@ywamsendai.org"
