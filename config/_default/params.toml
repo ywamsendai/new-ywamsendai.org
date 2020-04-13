@@ -126,11 +126,11 @@ azumino_address = {street = "5584-1 Toyoshina", city = "Azumino", region = "Naga
 azumino_coordinates = {latitude = "36.290246", longitude = "137.910923"}
 
 # Kagoshima contact details. To hide a field, clear it to "".
-kagoshima_website = "https://ywamsendai.org"
-kagoshima_email = "info@ywamsendai.org"
+kagoshima_website = "http://hopekago.luna.weblife.me/index.html"
+kagoshima_email = "ywamkago@me.com"
 # kagoshima_phone = "888 888 88 88"
-kagoshima_address = {street = "Ayashichuo, Aoba-ku", city = "Sendai", region = "Miyagi", postcode = "989-3128", country = "Japan", country_code = "JP"}
-kagoshima_coordinates = {latitude = "38.2728", longitude = "140.761462"}
+kagoshima_address = {street = "Okuchisato 2698", city = "Isa", region = "Kagoshima", postcode = "895-2511", country = "Japan", country_code = "JP"}
+kagoshima_coordinates = {latitude = "32.063857", longitude = "130.615639"}
 
 # Kobe contact details. To hide a field, clear it to "".
 kobe_website = "https://ywamsendai.org"
