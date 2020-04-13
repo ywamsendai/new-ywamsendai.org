@@ -115,15 +115,85 @@ phone = "888 888 88 88"
 ############################
 ## Location contact details
 ##
-## These details power the Loc-Contact widget (if enabled).
+## These details power the ocation-specific Contact widget (if enabled).
 ############################
+
+# Azumino contact details. To hide a field, clear it to "".
+azumino_website = "https://ywamsendai.org"
+azumino_email = "info@ywamsendai.org"
+# azumino_phone = "888 888 88 88"
+azumino_address = {street = "Ayashichuo, Aoba-ku", city = "Sendai", region = "Miyagi", postcode = "989-3128", country = "Japan", country_code = "JP"}
+azumino_coordinates = {latitude = "38.2728", longitude = "140.761462"}
+
+# Kagoshima contact details. To hide a field, clear it to "".
+kagoshima_website = "https://ywamsendai.org"
+kagoshima_email = "info@ywamsendai.org"
+# kagoshima_phone = "888 888 88 88"
+kagoshima_address = {street = "Ayashichuo, Aoba-ku", city = "Sendai", region = "Miyagi", postcode = "989-3128", country = "Japan", country_code = "JP"}
+kagoshima_coordinates = {latitude = "38.2728", longitude = "140.761462"}
+
+# Kobe contact details. To hide a field, clear it to "".
+kobe_website = "https://ywamsendai.org"
+kobe_email = "info@ywamsendai.org"
+# kobe_phone = "888 888 88 88"
+kobe_address = {street = "Ayashichuo, Aoba-ku", city = "Sendai", region = "Miyagi", postcode = "989-3128", country = "Japan", country_code = "JP"}
+kobe_coordinates = {latitude = "38.2728", longitude = "140.761462"}
+
+# Kyoto contact details. To hide a field, clear it to "".
+kyoto_website = "https://ywamsendai.org"
+kyoto_email = "info@ywamsendai.org"
+# kyoto_phone = "888 888 88 88"
+kyoto_address = {street = "Ayashichuo, Aoba-ku", city = "Sendai", region = "Miyagi", postcode = "989-3128", country = "Japan", country_code = "JP"}
+kyoto_coordinates = {latitude = "38.2728", longitude = "140.761462"}
+
+# Niseko contact details. To hide a field, clear it to "".
+niseko_website = "https://ywamsendai.org"
+niseko_email = "info@ywamsendai.org"
+# niseko_phone = "888 888 88 88"
+niseko_address = {street = "Ayashichuo, Aoba-ku", city = "Sendai", region = "Miyagi", postcode = "989-3128", country = "Japan", country_code = "JP"}
+niseko_coordinates = {latitude = "38.2728", longitude = "140.761462"}
+
+# National Office contact details. To hide a field, clear it to "".
+no_website = "https://ywamsendai.org"
+no_email = "info@ywamsendai.org"
+# no_phone = "888 888 88 88"
+no_address = {street = "Ayashichuo, Aoba-ku", city = "Sendai", region = "Miyagi", postcode = "989-3128", country = "Japan", country_code = "JP"}
+no_coordinates = {latitude = "38.2728", longitude = "140.761462"}
+
+# Oita contact details. To hide a field, clear it to "".
+oita_website = "https://ywamsendai.org"
+oita_email = "info@ywamsendai.org"
+# oita_phone = "888 888 88 88"
+oita_address = {street = "Ayashichuo, Aoba-ku", city = "Sendai", region = "Miyagi", postcode = "989-3128", country = "Japan", country_code = "JP"}
+oita_coordinates = {latitude = "38.2728", longitude = "140.761462"}
+
+# Okinawa contact details. To hide a field, clear it to "".
+okinawa_website = "https://ywamsendai.org"
+okinawa_email = "info@ywamsendai.org"
+# okinawa_phone = "888 888 88 88"
+okinawa_address = {street = "Ayashichuo, Aoba-ku", city = "Sendai", region = "Miyagi", postcode = "989-3128", country = "Japan", country_code = "JP"}
+okinawa_coordinates = {latitude = "38.2728", longitude = "140.761462"}
 
 # Sendai contact details. To hide a field, clear it to "".
 sendai_website = "https://ywamsendai.org"
 sendai_email = "info@ywamsendai.org"
 # sendai_phone = "888 888 88 88"
- sendai_address = {street = "Ayashichuo, Aoba-ku", city = "Sendai", region = "Miyagi", postcode = "989-3128", country = "Japan", country_code = "JP"}
- sendai_coordinates = {latitude = "38.2728", longitude = "140.761462"}
+sendai_address = {street = "Ayashichuo, Aoba-ku", city = "Sendai", region = "Miyagi", postcode = "989-3128", country = "Japan", country_code = "JP"}
+sendai_coordinates = {latitude = "38.2728", longitude = "140.761462"}
+
+# Takatsuki contact details. To hide a field, clear it to "".
+takatsuki_website = "https://ywamsendai.org"
+takatsuki_email = "info@ywamsendai.org"
+# takatsuki_phone = "888 888 88 88"
+takatsuki_address = {street = "Ayashichuo, Aoba-ku", city = "Sendai", region = "Miyagi", postcode = "989-3128", country = "Japan", country_code = "JP"}
+takatsuki_coordinates = {latitude = "38.2728", longitude = "140.761462"}
+
+# Tokyo contact details. To hide a field, clear it to "".
+tokyo_website = "https://ywamsendai.org"
+tokyo_email = "info@ywamsendai.org"
+# tokyo_phone = "888 888 88 88"
+tokyo_address = {street = "Ayashichuo, Aoba-ku", city = "Sendai", region = "Miyagi", postcode = "989-3128", country = "Japan", country_code = "JP"}
+tokyo_coordinates = {latitude = "38.2728", longitude = "140.761462"}
 
 ############################
 ## Social
