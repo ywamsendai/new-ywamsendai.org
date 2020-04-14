@@ -18,7 +18,7 @@ height = "calc(100vh - 70px)"
 [[item]]
   title = "To know God and make Him known."
   content = "Reach the unreached millions in Japan."
-  align = "center"  # Choose `center`, `left`, or `right`.
+  align = "left"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
