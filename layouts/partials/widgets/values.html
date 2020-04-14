@@ -11,7 +11,7 @@
     {{ with $page.Content }}{{ . }}{{ end }}
 
     {{ if $page.Params.item }}
-    {{ range $idx, $key := sort $page.Params.item ".title" "desc" }}
+    {{ range $idx, $key := sort $page.Params.item ".title" "asc" }}
       <div class="card experience course">
         <div class="card-body">
 

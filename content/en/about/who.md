@@ -49,7 +49,7 @@ subtitle = "Who We Are"
  css_class = ""
 +++
 
-# Youth With A Mission is a global movement of Christians from many cultures, age groups and Christian traditions, dedicated to serving Jesus throughout the world.
+## Youth With A Mission is a global movement of Christians from many cultures, age groups and Christian traditions, dedicated to serving Jesus throughout the world.
 
 Also known as YWAM (pronounced “WHY-wham”), we unite in a common purpose to know God and to make Him known.
 
