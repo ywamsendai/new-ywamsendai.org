@@ -2,5 +2,5 @@
 title: YWAM Okinawa
 summary: YWAM training base in Okinawa.
 type: "widget_page"
-tags: ["OkinawaRegion", "Location"]
+tags: ["Explore", "OkinawaIslands", "Location"]
 ---
