@@ -19,39 +19,39 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  title = "1. Know God"
+  title = "01. Know God"
   description = "YWAM is committed to know God, His nature, His character and His ways as revealed in the Bible, the inspired and authoritative Word of God. We seek to reflect who He is in every aspect of our lives and ministry. The automatic overflow of knowing and enjoying fellowship with God is a desire to share Him with others. (2Ki 19:19; Job 42:5; Psa 46:10; Psa 103:7-13; Jer 9:23-24; Hos 6:3; Joh 17:3; Eph 1:16-17; Php 3:7-11; 1Jo 2:4-6)."
 
 [[item]]
-  title = "2. Make God Known"
+  title = "02. Make God Known"
   description = "YWAM is called to make God known throughout the whole world, and into every arena of society through evangelism, training and mercy ministries. We believe that salvation of souls should result in transformation of societies thus obeying Jesus' command to make disciples of all nations. (1Ch 16:24-27; Psa 68:11; Psa 71:15-16; Psa 145:4-7; Mat 28:18-20; Mar 16:15; Act 1:8; Act 13:1-4a; Rom 10:8-15; Rom 15:18-21)."
 
 [[item]]
-  title = "3. Hear God’s Voice"
+  title = "03. Hear God’s Voice"
   description = "YWAM is committed to creating with God through listening to Him, praying His prayers and obeying His commands in matters great and small. We are dependent upon hearing His voice as individuals, together in team contexts and in larger corporate gatherings, as an integral part of our process for decision making. (1Sa 3:7-10; 2Ch 15:2-4; Psa 25:14; Isa 6:8; Amo 3:7; Luk 9:35; Joh 10:1-5; Joh 16:13-15; Heb 3:7-8,15; Rev 2:7,11,17,27; 3:6,13,22)."
 
 [[item]]
-  title = "4. Practice Worship and Intercessory Prayer"
+  title = "04. Practice Worship and Intercessory Prayer"
   description = "YWAM is dedicated to worship Jesus and engage in intercessory prayer as integral aspects of daily life. We also recognize the intent of Satan to destroy the work of God and we call upon God's power and the Holy Spirit to overcome his strategies in the lives of individuals and in the affairs of nations. (1Sa 7:5; 2Ch 7:4; Psa 84:1-8; Psa 95:6-7; Psa 100:1-5; Mar 11:24-25; Act 1:14; Eph 6:13-20; 1Th 5:16-19; 1Ti 2:1-4)."
 
 [[item]]
-  title = "5. Be Visionary"
+  title = "05. Be Visionary"
   description = "YWAM is called to be visionary, continually receiving, nurturing and releasing fresh vision from God. We support the pioneering of new ministries and methods, always willing to be radical in order to be relevant to every generation, people group, and sphere of society. We believe that the apostolic call of YWAM requires the integration of spiritual eldership, freedom in the Spirit and relationship, centred on the Word of God. (Num 12:6; 1Sa 12:16; Pro 29:18; Eze 1:1; Hab 2:2-3; Mar 1:35-39; Luk 9:1-6; Act 16:9-10; Act 26:19; 2Pe 3:9-13)."
 
 [[item]]
-  title = "6. Champion Young People"
+  title = "06. Champion Young People"
   description = "YWAM is called to champion youth. We believe God has gifted and called young people to spearhead vision and ministry. We are committed to value, trust, train, support, make space and release them. They are not only the Church of the future; they are the Church of today. We commit to follow where they lead, in the will of God. (1Sa 17:32-50; Ecc 4:13-14; Ecc 12:1-7; Jer 1:5-10; Dan 1:17-20; Joe 2:28; Joh 6:9; Act 16:1-5; 1Ti 4:12-16; 1Jo 2:12-14)."
 
 [[item]]
-  title = "7. Be Broad-structured and Decentralized"
+  title = "07. Be Broad-structured and Decentralized"
   description = "YWAM is broad-structured and diverse, yet integrated. We are a global family of ministries held together by shared foundational covenants, purpose, vision, values and relationships. We believe that structures should serve the people and the purposes of God. Every ministry at every level has the privilege and responsibility of accountability to a circle of recognized spiritual elders. (Exo 18:13-26; Num 1:16-19; Num 11:16-17,24-30; Deu 29:10-13; Jos 23:1-24:28; Act 14:23; Act 15:1-31; 1Co 3:4-11; Tit 1:5-9; Heb 13:7,17)."
 
 [[item]]
-  title = "8. Be International and Interdenominational"
+  title = "08. Be International and Interdenominational"
   description = "YWAM is international and interdenominational in its global scope as well as its local constituency. We believe that ethnic, linguistic and denominational diversity, along with redeemed aspects of culture, are positive factors that contribute to the health and growth of the Mission. (Gen 12:1-4; Gen 26:2-5; Psa 57:9-10; Jer 32:27; Dan 7:13-14; Act 20:4; 1Co 12:12-31; Eph 4:1-16; Col 3:11; Rev 7:9)."
 
 [[item]]
-  title = "9. Have a Biblical Christian Worldview"
+  title = "09. Have a Biblical Christian Worldview"
   description = "YWAM is called to a Biblical Christian worldview. We believe that the Bible – the textbook for all of life – makes a clear division between good and evil; right and wrong. The practical dimensions of life are no less spiritual than the ministry expressions. Everything done in obedience to God is spiritual. We seek to honour God with all that we do, equipping and mobilizing men and women of God to take roles of service and influence in every arena of society. (Deu 8:1-3; Deu 32:45-47; 2Ki 22:8; Psa 19:7-11; Luk 8:21; Joh 8:31-32; Php 4:8-9; 2Ti 3:16-17; Heb 4:12-13; Jam 4:17)."
 
 [[item]]
