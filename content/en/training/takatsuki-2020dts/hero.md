@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "2020 Discipleship Training School"
+title = "2021 Discipleship Training School"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 # hero_media = "hero-academic.png"
@@ -24,7 +24,7 @@ title = "2020 Discipleship Training School"
   gradient_end = "#2b94c3"
 
   # Background image.
-  image = "takatsuki.jpg"  # Name of image in `static/img/`.
+  image = "sendai.jpeg"  # Name of image in `static/img/`.
   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
@@ -37,8 +37,8 @@ title = "2020 Discipleship Training School"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "/location/takatsuki"
-  label = "YWAM Takatsuki, North Osaka, Kansai"
+  url = "/location/sendai"
+  label = "YWAM Sendai, Miyagi, Tohoku"
 #   icon_pack = "fas"
 #   icon = "download"
 
@@ -51,4 +51,4 @@ title = "2020 Discipleship Training School"
   # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-23 September 2020
+April 2021
