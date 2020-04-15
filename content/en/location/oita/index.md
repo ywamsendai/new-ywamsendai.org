@@ -1,6 +1,6 @@
 ---
 title: YWAM Oita
-summary: New YWAM base in Oita
+summary: Location | Oita City, Oita, Kyushu
 type: "widget_page"
 tags: ["Explore", "Kyushu", "Location"]
 ---

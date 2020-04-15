@@ -1,6 +1,6 @@
 ---
 title: YWAM Japan National Office
-summary: The national office of YWAM Japan
+summary: Location | Taito City, East Tokyo, Kanto
 type: "widget_page"
 tags: ["Explore", "Kanto", "Location"]
 ---

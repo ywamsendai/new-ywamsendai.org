@@ -1,6 +1,6 @@
 ---
 title: YWAM Niseko
-summary: New training base in Hokkaido.
+summary: Location | Niseko Town, Abuta District, Hokkaido
 type: "widget_page"
 tags: ["Explore", "Hokkaido", "Location"]
 ---

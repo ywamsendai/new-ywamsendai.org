@@ -1,6 +1,6 @@
 ---
 title: YWAM Kobe
-summary: New YWAM location in Kobe.
+summary: Location | Kobe City, Hyogo, Kansai
 type: "widget_page"
 tags: ["Explore", "Kansai", "Location"]
 ---

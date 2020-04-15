@@ -1,6 +1,6 @@
 ---
-title: YWAM Osaka
-summary: Located halfway in between Osaka and Kyoto, Takatsuki sits right next to two of the five biggest cities on Japan.
+title: 大阪ワイワム
+summary: 場所　｜　関西、大阪北、高槻市
 type: "widget_page"
 tags: ["Explore", "Kansai", "Location"]
 ---
