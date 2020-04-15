@@ -38,7 +38,7 @@ title = "弟子訓練学校２０２０年"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "/location/takatsuki"
-  label = "YWAM Osaka, North Osaka"
+  label = "大阪ワイワム、大阪北"
 #   icon_pack = "fas"
 #   icon = "download"
 

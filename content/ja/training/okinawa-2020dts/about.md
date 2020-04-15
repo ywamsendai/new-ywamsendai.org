@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Overview"
+title = "概要"
 # subtitle = ""
 
 [design]
@@ -49,17 +49,16 @@ title = "Overview"
  css_class = ""
 +++
 
-Bilingual Korean and Japanese DTS.
 
-[Visit Website](https://www.ywamokinawa.org/dts/)
+[ホームページへ](https://www.ywamokinawa.org/dts/)
 
-## Details
+## 明細
 
-* **UofN Code:** DSP 211/212
+* **UofNコード：** DSP 211/212
 * **Start date:** 8 September 2020
 * **Length:** 24 Weeks
-* **Language(s):** Korean, Japanese
+* **言語：** 日本語、韓国語
 * **Outreach Locations:** N/A
 * **Related Passion:** N/A
-* **Omega Zone & Region:** Okinawa, Okinawa Islands
-* **Last Updated:** 2020-04-14
+* **領域とオメガゾーン：** 沖縄・沖縄
+* **最終更新：** 2020-04-15

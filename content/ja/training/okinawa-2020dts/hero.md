@@ -38,7 +38,7 @@ title = "日韓DTS"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "/location/okinawa"
-  label = "YWAM Okinawa, Okinawa"
+  label = "沖縄ワイワム、沖縄"
 #   icon_pack = "fas"
 #   icon = "download"
 

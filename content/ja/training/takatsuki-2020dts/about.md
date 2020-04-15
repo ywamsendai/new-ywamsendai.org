@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Overview"
+title = "概要"
 # subtitle = ""
 
 [design]
@@ -59,15 +59,15 @@ Then DTS might be for you!
 
 The Discipleship Training School (DTS) is a six month Christian course designed to help you grow and equip your walk with God. The purpose of DTS is to increase your intimate relationship with Him, so that you can live out a missional lifestyle wherever you are in the world.
 
-[Visit Website](https://www.ywamtakatsuki.org/dts)
+[ホームページへ](https://www.ywamtakatsuki.org/dts)
 
-## Details
+## 明細
 
-* **UofN Code:** DSP 211/212
+* **UofNコード：** DSP 211/212
 * **Start date:** 23 September 2020
 * **Length:** 22 Weeks
-* **Language(s):** English
+* **言語：** 英語
 * **Outreach Locations:** N/A
 * **Related Passion:** N/A
-* **Omega Zone & Region:** North Osaka, Kansai
-* **Last Updated:** 2020-04-14
+* **領域とオメガゾーン：** 関西・大阪北
+* **最終更新：** 2020-04-15
