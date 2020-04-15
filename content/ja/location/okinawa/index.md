@@ -1,11 +1,6 @@
 ---
-title: Youth With A Mission Okinawa
-subtitle: Uruma City, Okinawa
-summary: YWAM training base in Okinawa.
+title: 沖縄ワイワム
+summary: 沖縄県うるま市
 type: "widget_page"
-tags: ["Okinawa", "Location"]
+tags: ["Explore", "OkinawaIslands", "Location"]
 ---
-
-Tel：098-937-9027　
-Email. ywamokinawa@gmail.com
-Website. http://www.ywamokinawa.org/

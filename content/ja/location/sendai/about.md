@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Who We Are"
-subtitle = "Youth With A Mission Japan"
+title = "Overview"
+subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -22,18 +22,18 @@ subtitle = "Youth With A Mission Japan"
 
   # Background color.
   color = "white"
-  
+
   # Background gradient.
   # gradient_start = "DarkGreen"
   # gradient_end = "ForestGreen"
-  
+
   # Background image.
   # image = "image.jpg"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   # image_position = "center"  # Options include `left`, `center` (default), or `right`.
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
-  
+
   # Text color (true=light or false=dark).
   text_color_light = false
 
@@ -42,18 +42,21 @@ subtitle = "Youth With A Mission Japan"
   padding = ["20px", "0", "20px", "0"]
 
 [advanced]
- # Custom CSS. 
+ # Custom CSS.
  css_style = ""
- 
+
  # CSS class.
  css_class = ""
 +++
-
-{{< youtube kTmWDvEoNMM >}}
 
 With a population of over a million people, Sendai is the largest city in North-East Japan. We desire to see a community of people established in this city that will love God and make Him known to the 99% of the population that don’t yet know Him. Please pray for us, partner with us or even consider joining us!
 
 As Tohoku is a large region that is mostly unreached by the gospel, we want to see a YWAM community pioneered in all of the six prefectures. Therefore, it is our heart to not only grow as a community in Sendai, but also to champion and release our members to spread God’s work through YWAM in surrounding areas from an early stage. Many smaller YWAM communities are more effective than just one large base!
 
-Email: info@ywamsendai.org
-Website: ywamsendai.org
+[Visit Website](https://ywamsendai.org)
+
+## Details
+
+* **Language(s):** English, Japanese (transitioning)
+* **Omega Zone & Region:** Miyagi, Tohoku
+* **Last Updated:** 2020-04-13
