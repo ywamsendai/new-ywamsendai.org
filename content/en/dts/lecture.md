@@ -12,7 +12,7 @@ subtitle = "Lecture Phase"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -48,6 +48,8 @@ subtitle = "Lecture Phase"
  # CSS class.
  css_class = ""
 +++
+
+{{< figure library="true" src="lecture.jpg" title="Lecture" lightbox="true" >}}
 
 **The Discipleship Training School (DTS) lecture phase provides classroom learning, community-bonding, and heart change. It’s a chance to have your perspectives altered and your view of God deepened.**
 

@@ -12,7 +12,7 @@ subtitle = "Outreach Phase"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -48,6 +48,8 @@ subtitle = "Outreach Phase"
  # CSS class.
  css_class = ""
 +++
+
+{{< figure library="true" src="outreach.JPG" title="Outreach" lightbox="true" >}}
 
 **During the Discipleship Training School (DTS) outreach phase, you will join with others to take the message and love of God across the world. You will learn about the diversity of cultures and will participate in God’s purposes for the places you visit.**
 
