@@ -51,6 +51,6 @@ subtitle = "How to Apply"
 
 Apply for the DTS at over 600 YWAM locations all over the world. Many offer a special focus on a specific interest, an area of service, or a nation.
 
-If you would like to apply for the DTS in Japan, please explore what we have available on our (homepage)[../#explore].
+If you would like to apply for the DTS in Japan, please explore what we have available on our [homepage](../#explore).
 
-For more information about DTS, including finding the DTS all over the world, please visit (YWAM.org)[https://ywam.org/dts/].
+For more information about DTS, including finding the DTS all over the world, please visit [YWAM.org](https://ywam.org/dts).
