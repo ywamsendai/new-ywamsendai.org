@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Intensive Training"
-subtitle = "What is a Discipleship Training School"
+title = "Pray for God to lead you as you explore."
+subtitle = "How to Apply"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -49,6 +49,8 @@ subtitle = "What is a Discipleship Training School"
  css_class = ""
 +++
 
-The DTS is a six month program blending classroom learning, small group activities, personal reflection, practical service, and community living.
+Apply for the DTS at over 600 YWAM locations all over the world. Many offer a special focus on a specific interest, an area of service, or a nation.
 
-Most often, the training comes in two parts: lecture phase and outreach phase.
+If you would like to apply for the DTS in Japan, please explore what we have available on our (homepage)[../#explore].
+
+For more information about DTS, including finding the DTS all over the world, please visit (YWAM.org)[https://ywam.org/dts/].

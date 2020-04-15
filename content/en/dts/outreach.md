@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Intensive Training"
-subtitle = "What is a Discipleship Training School"
+title = "Know God more."
+subtitle = "Lecture Phase"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -49,6 +49,4 @@ subtitle = "What is a Discipleship Training School"
  css_class = ""
 +++
 
-The DTS is a six month program blending classroom learning, small group activities, personal reflection, practical service, and community living.
-
-Most often, the training comes in two parts: lecture phase and outreach phase.
+In the lecture phase your focus will be on knowing God, His Word and His world. You will seek transformation, a renewed mind, and personal growth. You’ll learn not only from teachers but also from community living and practical training.
