@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "Training"
+title = "学校"
 subtitle = ""
 
 [content]
@@ -22,7 +22,7 @@ subtitle = ""
   filter_default = 0
 
   [[content.filter_button]]
-    name = "All"
+    name = "すべて"
     tag = "NO"
 
   # [[content.filter_button]]

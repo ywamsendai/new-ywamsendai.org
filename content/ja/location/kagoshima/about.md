@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Overview"
+title = "概要"
 subtitle = ""
 
 [design]
@@ -53,8 +53,10 @@ Southern part of Kyushu Island in Japan.
 
 Hope Chapel church planting team.
 
-## Details
+[ホームページへ](http://hopekago.luna.weblife.me/index.html)
 
-* **Language(s):** Korean, Japanese, English
-* **Omega Zone & Region:** Kagoshima, Kyushu
-* **Last Updated:** 2020-04-13
+## 明細
+
+* **言語：** 日本語、韓国語、英語
+* **領域とオメガゾーン：** 九州・鹿児島
+* **最終更新：** 2020-04-15

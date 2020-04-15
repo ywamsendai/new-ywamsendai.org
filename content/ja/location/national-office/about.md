@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Overview"
+title = "概要"
 subtitle = ""
 
 [design]
@@ -49,10 +49,10 @@ subtitle = ""
  css_class = ""
 +++
 
-[Visit Website](http://ywamjpoffice.blogspot.com)
+[ホームページへ](http://ywamjpoffice.blogspot.com)
 
-## Details
+## 明細
 
-* **Language(s):** Japanese, English
-* **Omega Zone & Region:** East Tokyo, Kanto
-* **Last Updated:** 2020-04-13
+* **言語：** 日本語、英語
+* **領域とオメガゾーン：** 関東・東京東
+* **最終更新：** 2020-04-15

@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Overview"
+title = "概要"
 subtitle = ""
 
 [design]
@@ -51,10 +51,10 @@ subtitle = ""
 
 We are an international community of people settled in Tokyo, Japan, to build an altar of worship to the Lord. We desire to love God and love people by seeking intimate relationship with God - Father, Son, and Holy Spirit - as well as His Word, living in wholehearted relationship with others, and championing the Kingdom of God around us.
 
-[Visit Website](https://ywamtokyo.org)
+[ホームページへ](https://ywamtokyo.org)
 
-## Details
+## 明細
 
-* **Language(s):** English, Japanese (transitioning)
-* **Omega Zone & Region:** Central Tokyo, Kanto
-* **Last Updated:** 2020-04-13
+* **言語：** 英語、日本語
+* **領域とオメガゾーン：** 関東・東京中央
+* **最終更新：** 2020-04-15

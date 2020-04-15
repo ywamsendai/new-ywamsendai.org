@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Overview"
+title = "概要"
 subtitle = ""
 
 [design]
@@ -52,9 +52,8 @@ subtitle = ""
 Shekinah Christian Fellowship
 Team: Glynis Osborne, Judith Cassell
 
+## 明細
 
-## Details
-
-* **Language(s):** English, Japanese
-* **Omega Zone & Region:** Nagano, Hokuriku-Shinetsu
-* **Last Updated:** 2020-04-13
+* **言語：** 英語、日本語
+* **領域とオメガゾーン：** 北陸信越地区・長野
+* **最終更新：** 2020-04-15

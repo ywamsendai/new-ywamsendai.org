@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Overview"
+title = "概要"
 subtitle = ""
 
 [design]
@@ -51,10 +51,10 @@ subtitle = ""
 
 The YWAM centre in Kanmaki Town is located in the district of Takatsuki, in Osaka Prefecture. We are half-way between Osaka City and Kyoto. The closest international airport is Osaka-Kansai (KIX). Contact us for information about joining us as long or short term staff, coming on outreach, or about DTS!
 
-[Visit Website](https://www.ywamtakatsuki.org)
+[ホームページへ](https://www.ywamtakatsuki.org)
 
-## Details
+## 明細
 
-* **Language(s):** English, Japanese (transitioning)
-* **Omega Zone & Region:** North Osaka, Kansai
-* **Last Updated:** 2020-04-13
+* **言語：** 英語、日本語
+* **領域とオメガゾーン：** 関西・大阪北
+* **最終更新：** 2020-04-15

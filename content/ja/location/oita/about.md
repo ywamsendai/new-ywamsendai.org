@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Overview"
+title = "概要"
 subtitle = ""
 
 [design]
@@ -52,8 +52,8 @@ subtitle = ""
 New YWAM location in Oita.
 
 
-## Details
+## 明細
 
-* **Language(s):** English
-* **Omega Zone & Region:** Oita, Kyushu
-* **Last Updated:** 2020-04-13
+* **言語：** 英語
+* **領域とオメガゾーン：** 九州・大分
+* **最終更新：** 2020-04-15

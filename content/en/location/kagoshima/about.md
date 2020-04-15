@@ -53,6 +53,8 @@ Southern part of Kyushu Island in Japan.
 
 Hope Chapel church planting team.
 
+[Visit Website](http://hopekago.luna.weblife.me/index.html)
+
 ## Details
 
 * **Language(s):** Korean, Japanese, English

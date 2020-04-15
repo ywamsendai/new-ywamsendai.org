@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Overview"
+title = "概要"
 subtitle = ""
 
 [design]
@@ -51,8 +51,8 @@ subtitle = ""
 
 New YWAM location in Kobe.
 
-## Details
+## 明細
 
-* **Language(s):** Chinese, English
-* **Omega Zone & Region:** Hyogo, Kansai
-* **Last Updated:** 2020-04-13
+* **言語：** 中国語、英語
+* **領域とオメガゾーン：** 関西・兵庫
+* **最終更新：** 2020-04-15

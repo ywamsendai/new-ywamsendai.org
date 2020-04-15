@@ -51,4 +51,4 @@ title = "Azumino CP Team"
   # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-Azumino City, Nagano Prefecture, Hokuriku-Shinetsu, Japan
+北陸信越地区、長野、安曇野市

@@ -50,7 +50,6 @@ subtitle = ""
 +++
 
 
-
 [ホームページへ](https://www.ywamokinawa.org/)
 
 ## 明細

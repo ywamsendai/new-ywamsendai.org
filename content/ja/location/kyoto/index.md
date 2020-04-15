@@ -1,6 +1,6 @@
 ---
-title: YWAM Kyoto
-summary: New YWAM location in Kyoto.
+title: 京都ワイワム
+summary: 場所　｜　関西、京都、京都市
 type: "widget_page"
 tags: ["Explore", "Kansai", "Location"]
 ---
