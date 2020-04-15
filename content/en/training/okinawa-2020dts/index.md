@@ -1,7 +1,6 @@
 ---
 title: Japanese / Korean DTS
-subtitle: 8 Sep 2020 | Uruma City, Okinawa
-summary: 2020 Japanese / Korean DTS at YWAM Okinawa
+summary: 8 Sep 2020 | Uruma City, Okinawa
 type: "widget_page"
 tags: ["Explore", "Okinawa", "Training", "DTS"]
 ---
