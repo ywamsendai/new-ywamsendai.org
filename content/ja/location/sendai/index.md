@@ -1,6 +1,6 @@
 ---
-title: "YWAM Sendai"
-summary: "With a population of over a million people, Sendai is the largest city in North-East Japan."
+title: "仙台ワイワム"
+summary: "東北・宮城県・仙台市"
 type: "widget_page"
 tags: ["Explore", "Tohoku", "Location"]
 ---
