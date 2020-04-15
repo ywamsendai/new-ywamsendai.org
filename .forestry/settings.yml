@@ -29,6 +29,18 @@ sections:
   create: all
   match: "**/*"
 - type: heading
+  label: DTS
+- type: directory
+  path: content/en/dts
+  label: DTS (En)
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/ja/dts
+  label: DTS (Ja)
+  create: all
+  match: "**/*"
+- type: heading
   label: Location
 - type: directory
   path: content/en/location
