@@ -4,4 +4,5 @@ subtitle: Spring/Summer 2021 | Sendai City, Miyagi
 summary: First ever English-Japanese DTS in Tohoku!
 type: "widget_page"
 tags: ["Explore", "Tohoku", "Sendai", "Training", "DTS"]
+draft: true
 ---
