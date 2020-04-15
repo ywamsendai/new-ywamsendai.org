@@ -51,4 +51,4 @@ title = "YWAM Japan National Office"
   # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-Taito City, Tokyo, Kanto, Japan
+Taito City, East Tokyo, Kanto, Japan

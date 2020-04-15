@@ -51,4 +51,4 @@ title = "YWAM Oita"
   # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-Oita City, Oita Prefecture, Kyushu, Japan
+Oita City, Oita, Kyushu, Japan

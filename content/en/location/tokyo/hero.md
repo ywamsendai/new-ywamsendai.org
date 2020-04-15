@@ -51,4 +51,4 @@ title = "YWAM Tokyo"
   # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-Higashikurume City, Tokyo, Kanto, Japan
+Higashikurume City, Central Tokyo, Kanto, Japan

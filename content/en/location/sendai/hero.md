@@ -51,4 +51,4 @@ title = "YWAM Sendai"
   # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-Sendai City, Miyagi Prefecture, Tohoku, Japan
+Sendai City, Miyagi, Tohoku, Japan

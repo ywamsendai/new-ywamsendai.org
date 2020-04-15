@@ -38,7 +38,7 @@ title = "2020 Discipleship Training School"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "/location/takatsuki"
-  label = "YWAM Osaka, North Osaka, Kansai"
+  label = "YWAM Osaka, North Osaka"
 #   icon_pack = "fas"
 #   icon = "download"
 

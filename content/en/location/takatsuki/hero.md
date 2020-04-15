@@ -51,4 +51,4 @@ title = "YWAM Osaka"
   # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-Takatsuki City, Osaka Prefecture, Kansai, Japan
+Takatsuki City, North Osaka, Kansai, Japan

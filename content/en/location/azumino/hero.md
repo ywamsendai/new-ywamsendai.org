@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "Azumino CP Team"
+title = "Azumino Church Planting Team"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 # hero_media = "hero-academic.png"
@@ -51,4 +51,4 @@ title = "Azumino CP Team"
   # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-Azumino City, Nagano Prefecture, Hokuriku-Shinetsu, Japan
+Azumino City, Nagano, Hokuriku-Shinetsu, Japan

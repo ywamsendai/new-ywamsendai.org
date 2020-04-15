@@ -38,7 +38,7 @@ title = "2021 Discipleship Training School"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "/location/sendai"
-  label = "YWAM Sendai, Miyagi, Tohoku"
+  label = "YWAM Sendai, Miyagi"
 #   icon_pack = "fas"
 #   icon = "download"
 

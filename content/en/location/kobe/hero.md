@@ -51,4 +51,4 @@ title = "YWAM Kobe"
   # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-Kobe City, Hyogo Prefecture, Kansai, Japan
+Kobe City, Hyogo, Kansai, Japan
