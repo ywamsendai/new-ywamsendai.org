@@ -31,7 +31,7 @@ height = "calc(100vh - 70px)"
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "探る"
   cta_url = "#explore"
-  # cta_icon_pack = "fas"
-  # cta_icon = "graduation-cap"
+  cta_icon_pack = "fas"
+  cta_icon = "compass"
 
 +++

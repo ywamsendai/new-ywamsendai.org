@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "私たちについて"
+title = "Meet real needs with the love of Jesus."
 subtitle = "日本ワイワム"
 
 [design]
@@ -51,4 +51,4 @@ subtitle = "日本ワイワム"
 
 YWAM is a global movement, full of young people who are driven by a passion to know God and make Him known. We have been making waves here in Japan since 1975.
 
-[私たちについて](/about/)
+[私たちについて]({{< ref "/about/index.md" >}})
