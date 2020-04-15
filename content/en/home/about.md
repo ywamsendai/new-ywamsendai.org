@@ -51,4 +51,4 @@ subtitle = "Youth With A Mission Japan"
 
 YWAM is a global movement, full of young people who are driven by a passion to know God and make Him known. We have been making waves here in Japan since 1975.
 
-[Who we are](/about/)
+[Who we are](/about)
