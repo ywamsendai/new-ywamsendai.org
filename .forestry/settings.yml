@@ -4,38 +4,64 @@ auto_deploy: false
 admin_path:
 webhook_url:
 sections:
-- type: directory
-  path: content/home
+- type: heading
   label: Home
+- type: directory
+  path: content/en/home
+  label: Home (En)
   create: all
   match: "**/*"
 - type: directory
-  path: content/post
-  label: Blog posts
+  path: content/ja/home
+  label: Home (Ja)
   create: all
   match: "**/*"
-  templates:
-  - blog-post
+- type: heading
+  label: About
 - type: directory
-  path: content/project
-  label: Projects
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/talk
-  label: Events
-  create: all
-  match: "**/*"
-  templates:
-    - event
-- type: directory
-  path: content/publication
-  label: Publications
+  path: content/en/about
+  label: About (En)
   create: all
   match: "**/*"
 - type: directory
-  path: content
-  label: Pages
+  path: content/ja/about
+  label: About (Ja)
+  create: all
+  match: "**/*"
+- type: heading
+  label: Location
+- type: directory
+  path: content/en/location
+  label: Location (En)
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/ja/location
+  label: Location (Ja)
+  create: all
+  match: "**/*"
+- type: heading
+  label: Training
+- type: directory
+  path: content/en/training
+  label: Training (En)
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/ja/training
+  label: Training (Ja)
+  create: all
+  match: "**/*"
+- type: heading
+  label: Other Pages
+- type: directory
+  path: content/en
+  label: Pages (En)
+  create: all
+  match: "*"
+- type: directory
+  path: content/ja
+  label: Pages (Ja)
   create: all
   match: "*"
 upload_dir: static/img
