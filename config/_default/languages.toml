@@ -15,6 +15,16 @@
   [ja.params]
 #    description = "Site description in Japanese..."
   [[ja.menu.main]]
-    name = "について"
-    url = "#about"
+    name = "探す"
+    url = "#explore"
     weight = 10
+
+  [[ja.menu.main]]
+    name = "弟子訓練学校（DTS）"
+    url = "/dts"
+    weight = 20
+
+  [[ja.menu.main]]
+    name = "について"
+    url = "/about"
+    weight = 30
