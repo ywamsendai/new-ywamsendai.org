@@ -40,8 +40,8 @@ title = "10. チームとして機能する"
 description = "上位に立つリーダーよりも仕えるリーダーシップを実践することに召されている。仕えるリーダーは、自分が責任を担っている人たちの賜物と召命を尊重し、彼らの権利と特権を保護する者である。イエスが弟子達に仕えたように、リーダー達は彼らが導いている人々に仕えることを求められる。 (Deu 10:12-13; Psa 84:10; Isa 42:1-4; Mic 6:8; Mar 10:42-45; Joh 13:3-17; Rom 16:1-2; Gal 5:13-14; Php 2:3-11; 1Pe 4:10-11)."
 title = "11. 仕えるリーダーシップを示す"
 [[item]]
-description = "YWAM is committed to doing first, then teaching. We believe that first-hand experience gives authority to our words. Godly character and a call from God are more important than an individual's gifts, abilities and expertise. (Deu 4:5-8; Ezr 7:10; Psa 51:12-13; Psa 119:17-18; Pro 1:1-4; Mat 7:28-29; Act 1:1-2; Col 3:12-17; 2Ti 4:1-5; 2Pe 1:5-10)."
-title = "12. Do First, Then Teach"
+description = "まず自ら実践しそれから人に教えることに献身する。自分が直接体験したことが、語る言葉に権威を与えると信じる。敬虔な品性と神からの召命は、個々人に与えられた賜物・能力・専門的知識や意見、技術よりも重要であると信じる。(Deu 4:5-8; Ezr 7:10; Psa 51:12-13; Psa 119:17-18; Pro 1:1-4; Mat 7:28-29; Act 1:1-2; Col 3:12-17; 2Ti 4:1-5; 2Pe 1:5-10)."
+title = "12. まず行い、それから教える"
 [[item]]
 description = "YWAM is dedicated to being relationship-oriented in our living and working together. We desire to be united through lives of holiness, mutual support, transparency, humility, and open communication, rather than a dependence on structures or rules. (Lev 19:18; Psa 133:1-3; Pro 17:17; Pro 27:10; Joh 13:34-35; Joh 15:13-17; Joh 17:20-23; Rom 13:8-10; 1Jo 1:7; 1Jo 4:7-12)."
 title = "13. Be Relationship-oriented"
