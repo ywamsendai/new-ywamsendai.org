@@ -11,8 +11,6 @@ header:
   image: ""
 ---
 
-# Privacy Notice
-
 The following are Youth With A Mission (YWAM) Japan’s statements in regard to privacy, honesty, security, links, trademarks, and copyrights.
 
 ## Privacy
