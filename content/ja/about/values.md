@@ -16,8 +16,8 @@ title = "02. 神を知らせる"
 description = "神の御声を聴きながら、神と共に創り出すことに献身する。神の祈りを自分の祈りとし、大小全てのことにおいて神の命じておられることに従う。私たちは神の御声を聴くことに依り頼む。個人としても、チームとしても、そしてより大きな集まりの中でも、神の御声を聴くことは決断の過程における不可欠なものである。 (1Sa 3:7-10; 2Ch 15:2-4; Psa 25:14; Isa 6:8; Amo 3:7; Luk 9:35; Joh 10:1-5; Joh 16:13-15; Heb 3:7-8,15; Rev 2:7,11,17,27; 3:6,13,22)."
 title = "03. 神の御声を聞く"
 [[item]]
-description = "YWAM is dedicated to worship Jesus and engage in intercessory prayer as integral aspects of daily life. We also recognize the intent of Satan to destroy the work of God and we call upon God's power and the Holy Spirit to overcome his strategies in the lives of individuals and in the affairs of nations. (1Sa 7:5; 2Ch 7:4; Psa 84:1-8; Psa 95:6-7; Psa 100:1-5; Mar 11:24-25; Act 1:14; Eph 6:13-20; 1Th 5:16-19; 1Ti 2:1-4)."
-title = "04. Practice Worship and Intercessory Prayer"
+description = "日々の生活における不可欠な要素として、イエスを礼拝し、とりなしの祈りを行うことに献身する。サタンが神の働きを攻撃してくることを認識し、個人の生活や国々の情勢に及ぶ敵の策略を打ち砕くため、聖霊の力を呼び求める。(1Sa 7:5; 2Ch 7:4; Psa 84:1-8; Psa 95:6-7; Psa 100:1-5; Mar 11:24-25; Act 1:14; Eph 6:13-20; 1Th 5:16-19; 1Ti 2:1-4)."
+title = "04. 礼拝ととりなしの祈りを実践する"
 [[item]]
 description = "YWAM is called to be visionary, continually receiving, nurturing and releasing fresh vision from God. We support the pioneering of new ministries and methods, always willing to be radical in order to be relevant to every generation, people group, and sphere of society. We believe that the apostolic call of YWAM requires the integration of spiritual eldership, freedom in the Spirit and relationship, centred on the Word of God. (Num 12:6; 1Sa 12:16; Pro 29:18; Eze 1:1; Hab 2:2-3; Mar 1:35-39; Luk 9:1-6; Act 16:9-10; Act 26:19; 2Pe 3:9-13)."
 title = "05. Be Visionary"
