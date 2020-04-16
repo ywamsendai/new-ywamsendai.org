@@ -34,8 +34,8 @@ title = "08. 国際的でかつ超教派"
 description = "聖書的クリスチャン世界観を持つよう召されている。聖書が善悪ーすなわち何が正しく何が間違っているかーを明確に区分けするものであると信じる。神への従順ゆえになされる全てのことは、日常生活の営みを含め全て霊的であると信じる。なすことの全てをもって神に栄誉を帰し、神の器である男性・女性が、社会のあらゆる領域で仕え、影響力を与える役割を担えるように、整え、動員する。 (Deu 8:1-3; Deu 32:45-47; 2Ki 22:8; Psa 19:7-11; Luk 8:21; Joh 8:31-32; Php 4:8-9; 2Ti 3:16-17; Heb 4:12-13; Jam 4:17)."
 title = "09. 聖書的なクリスチャン世界観を持つ "
 [[item]]
-description = "YWAM is called to function in teams in all aspects of ministry and leadership. We believe that a combination of complementary gifts, callings, perspectives, ministries and generations working together in unity at all levels of our Mission provides wisdom and safety. Seeking God's will and making decisions in a team context allows accountability and contributes to greater relationship, motivation, responsibility and ownership of the vision. (Deu 32:30-31; 2Ch 17:7-9; Pro 15:22; Ecc 4:9-12; Mar 6:7-13; Rom 12:3-10; 2Co 1:24; Eph 5:21; Php 2:1-2; 1Pe 4:8)."
-title = "10. Function in Teams"
+description = "ミニストリー、リーダーシップの全ての分野でチームとして機能するよう召されている。全てのレベルでの、相互に補い合う賜物・召命・視野・種々のミニストリーの「組み合わせ」と、異なる世代の人々が一致の中で共に働くことは、知恵と安全をもたらすと信じる。神の御心を求め、チームで決断してゆくことは、応答責任をもたらし、さらなる関係・動機・職務・ビジョンの所有へと貢献してゆくことである。 (Deu 32:30-31; 2Ch 17:7-9; Pro 15:22; Ecc 4:9-12; Mar 6:7-13; Rom 12:3-10; 2Co 1:24; Eph 5:21; Php 2:1-2; 1Pe 4:8)."
+title = "10. チームとして機能する"
 [[item]]
 description = "YWAM is called to servant leadership as a lifestyle, rather than a leadership hierarchy. A servant leader is one who honours the gifts and callings of those under his/her care and guards their rights and privileges. Just as Jesus served His disciples, we stress the importance of those with leadership responsibilities serving those whom they lead. (Deu 10:12-13; Psa 84:10; Isa 42:1-4; Mic 6:8; Mar 10:42-45; Joh 13:3-17; Rom 16:1-2; Gal 5:13-14; Php 2:3-11; 1Pe 4:10-11)."
 title = "11. Exhibit Servant Leadership"
