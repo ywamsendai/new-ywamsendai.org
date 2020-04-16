@@ -12,8 +12,9 @@
   languageCode = "ja-jp"
   contentDir = "content/ja"
   title = "日本ワイワム"
+  copyright = "ywam&reg;japan.org &copy; {year}。全著作権所有。"
   [ja.params]
-    description = "To know God and make Him known to the Japanese"
+    description = "神を知り、神を知らせる"
 
 ## Location addresses in Japanese
     azumino_address = {street = "豊科5584-1", city = "安曇野市", region = "長野県", postcode = "〒399-8205", country = "Japan", country_code = "JP"}
