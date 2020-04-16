@@ -11,10 +11,10 @@ icon = "cross"
 icon_pack = "fas"
 name = "伝道"
 [[feature]]
-description = "Our introductory course, the Discipleship Training School (YWAM DTS), is offered in many nations and languages. It’s an intensive six months of growing more like Jesus and serving Him in the world.<br /><br />Through our training programs and YWAM’s YWAM’s University of the Nations we aim to equip Christians to grow in their relationship with God and to serve others. Our courses focus on subjects like healthcare, the Bible, business development and biblical counseling."
+description = "伝道の働きをより効果的に行うために、基本的な信仰訓練コースであるDTSを、世界各国で様々な言語で開催しています。<br /><br />本拠地であるUniversity of the Nationsでは、DTSを修了後、伝道、カウンセリング、子供ミニストリー、聖書解釈などを学ぶコースに加え、芸術、メディア、医療、教育、国際人文学等の専門分野を通して宣教の働きを行う専門コースも開催しています。"
 icon = "bible"
 icon_pack = "fas"
-name = "Training"
+name = "訓練"
 [[feature]]
 description = "YWAM’s mercy ministry teams follow Jesus’ example of compassion to those in need. We operate relief and development programs in over 100 countries, working among people living in desperate circumstances.<br /><br />Our staff serve in areas such as agricultural assistance, the prevention of human trafficking, ship-based dental care, and micro-enterprise development."
 icon = "heart"
