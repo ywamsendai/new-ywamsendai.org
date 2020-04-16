@@ -51,4 +51,4 @@ title = "大分ワイワム"
   # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-九州、大分、大分市
+場所｜九州地方・大分県・大分市

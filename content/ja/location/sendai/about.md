@@ -58,5 +58,5 @@ As Tohoku is a large region that is mostly unreached by the gospel, we want to s
 ## 明細
 
 * **言語：** 英語、日本語
-* **領域とオメガゾーン：** 東北・宮城
+* **領域とオメガゾーン：** 東北地方・宮城県
 * **最終更新：** 2020-04-15

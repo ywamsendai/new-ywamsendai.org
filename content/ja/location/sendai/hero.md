@@ -51,4 +51,4 @@ title = "仙台ワイワム"
   # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-東北、宮城、仙台市
+場所｜東北地方・宮城県・仙台市

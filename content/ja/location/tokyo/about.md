@@ -56,5 +56,5 @@ We are an international community of people settled in Tokyo, Japan, to build an
 ## 明細
 
 * **言語：** 英語、日本語
-* **領域とオメガゾーン：** 関東・東京中央
+* **領域とオメガゾーン：** 関東地方・東京都心
 * **最終更新：** 2020-04-15

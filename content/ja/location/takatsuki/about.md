@@ -56,5 +56,5 @@ The YWAM centre in Kanmaki Town is located in the district of Takatsuki, in Osak
 ## 明細
 
 * **言語：** 英語、日本語
-* **領域とオメガゾーン：** 関西・大阪北
-* **最終更新：** 2020-04-15
+* **領域とオメガゾーン：** 関西地方・大阪府北部
+* **最終更新：** 2020-04-16
