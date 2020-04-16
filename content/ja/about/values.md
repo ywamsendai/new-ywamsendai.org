@@ -22,8 +22,8 @@ title = "04. 礼拝ととりなしの祈りを実践する"
 description = "神からの新鮮なビジョンを常に受け続け、成長させ、現していくことに献身する。新しいミニストリーや手段・方法を始めていくことを支援し、全ての世代・民族・社会の領域に深く関わっていくことを願う。YWAMの使徒的召命には、神の言葉を中心とした＜霊的長老制＞＜霊的な自由＞＜関係＞が必要とされていると信じる。　　(Num 12:6; 1Sa 12:16; Pro 29:18; Eze 1:1; Hab 2:2-3; Mar 1:35-39; Luk 9:1-6; Act 16:9-10; Act 26:19; 2Pe 3:9-13)."
 title = "05. 絶えずビジョンを持つ"
 [[item]]
-description = "YWAM is called to champion youth. We believe God has gifted and called young people to spearhead vision and ministry. We are committed to value, trust, train, support, make space and release them. They are not only the Church of the future; they are the Church of today. We commit to follow where they lead, in the will of God. (1Sa 17:32-50; Ecc 4:13-14; Ecc 12:1-7; Jer 1:5-10; Dan 1:17-20; Joe 2:28; Joh 6:9; Act 16:1-5; 1Ti 4:12-16; 1Jo 2:12-14)."
-title = "06. Champion Young People"
+description = "若者を積極的に応援する。ビジョンとミニストリーの先頭を立って行く者としての賜物と召命が若者に与えられていると信じる。若者の価値を認め、信頼し、訓練し、支援し、その働きの場を作り、送り出すことに献身する。若者はキリスト教会の「将来」であるだけでなく「今日の教会」でもある。神の御心の中で若者が導かれていくところに、私たちもついて行くことに献身する。 (1Sa 17:32-50; Ecc 4:13-14; Ecc 12:1-7; Jer 1:5-10; Dan 1:17-20; Joe 2:28; Joh 6:9; Act 16:1-5; 1Ti 4:12-16; 1Jo 2:12-14)."
+title = "06.若者を応援する"
 [[item]]
 description = "YWAM is broad-structured and diverse, yet integrated. We are a global family of ministries held together by shared foundational covenants, purpose, vision, values and relationships. We believe that structures should serve the people and the purposes of God. Every ministry at every level has the privilege and responsibility of accountability to a circle of recognized spiritual elders. (Exo 18:13-26; Num 1:16-19; Num 11:16-17,24-30; Deu 29:10-13; Jos 23:1-24:28; Act 14:23; Act 15:1-31; 1Co 3:4-11; Tit 1:5-9; Heb 13:7,17)."
 title = "07. Be Broad-structured and Decentralized"
