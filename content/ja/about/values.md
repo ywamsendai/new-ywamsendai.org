@@ -46,8 +46,8 @@ title = "12. まず行い、それから教える"
 description = "人との関係を重視して、共に生活し、そして働く。組織や規則に従属するより、聖い生活・互いに支えあうこと・透明性・謙遜・そして開かれた意思疎通（コミュニケーション）を通して人間関係が結び合わされることを望む。 (Lev 19:18; Psa 133:1-3; Pro 17:17; Pro 27:10; Joh 13:34-35; Joh 15:13-17; Joh 17:20-23; Rom 13:8-10; 1Jo 1:7; 1Jo 4:7-12)."
 title = "13. 人間関係を中心に据える"
 [[item]]
-description = "YWAM is called to value each individual. We believe in equal opportunity and justice for all. Created in the image of God, people of all nationalities, ages and functions have distinctive contributions and callings. We are committed to honouring God-given leadership and ministry gifts in both men and women. (Gen 1:27; Lev 19:13-16; Deu 16:18-20; Psa 139:13-16; Mar 8:34-37; Act 10:34-35; Gal 3:28; Eph 6:5-9; Heb 2:11-12; Jam 2:1-9)."
-title = "14. Value the Individual"
+description = "全ての人に与えられている同等の機会・公正を信じる。神の似姿に造られた、全ての国民・世代・役割や機能には、それぞれ特色ある貢献と召しがあると信じる。男女両方に、神によって与えられているリーダーシップとミニストリーの賜物を尊ぶことを追い求める。 (Gen 1:27; Lev 19:13-16; Deu 16:18-20; Psa 139:13-16; Mar 8:34-37; Act 10:34-35; Gal 3:28; Eph 6:5-9; Heb 2:11-12; Jam 2:1-9)."
+title = "14. 個人を尊重する"
 [[item]]
 description = "YWAM affirms the importance of families serving God together in missions, not just the father and/or mother. We also embrace the inclusion of single-parent families. We encourage the development of strong and healthy family units, with each member sharing the call to missions and contributing their gifts in unique and complementary ways. We uphold and celebrate the Biblical view that God's intent for holy matrimony is between one man and one woman. (Gen 2:21-24; Gen 18:17-19; Deu 6:6-7; Pro 5:15-23; Pro 31:10-31; Mal 2:14-16; Mat 19:3-9; 1Co 7:1-16; 1Ti 3:2-5; Heb 13:4)."
 title = "15. Value Families"
