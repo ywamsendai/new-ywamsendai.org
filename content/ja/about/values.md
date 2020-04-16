@@ -58,7 +58,7 @@ title = "16. 神への依り頼みを実践する（経済面において）"
 description = "神の品性と人の価値を表現する方法としてもてなしを実践する。私たちは、自分の心、家庭、学校、活動拠点を開放することの重要性を信じる。それは社交辞令としての行いではなく、寛大さの表現として、互いに仕え合い、敬意を表すために行う。 (Gen 18:1-8; 2Sa 9:1-11; Psa 68:5-6; Pro 22:9; Isa 58:7; Mat 25:31-46; Act 28:7-8; Rom 12:13; Heb 13:1-3; 1Pe 4:9)."
 title = "17. もてなしを実践する"
 [[item]]
-description = "YWAM affirms that everything exists because God communicates. Therefore, YWAM is committed to truthful, accurate, timely and relevant communication. We believe good communication is essential for strong relationships, healthy families and communities, and effective ministry. (Gen 1:3-5; Num 23:19; Pro 10:19; Pro 25:9-14; Zec 8:16-17; Mat 5:33-37; Luk 4:16-22; Joh 1:1-5; Col 4:6; Jam 3:1-18)."
-title = "18. Communicate with Integrity"
+description = "真実で、正確な、時宜にかなった適切なコミュニケーションを持つことに献身する。良いコミュニケーションは、力強い関係、健全な家族、共同体、効果的なミニストリーのために必要不可欠であると信じる。 (Gen 1:3-5; Num 23:19; Pro 10:19; Pro 25:9-14; Zec 8:16-17; Mat 5:33-37; Luk 4:16-22; Joh 1:1-5; Col 4:6; Jam 3:1-18)."
+title = "18. 誠実なコミュニケーション"
 
 +++
