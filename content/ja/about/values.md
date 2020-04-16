@@ -23,7 +23,7 @@ description = "神からの新鮮なビジョンを常に受け続け、成長�
 title = "05. 絶えずビジョンを持つ"
 [[item]]
 description = "若者を積極的に応援する。ビジョンとミニストリーの先頭を立って行く者としての賜物と召命が若者に与えられていると信じる。若者の価値を認め、信頼し、訓練し、支援し、その働きの場を作り、送り出すことに献身する。若者はキリスト教会の「将来」であるだけでなく「今日の教会」でもある。神の御心の中で若者が導かれていくところに、私たちもついて行くことに献身する。 (1Sa 17:32-50; Ecc 4:13-14; Ecc 12:1-7; Jer 1:5-10; Dan 1:17-20; Joe 2:28; Joh 6:9; Act 16:1-5; 1Ti 4:12-16; 1Jo 2:12-14)."
-title = "06. 若者を応援する"
+title = "06.若者を応援する"
 [[item]]
 description = "広域で分散型の組織であるものの、融合したまとまりを保つ。ワイワムは基本宣言・目的・ビジョン・価値と人間関係によって一つにされている世界的家族である。組織それ自体は、神の目的と人々に仕えるためにあると信じる。全てのレベルにおけるミニストリーは、霊的長老として認識されているリーダーとの間で説明責任の特権と義務が与えられている。(Exo 18:13-26; Num 1:16-19; Num 11:16-17,24-30; Deu 29:10-13; Jos 23:1-24:28; Act 14:23; Act 15:1-31; 1Co 3:4-11; Tit 1:5-9; Heb 13:7,17)."
 title = "07. 広域でかつ分散型の組織"
@@ -43,8 +43,8 @@ title = "11. 仕えるリーダーシップを示す"
 description = "まず自ら実践しそれから人に教えることに献身する。自分が直接体験したことが、語る言葉に権威を与えると信じる。敬虔な品性と神からの召命は、個々人に与えられた賜物・能力・専門的知識や意見、技術よりも重要であると信じる。(Deu 4:5-8; Ezr 7:10; Psa 51:12-13; Psa 119:17-18; Pro 1:1-4; Mat 7:28-29; Act 1:1-2; Col 3:12-17; 2Ti 4:1-5; 2Pe 1:5-10)."
 title = "12. まず行い、それから教える"
 [[item]]
-description = "YWAM is dedicated to being relationship-oriented in our living and working together. We desire to be united through lives of holiness, mutual support, transparency, humility, and open communication, rather than a dependence on structures or rules. (Lev 19:18; Psa 133:1-3; Pro 17:17; Pro 27:10; Joh 13:34-35; Joh 15:13-17; Joh 17:20-23; Rom 13:8-10; 1Jo 1:7; 1Jo 4:7-12)."
-title = "13. Be Relationship-oriented"
+description = "人との関係を重視して、共に生活し、そして働く。組織や規則に従属するより、聖い生活・互いに支えあうこと・透明性・謙遜・そして開かれた意思疎通（コミュニケーション）を通して人間関係が結び合わされることを望む。 (Lev 19:18; Psa 133:1-3; Pro 17:17; Pro 27:10; Joh 13:34-35; Joh 15:13-17; Joh 17:20-23; Rom 13:8-10; 1Jo 1:7; 1Jo 4:7-12)."
+title = "13. 人間関係を中心に据える"
 [[item]]
 description = "YWAM is called to value each individual. We believe in equal opportunity and justice for all. Created in the image of God, people of all nationalities, ages and functions have distinctive contributions and callings. We are committed to honouring God-given leadership and ministry gifts in both men and women. (Gen 1:27; Lev 19:13-16; Deu 16:18-20; Psa 139:13-16; Mar 8:34-37; Act 10:34-35; Gal 3:28; Eph 6:5-9; Heb 2:11-12; Jam 2:1-9)."
 title = "14. Value the Individual"
