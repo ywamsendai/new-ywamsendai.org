@@ -10,8 +10,8 @@ widget = "values"
 description = "神を知ることに献身する。それは神の権威ある言葉である聖書に表されている、神のご性質、神のご品性、そして神の方法を知ることである。私たちの生活と働きの中のすべての面で、神を反映させることを求めていく。神を知り、その喜ばしき交わりの中に入ることは、神を伝えていく願いを強くするものである。  (2Ki 19:19; Job 42:5; Psa 46:10; Psa 103:7-13; Jer 9:23-24; Hos 6:3; Joh 17:3; Eph 1:16-17; Php 3:7-11; 1Jo 2:4-6)."
 title = "01. 神を知る"
 [[item]]
-description = "YWAM is called to make God known throughout the whole world, and into every arena of society through evangelism, training and mercy ministries. We believe that salvation of souls should result in transformation of societies thus obeying Jesus' command to make disciples of all nations. (1Ch 16:24-27; Psa 68:11; Psa 71:15-16; Psa 145:4-7; Mat 28:18-20; Mar 16:15; Act 1:8; Act 13:1-4a; Rom 10:8-15; Rom 15:18-21)."
-title = "02. Make God Known"
+description = "伝道、訓練、救済を通して、全世界と全ての社会を形成する領域に神を知らせるために召されている。魂の救いは社会に変革をもたらすと信じる。それゆえ、全世界に出て行き、弟子をつくるという命令に従う。 (1Ch 16:24-27; Psa 68:11; Psa 71:15-16; Psa 145:4-7; Mat 28:18-20; Mar 16:15; Act 1:8; Act 13:1-4a; Rom 10:8-15; Rom 15:18-21)."
+title = "02. 神を知らせる"
 [[item]]
 description = "YWAM is committed to creating with God through listening to Him, praying His prayers and obeying His commands in matters great and small. We are dependent upon hearing His voice as individuals, together in team contexts and in larger corporate gatherings, as an integral part of our process for decision making. (1Sa 3:7-10; 2Ch 15:2-4; Psa 25:14; Isa 6:8; Amo 3:7; Luk 9:35; Joh 10:1-5; Joh 16:13-15; Heb 3:7-8,15; Rev 2:7,11,17,27; 3:6,13,22)."
 title = "03. Hear God’s Voice"
