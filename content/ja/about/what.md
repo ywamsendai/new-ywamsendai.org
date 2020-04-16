@@ -16,9 +16,9 @@ icon = "bible"
 icon_pack = "fas"
 name = "訓練"
 [[feature]]
-description = "YWAM’s mercy ministry teams follow Jesus’ example of compassion to those in need. We operate relief and development programs in over 100 countries, working among people living in desperate circumstances.<br /><br />Our staff serve in areas such as agricultural assistance, the prevention of human trafficking, ship-based dental care, and micro-enterprise development."
+description = "イエス・キリストの憐みに倣い、世界百カ国以上で様々な物理的支援を行なっています。＜br /><br />その分野は多岐にわたり、農業支援や人身売買からの救済、医療船の巡回援助やマイクロファイナンスなど、様々な分野で活動しています。"
 icon = "heart"
 icon_pack = "fas"
-name = "Mercy"
+name = "救済"
 
 +++
