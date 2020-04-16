@@ -28,8 +28,8 @@ title = "06.若者を応援する"
 description = "広域で分散型の組織であるものの、融合したまとまりを保つ。ワイワムは基本宣言・目的・ビジョン・価値と人間関係によって一つにされている世界的家族である。組織それ自体は、神の目的と人々に仕えるためにあると信じる。全てのレベルにおけるミニストリーは、霊的長老として認識されているリーダーとの間で説明責任の特権と義務が与えられている。(Exo 18:13-26; Num 1:16-19; Num 11:16-17,24-30; Deu 29:10-13; Jos 23:1-24:28; Act 14:23; Act 15:1-31; 1Co 3:4-11; Tit 1:5-9; Heb 13:7,17)."
 title = "07. 広域でかつ分散型の組織"
 [[item]]
-description = "YWAM is international and interdenominational in its global scope as well as its local constituency. We believe that ethnic, linguistic and denominational diversity, along with redeemed aspects of culture, are positive factors that contribute to the health and growth of the Mission. (Gen 12:1-4; Gen 26:2-5; Psa 57:9-10; Jer 32:27; Dan 7:13-14; Act 20:4; 1Co 12:12-31; Eph 4:1-16; Col 3:11; Rev 7:9)."
-title = "08. Be International and Interdenominational"
+description = "世界的規模・構成において国際的かつ超教派である。文化の「贖われた視野」を伴う人種・言語と教派の多様性は、成長と健やかさに貢献する積極的要素であると信じる。 (Gen 12:1-4; Gen 26:2-5; Psa 57:9-10; Jer 32:27; Dan 7:13-14; Act 20:4; 1Co 12:12-31; Eph 4:1-16; Col 3:11; Rev 7:9)."
+title = "08. 国際的でかつ超教派"
 [[item]]
 description = "YWAM is called to a Biblical Christian worldview. We believe that the Bible – the textbook for all of life – makes a clear division between good and evil; right and wrong. The practical dimensions of life are no less spiritual than the ministry expressions. Everything done in obedience to God is spiritual. We seek to honour God with all that we do, equipping and mobilizing men and women of God to take roles of service and influence in every arena of society. (Deu 8:1-3; Deu 32:45-47; 2Ki 22:8; Psa 19:7-11; Luk 8:21; Joh 8:31-32; Php 4:8-9; 2Ti 3:16-17; Heb 4:12-13; Jam 4:17)."
 title = "09. Have a Biblical Christian Worldview"
