@@ -25,8 +25,8 @@ title = "05. 絶えずビジョンを持つ"
 description = "若者を積極的に応援する。ビジョンとミニストリーの先頭を立って行く者としての賜物と召命が若者に与えられていると信じる。若者の価値を認め、信頼し、訓練し、支援し、その働きの場を作り、送り出すことに献身する。若者はキリスト教会の「将来」であるだけでなく「今日の教会」でもある。神の御心の中で若者が導かれていくところに、私たちもついて行くことに献身する。 (1Sa 17:32-50; Ecc 4:13-14; Ecc 12:1-7; Jer 1:5-10; Dan 1:17-20; Joe 2:28; Joh 6:9; Act 16:1-5; 1Ti 4:12-16; 1Jo 2:12-14)."
 title = "06.若者を応援する"
 [[item]]
-description = "YWAM is broad-structured and diverse, yet integrated. We are a global family of ministries held together by shared foundational covenants, purpose, vision, values and relationships. We believe that structures should serve the people and the purposes of God. Every ministry at every level has the privilege and responsibility of accountability to a circle of recognized spiritual elders. (Exo 18:13-26; Num 1:16-19; Num 11:16-17,24-30; Deu 29:10-13; Jos 23:1-24:28; Act 14:23; Act 15:1-31; 1Co 3:4-11; Tit 1:5-9; Heb 13:7,17)."
-title = "07. Be Broad-structured and Decentralized"
+description = "広域で分散型の組織であるものの、融合したまとまりを保つ。ワイワムは基本宣言・目的・ビジョン・価値と人間関係によって一つにされている世界的家族である。組織それ自体は、神の目的と人々に仕えるためにあると信じる。全てのレベルにおけるミニストリーは、霊的長老として認識されているリーダーとの間で説明責任の特権と義務が与えられている。(Exo 18:13-26; Num 1:16-19; Num 11:16-17,24-30; Deu 29:10-13; Jos 23:1-24:28; Act 14:23; Act 15:1-31; 1Co 3:4-11; Tit 1:5-9; Heb 13:7,17)."
+title = "07. 広域でかつ分散型の組織"
 [[item]]
 description = "YWAM is international and interdenominational in its global scope as well as its local constituency. We believe that ethnic, linguistic and denominational diversity, along with redeemed aspects of culture, are positive factors that contribute to the health and growth of the Mission. (Gen 12:1-4; Gen 26:2-5; Psa 57:9-10; Jer 32:27; Dan 7:13-14; Act 20:4; 1Co 12:12-31; Eph 4:1-16; Col 3:11; Rev 7:9)."
 title = "08. Be International and Interdenominational"
