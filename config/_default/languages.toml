@@ -13,7 +13,21 @@
   contentDir = "content/ja"
   title = "日本ワイワム"
   [ja.params]
-#    description = "Site description in Japanese..."
+    description = "To know God and make Him known to the Japanese"
+
+## Location addresses in Japanese
+    azumino_address = {street = "豊科5584-1", city = "安曇野市", region = "長野県", postcode = "〒399-8205", country = "Japan", country_code = "JP"}
+    kagoshima_address = {street = "大口里2698", city = "伊佐市", region = "鹿児島県", postcode = "〒895-2511", country = "Japan", country_code = "JP"}
+    kobe_address = {street = "", city = "神戸市", region = "兵庫県", postcode = "", country = "Japan", country_code = "JP"}
+    kyoto_address = {street = "", city = "京都市", region = "京都府", postcode = "", country = "Japan", country_code = "JP"}
+    niseko_address = {street = "ニセコ", city = "虻田郡", region = "北海道", postcode = "", country = "Japan", country_code = "JP"}
+    no_address = {street = "日本堤1-19-6", city = "台東区", region = "東京都", postcode = "〒111-0021", country = "Japan", country_code = "JP"}
+    oita_address = {street = "", city = "大分市", region = "大分県", postcode = "", country = "Japan", country_code = "JP"}
+    okinawa_address = {street = "石川白浜2-10-16", city = "うるま市", region = "沖縄県", postcode = "〒904-1105", country = "Japan", country_code = "JP"}
+    sendai_address = {street = "青葉区愛子中央", city = "仙台市", region = "宮城県", postcode = "〒989-3128", country = "Japan", country_code = "JP"}
+    takatsuki_address = {street = "上牧町2-15-3", city = "高槻市", region = "大阪府", postcode = "〒569-0003", country = "Japan", country_code = "JP"}
+    tokyo_address = {street = "新川町1-17-7", city = "東久留米市", region = "東京都", postcode = "〒203-0013", country = "Japan", country_code = "JP"}
+
   [[ja.menu.main]]
     name = "探す"
     url = "#explore"
