@@ -13,8 +13,8 @@ title = "01. 神を知る"
 description = "伝道、訓練、救済を通して、全世界と全ての社会を形成する領域に神を知らせるために召されている。魂の救いは社会に変革をもたらすと信じる。それゆえ、全世界に出て行き、弟子をつくるという命令に従う。 (1Ch 16:24-27; Psa 68:11; Psa 71:15-16; Psa 145:4-7; Mat 28:18-20; Mar 16:15; Act 1:8; Act 13:1-4a; Rom 10:8-15; Rom 15:18-21)."
 title = "02. 神を知らせる"
 [[item]]
-description = "YWAM is committed to creating with God through listening to Him, praying His prayers and obeying His commands in matters great and small. We are dependent upon hearing His voice as individuals, together in team contexts and in larger corporate gatherings, as an integral part of our process for decision making. (1Sa 3:7-10; 2Ch 15:2-4; Psa 25:14; Isa 6:8; Amo 3:7; Luk 9:35; Joh 10:1-5; Joh 16:13-15; Heb 3:7-8,15; Rev 2:7,11,17,27; 3:6,13,22)."
-title = "03. Hear God’s Voice"
+description = "神の御声を聴きながら、神と共に創り出すことに献身する。神の祈りを自分の祈りとし、大小全てのことにおいて神の命じておられることに従う。私たちは神の御声を聴くことに依り頼む。個人としても、チームとしても、そしてより大きな集まりの中でも、神の御声を聴くことは決断の過程における不可欠なものである。 (1Sa 3:7-10; 2Ch 15:2-4; Psa 25:14; Isa 6:8; Amo 3:7; Luk 9:35; Joh 10:1-5; Joh 16:13-15; Heb 3:7-8,15; Rev 2:7,11,17,27; 3:6,13,22)."
+title = "03. 神の御声を聞く"
 [[item]]
 description = "YWAM is dedicated to worship Jesus and engage in intercessory prayer as integral aspects of daily life. We also recognize the intent of Satan to destroy the work of God and we call upon God's power and the Holy Spirit to overcome his strategies in the lives of individuals and in the affairs of nations. (1Sa 7:5; 2Ch 7:4; Psa 84:1-8; Psa 95:6-7; Psa 100:1-5; Mar 11:24-25; Act 1:14; Eph 6:13-20; 1Th 5:16-19; 1Ti 2:1-4)."
 title = "04. Practice Worship and Intercessory Prayer"
