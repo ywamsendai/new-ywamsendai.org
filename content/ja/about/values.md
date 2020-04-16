@@ -49,8 +49,8 @@ title = "13. 人間関係を中心に据える"
 description = "全ての人に与えられている同等の機会・公正を信じる。神の似姿に造られた、全ての国民・世代・役割や機能には、それぞれ特色ある貢献と召しがあると信じる。男女両方に、神によって与えられているリーダーシップとミニストリーの賜物を尊ぶことを追い求める。 (Gen 1:27; Lev 19:13-16; Deu 16:18-20; Psa 139:13-16; Mar 8:34-37; Act 10:34-35; Gal 3:28; Eph 6:5-9; Heb 2:11-12; Jam 2:1-9)."
 title = "14. 個人を尊重する"
 [[item]]
-description = "YWAM affirms the importance of families serving God together in missions, not just the father and/or mother. We also embrace the inclusion of single-parent families. We encourage the development of strong and healthy family units, with each member sharing the call to missions and contributing their gifts in unique and complementary ways. We uphold and celebrate the Biblical view that God's intent for holy matrimony is between one man and one woman. (Gen 2:21-24; Gen 18:17-19; Deu 6:6-7; Pro 5:15-23; Pro 31:10-31; Mal 2:14-16; Mat 19:3-9; 1Co 7:1-16; 1Ti 3:2-5; Heb 13:4)."
-title = "15. Value Families"
+description = "父親あるいは母親だけでなく、家族単位で宣教に仕える者たちであることを信じる。また、片親家庭もこの中に含む。家族の各メンバーが、宣教への召命を担い合い、独特かつ相補的なあり方で賜物をもって貢献しつつ、力強く、健全な家庭を築いてゆくことを奨励する。私たちは、神が意図した聖い結婚は、男性と女性との間で行われるものであるという聖書観を支持する。(Gen 2:21-24; Gen 18:17-19; Deu 6:6-7; Pro 5:15-23; Pro 31:10-31; Mal 2:14-16; Mat 19:3-9; 1Co 7:1-16; 1Ti 3:2-5; Heb 13:4)."
+title = "15. 家族の価値を認める"
 [[item]]
 description = "YWAM is called to practice a life of dependence upon God for financial provision. For individuals and YWAM corporately this comes primarily through His people. As God has been generous toward us, so we desire to be generous. YWAMers give themselves, their time and talents to God through the Mission with no expectation of remuneration. (Gen 22:12-14; Exo 36:2-7; Num 18:25-29; Mal 3:8-12; Mat 6:25-33; Luk 19:8-9; 2Co 8:1-9:15; Php 4:10-20; Tit 3:14; 3Jo 5-8)."
 title = "16. Practice Dependence on God"
