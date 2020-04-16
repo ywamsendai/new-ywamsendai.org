@@ -1,4 +1,5 @@
 ---
-title: Who We Are
-type: "widget_page"
+title: ワイワムとは
+type: widget_page
+
 ---
