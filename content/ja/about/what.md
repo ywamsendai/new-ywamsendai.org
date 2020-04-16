@@ -1,7 +1,7 @@
 +++
 active = true
 headless = true
-subtitle = "What We Do"
+subtitle = "働きの３本柱"
 title = "ミニストリー"
 weight = 20
 widget = "featurette"
