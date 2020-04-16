@@ -31,8 +31,8 @@ title = "07. 広域でかつ分散型の組織"
 description = "世界的規模・構成において国際的かつ超教派である。文化の「贖われた視野」を伴う人種・言語と教派の多様性は、成長と健やかさに貢献する積極的要素であると信じる。 (Gen 12:1-4; Gen 26:2-5; Psa 57:9-10; Jer 32:27; Dan 7:13-14; Act 20:4; 1Co 12:12-31; Eph 4:1-16; Col 3:11; Rev 7:9)."
 title = "08. 国際的でかつ超教派"
 [[item]]
-description = "YWAM is called to a Biblical Christian worldview. We believe that the Bible – the textbook for all of life – makes a clear division between good and evil; right and wrong. The practical dimensions of life are no less spiritual than the ministry expressions. Everything done in obedience to God is spiritual. We seek to honour God with all that we do, equipping and mobilizing men and women of God to take roles of service and influence in every arena of society. (Deu 8:1-3; Deu 32:45-47; 2Ki 22:8; Psa 19:7-11; Luk 8:21; Joh 8:31-32; Php 4:8-9; 2Ti 3:16-17; Heb 4:12-13; Jam 4:17)."
-title = "09. Have a Biblical Christian Worldview"
+description = "聖書的クリスチャン世界観を持つよう召されている。聖書が善悪ーすなわち何が正しく何が間違っているかーを明確に区分けするものであると信じる。神への従順ゆえになされる全てのことは、日常生活の営みを含め全て霊的であると信じる。なすことの全てをもって神に栄誉を帰し、神の器である男性・女性が、社会のあらゆる領域で仕え、影響力を与える役割を担えるように、整え、動員する。 (Deu 8:1-3; Deu 32:45-47; 2Ki 22:8; Psa 19:7-11; Luk 8:21; Joh 8:31-32; Php 4:8-9; 2Ti 3:16-17; Heb 4:12-13; Jam 4:17)."
+title = "09. 聖書的なクリスチャン世界観を持つ "
 [[item]]
 description = "YWAM is called to function in teams in all aspects of ministry and leadership. We believe that a combination of complementary gifts, callings, perspectives, ministries and generations working together in unity at all levels of our Mission provides wisdom and safety. Seeking God's will and making decisions in a team context allows accountability and contributes to greater relationship, motivation, responsibility and ownership of the vision. (Deu 32:30-31; 2Ch 17:7-9; Pro 15:22; Ecc 4:9-12; Mar 6:7-13; Rom 12:3-10; 2Co 1:24; Eph 5:21; Php 2:1-2; 1Pe 4:8)."
 title = "10. Function in Teams"
