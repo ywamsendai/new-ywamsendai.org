@@ -1,78 +1,47 @@
 +++
-# Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
-
-widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
-
-title = "Know God and Make Him Known"
-subtitle = "Our Purpose, Beliefs and Values"
-
-[design]
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
-
-[design.background]
-  # Apply a background color, gradient, or image.
-  #   Uncomment (by removing `#`) an option to apply it.
-  #   Choose a light or dark text color by setting `text_color_light`.
-  #   Any HTML color name or Hex value is valid.
-
-  # Background color.
-  # color = "white"
-
-  # Background gradient.
-  # gradient_start = "DarkGreen"
-  # gradient_end = "ForestGreen"
-
-  # Background image.
-  # image = "image.jpg"  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
-  # image_position = "center"  # Options include `left`, `center` (default), or `right`.
-  # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
-
-  # Text color (true=light or false=dark).
-  text_color_light = false
-
-[design.spacing]
-  # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
-
+active = true
+headless = true
+subtitle = "目的・信念・基本理念"
+title = "神を知り、神を知らせる"
+weight = 30
+widget = "blank"
 [advanced]
- # Custom CSS.
- css_style = ""
+css_class = ""
+css_style = ""
+[design]
+columns = "2"
+[design.background]
+text_color_light = false
+[design.spacing]
+padding = ["20px", "0", "20px", "0"]
 
- # CSS class.
- css_class = ""
 +++
+YWAMの目的、核となる信念、基本理念は、1960年の設立時から明確に与えられてきた指示をまとめ、次世代に引き継ぐために記録したものである。
 
-YWAM’s purpose, core beliefs, and foundational values have been compiled in response to specific directives given by God since YWAM’s beginning in 1960. They are recorded here in order to pass on to successive generations that which God has emphasized to us.
+  
+キリスト教全般にあてはまるものもあればYWAM独特のものもあり、これらの目的、信念、理念の組み合わせによって、YWAM独自のあり方を生み出している。
 
-This shared purpose and our corporate beliefs and values are the guiding principles for both the past and future growth of our mission. Some are common to all Christians everywhere; others are distinctive to Youth With A Mission.
+  
+私たちがどのような者であるか、どのように生き、どのように決断する者であるかを決定付ける大切な骨組みとなるものである。
 
-The combination of this purpose, beliefs and values makes up the unique family characteristics of YWAM—our “DNA.” They are the framework we hold in high regard for they help us determine who we are, how we live and how we make decisions.
+目的
 
-## Our Purpose
+YWAMは大宣教命令を達成すべく、様々な教派から献身をもって集められたクリスチャンたちの動きで、信仰者を訓練し整え、できるだけ多くの人を動員していくことに献身している。御国の民として、主を愛し、主を礼拝し、主に従う者たちであり、キリストの体なる教会に仕え、全世界の全ての人々に、福音を示していくものである。
 
-Youth With A Mission (YWAM) is a global movement of Christians from many denominations dedicated to presenting Jesus personally to this generation, to mobilizing as many as possible to help in this task, and to the training and equipping of believers for their part in fulfilling the Great Commission. As citizens of God’s kingdom, we are called to love, worship, and obey our Lord, to love and serve His Body, the Church, and to present the whole gospel for the whole person throughout the whole world.
+私たちは、聖書が神の霊感によって記された権威ある言葉であり、イエス・キリストが神の御子であることを啓示していると信じる。また聖書は、人が神の似姿に造られ、イエス・キリストを通して永遠の命を持つように創造され、罪のゆえに神の栄光を現せないにも関わらず、イエス・キリストの十字架の死と復活の御業によって救いが可能とされたことを啓示している。また、悔い改め、信仰、愛と従順は、私たちに示された神の恵みに対するふさわしい応答であり、神の願いとは全ての人が救われ、真理を知る知識を得、聖霊の力が私たちの中で、そして私たちを通して現され、イエス・キリストが語られた最後の命令である「全世界に出て行き、全ての造られた者に福音を宣べ伝えなさい（マルコ16:15）」という言葉を達成していく者となるためであることを啓示していると信じる。
 
-We of Youth With A Mission believe that the Bible is God’s inspired and authoritative word, revealing that Jesus Christ is God’s son; that people are created in God’s image; that He created us to have eternal life through Jesus Christ; that although all people have sinned and come short of God’s glory, God has made salvation possible through the death on the cross and resurrection of Jesus Christ; that repentance, faith, love and obedience are fitting responses to God’s initiative of grace towards us; that God desires all people to be saved and to come to the knowledge of the truth; and that the Holy Spirit’s power is demonstrated in and through us for the accomplishment of Christ’s last commandment, “Go into all the world and preach the good news to everyone” (Mark 16:15 NLT).
+## 信念
 
-## Our Beliefs
+YWAMは、聖書が聖霊に導かれ、神の霊感によって記された権威ある言葉であり、日常生活とミニストリー全般に確固たる言及がなされたものであると信じる。神の御言葉、神がどのようなお方であるか、イエス・キリストの贖いの御業（十字架の死と復活）という土台の上に立ち、以下の応答を行うことを強調する：
 
-Youth With A Mission (YWAM) affirms the Bible as the inspired and authoritative word of God and, with the Holy Spirit’s inspiration, the absolute reference point for every aspect of life and ministry. Based upon God’s word, who He is, and His initiative of salvation through the atoning work of Jesus (His death, burial, and resurrection), the following responses are strongly emphasized in YWAM:
+**礼拝:** 神お一人に礼拝と賛美を捧げる (Exo 20:2-3; Deu 6:4-5; 2Ki 17:35-39; 1Ch 16:28-30; Neh 8:2-10; Mar 12:29-30; Rom 15:5-13; Jud 24-25; Rev 5:6-14; Rev 19:5-8).
 
-**Worship:** We are called to praise and worship God alone (Exo 20:2-3; Deu 6:4-5; 2Ki 17:35-39; 1Ch 16:28-30; Neh 8:2-10; Mar 12:29-30; Rom 15:5-13; Jud 24-25; Rev 5:6-14; Rev 19:5-8).
+**聖さ:** 神の性質と品性を表す、聖い生活と義なる生き方に召されている。 (Lev 19:1-2; Psa 51:7-11; Jer 18:1-11; Eze 20:10-12; Zec 13:9; Luk 1:68 75; Eph 4:21-32; Tit 2:11-14; 1Pe 2:9,21-25; 1Jo 3:1-3).
 
-**Holiness:** We are called to lead holy and righteous lives that exemplify the nature and character of God (Lev 19:1-2; Psa 51:7-11; Jer 18:1-11; Eze 20:10-12; Zec 13:9; Luk 1:68 75; Eph 4:21-32; Tit 2:11-14; 1Pe 2:9,21-25; 1Jo 3:1-3).
+**証し:** イエスキリストを知らない人々に福音を分かち合う。 (Psa 78:1-7; Isa 40:3-11; Mic 4:1-2; Hab 2:14; Luk 24:44-48; Act 2:32-26; Act 10:39-43; 1Co 9:19-23; 2Co 2:12-17; 1Pe 3:15-18).
 
-**Witness:** We are called to share the gospel of Jesus Christ with those who do not know Him (Psa 78:1-7; Isa 40:3-11; Mic 4:1-2; Hab 2:14; Luk 24:44-48; Act 2:32-26; Act 10:39-43; 1Co 9:19-23; 2Co 2:12-17; 1Pe 3:15-18).
+**祈り:** あらゆる形でなされる悪の働きに立ち向かい、人々のため、神の御心が成されるため、とりなしの祈りに従事する。 (Gen 18:20-33; Exo 32:1-16; Jdg 3:9,15; 1Ki 8:22-61; Eze 22:30-31; Eze 33:1-11; Mat 6:5-15; Mat 9:36-38; Eph 3:14 21; 2Th 3:1-5).
 
-**Prayer:** We are called to engage in intercessory prayer for the people and causes on God’s heart, including standing against evil in every form (Gen 18:20-33; Exo 32:1-16; Jdg 3:9,15; 1Ki 8:22-61; Eze 22:30-31; Eze 33:1-11; Mat 6:5-15; Mat 9:36-38; Eph 3:14 21; 2Th 3:1-5).
+**交わり:** 地域に現存している教会、移動し増え広がってゆく教会、その両方に献身していく。(2Ch 29:20-30; Psa 22:25-28; Psa 122:1-4; Joe 2:15 17; Mat 18:19-20; Act 2:44-47; Act 4:32-35; 1Co 14:26-40; Eph 2:11-18; Heb 10:23-25).
 
-**Fellowship:** We are called to commit to the Church in both its local nurturing expression and its mobile multiplying expression (2Ch 29:20-30; Psa 22:25-28; Psa 122:1-4; Joe 2:15 17; Mat 18:19-20; Act 2:44-47; Act 4:32-35; 1Co 14:26-40; Eph 2:11-18; Heb 10:23-25).
-
-**Service:** We are called to contribute toward God’s kingdom purposes in every sphere of life (Deu 15:7-11; Deu 24:17-22; Psa 112:4-9; Pro 11:10-11; Zec 7:8-10; Mat 5:14-16; 2Th 3:13; Tit 3:4-8; Heb 13:15-16; Jam 2:14-26).
+**奉仕:** 私たちは、神の御国を全ての生活の領域にもたらすよう貢献することに召されている。 (Deu 15:7-11; Deu 24:17-22; Psa 112:4-9; Pro 11:10-11; Zec 7:8-10; Mat 5:14-16; 2Th 3:13; Tit 3:4-8; Heb 13:15-16; Jam 2:14-26).
