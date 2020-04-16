@@ -28,6 +28,7 @@
     sendai_address = {street = "青葉区愛子中央", city = "仙台市", region = "宮城県", postcode = "〒989-3128", country = "Japan", country_code = "JP"}
     takatsuki_address = {street = "上牧町2-15-3", city = "高槻市", region = "大阪府", postcode = "〒569-0003", country = "Japan", country_code = "JP"}
     tokyo_address = {street = "新川町1-17-7", city = "東久留米市", region = "東京都", postcode = "〒203-0013", country = "Japan", country_code = "JP"}
+    address_format = "ja"
 
   [[ja.menu.main]]
     name = "探す"
