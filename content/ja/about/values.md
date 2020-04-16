@@ -20,7 +20,7 @@ description = "日々の生活における不可欠な要素として、イエ�
 title = "04. 礼拝ととりなしの祈りを実践する"
 [[item]]
 description = "神からの新鮮なビジョンを常に受け続け、成長させ、現していくことに献身する。新しいミニストリーや手段・方法を始めていくことを支援し、全ての世代・民族・社会の領域に深く関わっていくことを願う。YWAMの使徒的召命には、神の言葉を中心とした＜霊的長老制＞＜霊的な自由＞＜関係＞が必要とされていると信じる。　　(Num 12:6; 1Sa 12:16; Pro 29:18; Eze 1:1; Hab 2:2-3; Mar 1:35-39; Luk 9:1-6; Act 16:9-10; Act 26:19; 2Pe 3:9-13)."
-title = "05. ビジョンを持つ"
+title = "05. 絶えずビジョンを持つ"
 [[item]]
 description = "YWAM is called to champion youth. We believe God has gifted and called young people to spearhead vision and ministry. We are committed to value, trust, train, support, make space and release them. They are not only the Church of the future; they are the Church of today. We commit to follow where they lead, in the will of God. (1Sa 17:32-50; Ecc 4:13-14; Ecc 12:1-7; Jer 1:5-10; Dan 1:17-20; Joe 2:28; Joh 6:9; Act 16:1-5; 1Ti 4:12-16; 1Jo 2:12-14)."
 title = "06. Champion Young People"
