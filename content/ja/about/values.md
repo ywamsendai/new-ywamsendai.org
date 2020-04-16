@@ -55,8 +55,8 @@ title = "15. 家族の価値を認める"
 description = "経済的に神に依り頼みつつ歩むことを実践する。個人としても共同体としても、この備えはおもに他の信仰者によってもたらされる。神が私たちに寛大で惜しみなく与えて下さるお方であるゆえ、私たちもまた寛大で惜しみなく捧げる者であるように望む。自分自身と時間、能力を、見返りを期待することなく、宣教を通して神に捧げる。 (Gen 22:12-14; Exo 36:2-7; Num 18:25-29; Mal 3:8-12; Mat 6:25-33; Luk 19:8-9; 2Co 8:1-9:15; Php 4:10-20; Tit 3:14; 3Jo 5-8)."
 title = "16. 神への依り頼みを実践する（経済面において）"
 [[item]]
-description = "YWAM affirms the ministry of hospitality as an expression of God's character and the value of people. We believe it is important to open our hearts, homes, campuses and bases to serve and honour one another, our guests and the poor and needy, not as acts of social protocol, but as expressions of generosity. (Gen 18:1-8; 2Sa 9:1-11; Psa 68:5-6; Pro 22:9; Isa 58:7; Mat 25:31-46; Act 28:7-8; Rom 12:13; Heb 13:1-3; 1Pe 4:9)."
-title = "17. Practice Hospitality"
+description = "神の品性と人の価値を表現する方法としてもてなしを実践する。私たちは、自分の心、家庭、学校、活動拠点を開放することの重要性を信じる。それは社交辞令としての行いではなく、寛大さの表現として、互いに仕え合い、敬意を表すために行う。 (Gen 18:1-8; 2Sa 9:1-11; Psa 68:5-6; Pro 22:9; Isa 58:7; Mat 25:31-46; Act 28:7-8; Rom 12:13; Heb 13:1-3; 1Pe 4:9)."
+title = "17. もてなしを実践する"
 [[item]]
 description = "YWAM affirms that everything exists because God communicates. Therefore, YWAM is committed to truthful, accurate, timely and relevant communication. We believe good communication is essential for strong relationships, healthy families and communities, and effective ministry. (Gen 1:3-5; Num 23:19; Pro 10:19; Pro 25:9-14; Zec 8:16-17; Mat 5:33-37; Luk 4:16-22; Joh 1:1-5; Col 4:6; Jam 3:1-18)."
 title = "18. Communicate with Integrity"
