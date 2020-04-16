@@ -51,4 +51,4 @@ title = "日本ワイワム全国事務所"
   # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-関東、東京東、台東区
+場所｜関東地方・東京都東部・台東区

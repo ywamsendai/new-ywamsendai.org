@@ -61,5 +61,5 @@ First ever DTS in Tohoku, Japan!
 * **Language(s):** English, Japanese
 * **Outreach Locations:** N/A
 * **Related Passion:** N/A
-* **Omega Zone & Region:** Miyagi, Tohoku
+* **領域とオメガゾーン：** 東北地方・宮城県
 * **Last Updated:** 2020-04-13

@@ -51,4 +51,4 @@ title = "Azumino CP Team"
   # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-北陸信越地区、長野、安曇野市
+場所｜北信越地方・長野県・安曇野市

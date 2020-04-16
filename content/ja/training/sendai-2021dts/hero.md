@@ -38,7 +38,7 @@ title = "弟子訓練学校２０２１年"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "/location/sendai"
-  label = "YWAM Sendai, Miyagi"
+  label = "仙台ワイワム、宮城県"
 #   icon_pack = "fas"
 #   icon = "download"
 
@@ -51,4 +51,4 @@ title = "弟子訓練学校２０２１年"
   # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-２０２１年４月
+学校｜２０２１年の春｜宮城県・仙台市

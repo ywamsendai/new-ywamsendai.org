@@ -51,4 +51,4 @@ title = "ニセコ・ワイワム"
   # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-北海道、虻田郡、ニセコ町
+場所｜北海道・虻田郡・ニセコ町

@@ -51,4 +51,4 @@ title = "神戸ワイワム"
   # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-関西、兵庫、神戸市
+場所｜関西地方・兵庫県・神戸市

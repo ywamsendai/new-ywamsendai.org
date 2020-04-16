@@ -51,4 +51,4 @@ title = "Kagoshima Church Planting Team"
   # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-九州、鹿児島、鹿児島市と伊佐市
+場所｜九州地方・鹿児島県・鹿児島市と伊佐市

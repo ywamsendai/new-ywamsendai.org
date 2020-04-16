@@ -51,4 +51,4 @@ title = "弟子訓練学校２０２０年"
   # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-２０２０年９月２３日
+学校｜２０２０年９月２３日｜大阪府北部・高槻市

@@ -51,4 +51,4 @@ title = "東京ワイワム"
   # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-場所｜関東地方・東京都心・東久留米市
+場所｜関東地方・東京都中央部・東久留米市

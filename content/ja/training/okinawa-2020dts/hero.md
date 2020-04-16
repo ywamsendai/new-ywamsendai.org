@@ -38,7 +38,7 @@ title = "日韓DTS"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "/location/okinawa"
-  label = "沖縄ワイワム、沖縄"
+  label = "沖縄ワイワム、沖縄県"
 #   icon_pack = "fas"
 #   icon = "download"
 
@@ -51,4 +51,4 @@ title = "日韓DTS"
   # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-２０２０年９月８日
+学校｜２０２０年９月８日｜沖縄県・うるま市

@@ -51,4 +51,4 @@ title = "京都ワイワム"
   # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-関西、京都、京都市
+場所｜関西地方・京都府・京都市
