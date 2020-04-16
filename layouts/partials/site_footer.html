@@ -14,7 +14,8 @@
   <p class="powered-by">
     {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}} &middot; {{ end }}
 
-    <a href="https://ywam.org/" target="_blank" rel="noopener"> {{ with site.ywam }} {{ . }} {{ end }}</a>.
+    Part of the
+    <a href="https://ywam.org/" target="_blank" rel="noopener">YWAM Family of Ministries</a>.
 
     {{ if not (in (slice "docs" "updates") .Type) }}
     <span class="float-right" aria-hidden="true">
