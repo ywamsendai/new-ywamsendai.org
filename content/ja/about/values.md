@@ -52,8 +52,8 @@ title = "14. 個人を尊重する"
 description = "父親あるいは母親だけでなく、家族単位で宣教に仕える者たちであることを信じる。また、片親家庭もこの中に含む。家族の各メンバーが、宣教への召命を担い合い、独特かつ相補的なあり方で賜物をもって貢献しつつ、力強く、健全な家庭を築いてゆくことを奨励する。私たちは、神が意図した聖い結婚は、男性と女性との間で行われるものであるという聖書観を支持する。(Gen 2:21-24; Gen 18:17-19; Deu 6:6-7; Pro 5:15-23; Pro 31:10-31; Mal 2:14-16; Mat 19:3-9; 1Co 7:1-16; 1Ti 3:2-5; Heb 13:4)."
 title = "15. 家族の価値を認める"
 [[item]]
-description = "YWAM is called to practice a life of dependence upon God for financial provision. For individuals and YWAM corporately this comes primarily through His people. As God has been generous toward us, so we desire to be generous. YWAMers give themselves, their time and talents to God through the Mission with no expectation of remuneration. (Gen 22:12-14; Exo 36:2-7; Num 18:25-29; Mal 3:8-12; Mat 6:25-33; Luk 19:8-9; 2Co 8:1-9:15; Php 4:10-20; Tit 3:14; 3Jo 5-8)."
-title = "16. Practice Dependence on God"
+description = "経済的に神に依り頼みつつ歩むことを実践する。個人としても共同体としても、この備えはおもに他の信仰者によってもたらされる。神が私たちに寛大で惜しみなく与えて下さるお方であるゆえ、私たちもまた寛大で惜しみなく捧げる者であるように望む。自分自身と時間、能力を、見返りを期待することなく、宣教を通して神に捧げる。 (Gen 22:12-14; Exo 36:2-7; Num 18:25-29; Mal 3:8-12; Mat 6:25-33; Luk 19:8-9; 2Co 8:1-9:15; Php 4:10-20; Tit 3:14; 3Jo 5-8)."
+title = "16. 神への依り頼みを実践する（経済面において）"
 [[item]]
 description = "YWAM affirms the ministry of hospitality as an expression of God's character and the value of people. We believe it is important to open our hearts, homes, campuses and bases to serve and honour one another, our guests and the poor and needy, not as acts of social protocol, but as expressions of generosity. (Gen 18:1-8; 2Sa 9:1-11; Psa 68:5-6; Pro 22:9; Isa 58:7; Mat 25:31-46; Act 28:7-8; Rom 12:13; Heb 13:1-3; 1Pe 4:9)."
 title = "17. Practice Hospitality"
