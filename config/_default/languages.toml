@@ -13,6 +13,7 @@
   contentDir = "content/ja"
   title = "日本ワイワム"
   copyright = "ywam&reg;japan.org &copy; {year}。全著作権所有。"
+  ywam = "Part of the YWAM Family of Ministries."
   [ja.params]
     description = "神を知り、神を知らせる"
 
