@@ -3,7 +3,7 @@ active = true
 headless = true
 subtitle = "弟子訓練学校（DTS）とは"
 title = "濃密な6ヶ月間"
-weight = 30
+weight = "15"
 widget = "blank"
 [advanced]
 css_class = ""
