@@ -26,7 +26,7 @@ padding = ["20px", "0", "20px", "0"]
 
 # 奉仕活動
 
-A key part of character development is serving those around us. A part of DTS is working to keep the YWAM community functioning, while teaching teamwork and dedication. Whether it is gardening, cleaning, reception, or something else, this side of DTS helps you become a part of the community of YWAM around you.
+私たちの人格を形成するにあたり欠かせないのは、他者に仕えることです。DTSの講義期間中は、所属しているワイワムコミュニティを運営していくにあたり必要な様々なことをお手伝いしてもらいます。庭仕事や清掃、もてなしの実践などを通して、コミュニティの一員としての役割を果たしてもらうと同時に、チームワークや献身する姿勢を身につけてもらいます。
 
 # スモールグループや個人メンタリング
 
