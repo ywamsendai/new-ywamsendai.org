@@ -16,6 +16,7 @@
   ywam = "Part of the YWAM Family of Ministries."
   [ja.params]
     description = "神を知り、神を知らせる"
+    ywam = "テスト"
 
 ## Location addresses in Japanese
     azumino_address = {street = "豊科5584-1", city = "安曇野市", region = "長野県", postcode = "〒399-8205", country = "Japan", country_code = "JP"}
