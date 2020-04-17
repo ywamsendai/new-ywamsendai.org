@@ -16,14 +16,14 @@ text_color_light = false
 padding = ["20px", "0", "20px", "0"]
 
 +++
-## Youth With A Mission is a global movement of Christians from many cultures, age groups and Christian traditions, dedicated to serving Jesus throughout the world.
+## 様々な文化、世代、教派や伝統を超えて繋がる、イエス・キリストに従うクリスチャンの世界的運動です
 
-Also known as YWAM (pronounced “WHY-wham”), we unite in a common purpose to know God and to make Him known.
+ワイワムは1960年にアメリカで創立された国際的な超教派のキリスト教宣教団体で、「神を知り、神を知らせる」ことをモットーとして世界180カ国以上で活動しています。
 
-Back when we began in 1960, our main focus was to help youth get involved in missions.
+英語の正式名称 Youth With A Mission の頭文字「YWAM」をとり、世界各国で「ワイワム」の通称で親しまれています。
 
-Today, we still focus on youth and we also include people of all ages. We currently have tens of thousands of staff (called “YWAMers”) from nearly every country, including places like Indonesia, Nepal, Mozambique, and Colombia.
+（日本では「世界青年宣教会」という宗教法人格をもちますが、国際的に通用する呼び名を用いることに配慮し、このウェブサイトでは「日本ワイワム」という名称で記載しています。）
 
-We have been making waves here in Japan since 1975, starting in Osaka. We have since expanded all over Japan.
+日本では、1975年以来大阪から始まって以来全国各地に拠点を設け、キリスト教の伝道のために諸教会と手を携えて活動しています。世界各国から若者だけでなくあらゆる世代の人たちが、日本人に福音を伝えるために来日し、短期・長期にわたる様々な活動をしています。
 
-God is calling people from many countries to bring the Gospel of Jesus Christ to Japanese people and to raise up the Japanese people for His glory and honour and give them His gifts to spread the gospel in various ways.
+なお、ワイワムはものみの塔・エホバの証人をはじめとする異端とは一切関係ありません。
