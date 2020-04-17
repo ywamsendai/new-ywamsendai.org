@@ -42,6 +42,6 @@
     weight = 20
 
   [[ja.menu.main]]
-    name = "について"
+    name = "ワイワムとは"
     url = "/about"
     weight = 30
