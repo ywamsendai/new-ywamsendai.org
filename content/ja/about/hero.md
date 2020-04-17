@@ -1,7 +1,7 @@
 +++
 active = true
 headless = true
-title = "神を知り、神を知らせる。日本の人々に。"
+title = "神を知り、神を知らせる。"
 weight = 1
 widget = "hero"
 [design.background]
@@ -15,4 +15,4 @@ image_size = "cover"
 text_color_light = true
 
 +++
-ワイワムとは
+ーイエスが愛する日本の人々にー
