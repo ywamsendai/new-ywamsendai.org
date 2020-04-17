@@ -20,8 +20,8 @@ padding = ["20px", "0", "20px", "0"]
 ## 詳細
 
 * **UofNコード：** DSP 211/212
-* **Start date:** 8 September 2020
-* **Length:** 24 Weeks
+* **開講日:** 2020年9月8日
+* **期間:** 24週
 * **言語：** 日本語、韓国語
 * **Outreach Locations:** N/A
 * **Related Passion:** N/A
