@@ -34,8 +34,6 @@ DTSの講義期間の中で最も重要ともいえる時間が、スモール�
 
 また、スモールグループでは他の生徒と少人数での議論や分かち合いをします。ここで他の生徒たちが抱いている疑問や葛藤を知り、共に学びを深める良い機会であると同時に、自分や他の人たちの心の変革を体験する場となるでしょう。
 
-# Local Ministry/Outreach
+# 近隣地域での奉仕や伝道活動
 
-Personal transformation leads to the transformation of community. You will have a chance to make a difference in the surrounding society through ministry and mini-outreaches. Whether it’s teaching the gospel, working on a community project, or praying for the town or city, your DTS staff will guide you every step of the way, equipping you to impact a neighbourhood.
-
-This kind of local ministry will also form part of your preparation for the DTS outreach phase.
+講義期間中は色々な活動を通して、近隣地域にも貢献する機会が与えられます。それは、個人の変革はその周囲にも良い影響をもたらすと私たちは考えるからです。近所のために祈ったり、トラクトを配ったり、ボランティア活動をしたり、形を問わずDTSスタッフと一緒に学んだことを実践していきましょう。これは後半のアウトリーチに向けての良い準備ともなるはずです。
