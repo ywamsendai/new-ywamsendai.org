@@ -22,7 +22,7 @@ padding = ["20px", "0", "20px", "0"]
 
 # 講義
 
-Lecture phase engages the mind. It usually occurs onsite at a YWAM centre, and lasts eleven to twelve weeks. You will receive powerful teaching from motivating speakers and missionaries, meant to provoke, challenge, and encourage. Issues like hearing the voice of God, identity, sin and forgiveness, and much more are discussed. Classroom time is a chance to build friendships and dig deeper into the questions we all have.
+11あるいは12週間にわたる講義では、まずは頭を使って学びます。各週のテーマごとに、様々な背景を持つリーダーや宣教師が講師として招かれます。DTSによって様々なテーマが扱われますが、「神の御声を聞く」「罪と赦し」「聖書的世界観」「宣教」などがその一例です。他の生徒たちと絆を深めながら、クリスチャンとしての基本に立ち返り、共に考え、学ぶ機会です。
 
 # 奉仕活動
 
