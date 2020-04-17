@@ -26,13 +26,13 @@ padding = ["20px", "0", "20px", "0"]
 
 # 奉仕活動
 
-私たちの人格を形成するにあたり欠かせないのは、他者に仕えることです。DTSの講義期間中は、所属しているワイワムコミュニティを運営していくにあたり必要な様々なことをお手伝いしてもらいます。庭仕事や清掃、もてなしの実践などを通して、コミュニティの一員としての役割を果たしてもらうと同時に、チームワークや献身する姿勢を身につけてもらいます。
+私たちの人格を形成するにあたり欠かせないのは、他者に仕えることです。DTSの講義期間中は、所属しているワイワムコミュニティを運営していくにあたり必要な様々なことをお手伝いしてもらいます。庭仕事や清掃、もてなしの実践などを通して、コミュニティの一員としての役割を果たしてもらうと同時に、チームワークや献身する姿勢を身につけます。
 
 # スモールグループや個人メンタリング
 
-Perhaps one of the most important parts of DTS is small groups and one-on-one discipleship. These times will allow you to process what you’re learning about God in a safe environment. One-on-ones are usually held with a DTS staff member, someone who is with you throughout the entire lecture phase. It is their goal to help you grow through mentorship and counsel.
+DTSの講義期間の中で最も重要ともいえる時間が、スモールグループや個人メンタリングの時間かもしれません。少人数で向き合い、信頼できる安全な環境の中で、神様の学びをきちんと振り返り、自分のものにしていきます。個人メンタリングはワイワムでは「ワンオンワン」と呼ばれ、同じDTSスタッフが生徒と一対一で毎週時間をとり、質問に答えたり話を聴いてくれます。
 
-Small groups are held with other DTS students. Here, you can see how your other classmates are being challenged as well. With discussions and personal input into what you’re learning, these are not only times to get to know your classmates better, but also a time to experience the change in others.
+また、スモールグループでは他の生徒と少人数での議論や分かち合いをします。ここで他の生徒たちが抱いている疑問や葛藤を知り、共に学びを深める良い機会であると同時に、自分や他の人たちの心の変革を体験する場となるでしょう。
 
 # Local Ministry/Outreach
 
