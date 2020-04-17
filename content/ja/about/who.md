@@ -2,7 +2,7 @@
 active = true
 headless = true
 subtitle = "ワイワムとは"
-title = "「組織」ではなく「世界的動き」"
+title = "ワイワムという「世界的動き」"
 weight = 10
 widget = "blank"
 [advanced]
