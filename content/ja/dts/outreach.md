@@ -3,7 +3,7 @@ active = true
 headless = true
 subtitle = "アウトリーチ"
 title = "神を知らせる"
-weight = 30
+weight = "35"
 widget = "blank"
 [advanced]
 css_class = ""
