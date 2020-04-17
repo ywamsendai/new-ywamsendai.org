@@ -8,7 +8,6 @@ active = true  # Activate this widget? true/false
 weight = 35  # Order that this section will appear.
 
 title = "Become YWAM staff"
-subtitle = "You can join staff for a couple of years, or stay for life. Grow in leadership, pioneer new ministries and grow established ones."
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -73,7 +72,7 @@ YWAM does not pay its staff. Most of our staff meet their financial needs by par
 
 ## How to Apply
 
-To join YWAM staff you first need to complete a Discipleship Training School (DTS). DTS is the prerequisite to all our other training and opportunities and is offered at over 200 locations around the world.
+To join YWAM staff you first need to complete a Discipleship Training School (DTS). DTS is the prerequisite to all our other training and opportunities and is offered at over 600 locations around the world.
 
 To explore available staff positions within YWAM Japan, please find a location by clicking the link below, then using the contact form on the location's page to ask about staffing opportunities.
 
