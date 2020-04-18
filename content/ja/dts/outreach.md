@@ -26,10 +26,8 @@ DTS のアウトリーチを通して、講義期間中に学んだことを実�
 
 # 派遣先
 
-アウトリーチの派遣先は様々です。中には、開講前から行き先が決まって居るThere are many kinds of locations for DTS outreach–a whole world, in fact! Some DTS or YWAM locations will have already decided where outreach will be held beforehand. Others will decide on these locations after you arrive.
+アウトリーチの派遣先は様々です。中には、開講前から行き先が決まっているDTSにあれば、講義期間中に色々と検討して決めるところもあります。もし事前にその情報があれば、DTSについて調べる際に可能性のある派遣先がリストアップされているかもしれません。
 
-When you click on a DTS you’re interested in you’ll see a list of outreach destinations for that DTS, if they have announced this information.
+# 振り返り
 
-# Debrief
-
-By the time outreach ends, you will have seen and experienced a lot of new things. This is why many DTSes hold a debrief time at the end of outreach. It is a time to regroup, share stories of how God moved, and process what God did through you and others during the DTS. It’s also a time to explore your next steps after DTS.
+アウトリーチの後は、体験した様々な新しいことや学んだことを振り返る時を持ちます。他の仲間たちと体験談を分かち合い、大変だったことや楽しかったことを反省します。そして、 DTS修了後の進路についても祈り考える大切な時間です。
