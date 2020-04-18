@@ -3,7 +3,7 @@ active = true
 headless = true
 subtitle = "目的・信念・基本理念"
 title = "神を知り、神を知らせる"
-weight = 30
+weight = 40
 widget = "blank"
 [advanced]
 css_class = ""
