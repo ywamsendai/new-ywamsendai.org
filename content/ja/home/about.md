@@ -2,7 +2,7 @@
 active = true
 headless = true
 subtitle = "日本ワイワム"
-title = "Meet real needs with the love of Jesus."
+title = "その渇き、キリストの愛で満たそう"
 weight = 10
 widget = "blank"
 [advanced]
@@ -16,6 +16,6 @@ text_color_light = false
 padding = ["20px", "0", "20px", "0"]
 
 +++
-YWAM is a global movement, full of young people who are driven by a passion to know God and make Him known. We have been making waves here in Japan since 1975.
+ワイワムとは「神を知り、神を知らせる」ことをモットーとするクリスチャンの世界的運動です。日本では1975以来活動しています。
 
-[ワイワムとは]({{< ref "/about/index.md" >}})
+\[ワイワムとは\]({{< ref "/about/index.md" >}})
