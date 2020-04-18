@@ -1,7 +1,7 @@
 +++
 active = true
 headless = true
-subtitle = "アウトリーチ"
+subtitle = "アウトリーチ期間"
 title = "神を知らせる"
 weight = "35"
 widget = "blank"
@@ -18,15 +18,15 @@ padding = ["20px", "0", "20px", "0"]
 +++
 {{< figure library="true" src="outreach.JPG" lightbox="true" >}}
 
-**During the Discipleship Training School (DTS) outreach phase, you will join with others to take the message and love of God across the world. You will learn about the diversity of cultures and will participate in God’s purposes for the places you visit.**
+**DTS の後半はアウトリーチです。仲間たちと一緒に学んだことを実践すべく、海外へ伝道に出かけます。行く先々での様々な奉仕や異文化体験を通して、世界での神の御国の働きについて学びます。**
 
-# Field Placement
+# 海外宣教
 
-The DTS outreach phase will give you the chance to apply the principles you learned during your DTS lecture phase. You can put all of your new perspective into action by sharing God’s truth in different places all around the world. The goal is to share the love of God which you have experienced in your own life.
+DTS のアウトリーチを通して、講義期間中に学んだことを実践します。最大の目的は、自分自身が体験し味わった神様の愛を他の国の人々に分かち合うこと。言語や文化が違っても、キリストの愛という永遠の真理が力強く働くことを体験できるでしょう。
 
-# Your Outreach Location
+# 派遣先
 
-There are many kinds of locations for DTS outreach–a whole world, in fact! Some DTS or YWAM locations will have already decided where outreach will be held beforehand. Others will decide on these locations after you arrive.
+アウトリーチの派遣先は様々です。中には、開講前から行き先が決まって居るThere are many kinds of locations for DTS outreach–a whole world, in fact! Some DTS or YWAM locations will have already decided where outreach will be held beforehand. Others will decide on these locations after you arrive.
 
 When you click on a DTS you’re interested in you’ll see a list of outreach destinations for that DTS, if they have announced this information.
 
