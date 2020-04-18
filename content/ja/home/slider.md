@@ -7,7 +7,7 @@ weight = 1
 widget = "slider"
 [[item]]
 align = "left"
-content = "いまだ福音を知らない日本の何百万の人々のために"
+content = "福音を知らない日本の何百万の人々のために"
 cta_icon = "compass"
 cta_icon_pack = "fas"
 cta_label = "探索する"
