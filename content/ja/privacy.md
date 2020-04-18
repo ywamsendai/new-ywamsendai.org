@@ -28,6 +28,8 @@ YWAMJapan.org には外部へのリンクが含まれています。外部リン
 
 ## Copyright and Trademarks
 
-Youth With A Mission, Y.W.A.M. and the YWAM logo are all registered trademarks of Youth With A Mission, a California corporation. All www.ywamjapan.org content is Copyright 2020, Youth With A Mission Japan (宗教法人　世界青年宣教会). All rights reserved. Christian non-profit organizations, churches, small groups and individuals may print and copy the material on this site for ministry and educational purposes only. For uses outside this you will need specific permissions and must contact us. The content may not be re-published, sold or used for making profit without specific permissions.
+このウェブサイトで用いられているロゴは全て Youth With A Mission, a California corporation の登録商標です。キリスト教の非営利特定法人、教会、個人は伝道活動や教育を目的とした場合のみ、このウェブサイトの内容を複写し用いることを許可します。それ以外の使用については許可を申請して下さい。許可なしにウェブサイトの内容を複写もしくは再出版し、営利目的のために販売することを禁じます。
 
 個人情報保護方針や関連事項についてご質問やご用件がある場合は、お気軽にご連絡下さい。
+
+Copyright 2020, Youth With A Mission Japan, All rights reserved.
