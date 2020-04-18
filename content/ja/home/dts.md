@@ -1,52 +1,24 @@
 +++
-# Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
-
-widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
-
-title = "Permission to dream, permission to go."
-subtitle = "How to begin"
-
-[design]
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
-
-[design.background]
-  # Apply a background color, gradient, or image.
-  #   Uncomment (by removing `#`) an option to apply it.
-  #   Choose a light or dark text color by setting `text_color_light`.
-  #   Any HTML color name or Hex value is valid.
-
-  # Background color.
-  # color = "white"
-
-  # Background gradient.
-  # gradient_start = "DarkGreen"
-  # gradient_end = "ForestGreen"
-
-  # Background image.
-  image = "dts.jpg"  # Name of image in `static/img/`.
-  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
-  image_position = "center"  # Options include `left`, `center` (default), or `right`.
-  image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
-
-  # Text color (true=light or false=dark).
-  text_color_light = true
-
-[design.spacing]
-  # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
-
+active = true
+headless = true
+subtitle = "何から始める？"
+title = "そのやる気、神様に捧げよう"
+weight = 20
+widget = "blank"
 [advanced]
- # Custom CSS.
- css_style = ""
+css_class = ""
+css_style = ""
+[design]
+columns = "2"
+[design.background]
+image = "dts.jpg"
+image_darken = 0.6
+image_parallax = true
+image_position = "center"
+image_size = "cover"
+text_color_light = true
+[design.spacing]
+padding = ["20px", "0", "20px", "0"]
 
- # CSS class.
- css_class = ""
 +++
-
-Start with the [弟子訓練学校（DTS）]({{< ref "/dts/index.md" >}}). Spend six months centring your life in God. Seek personal breakthroughs. Stretch yourself by serving God in a cross-cultural setting. For a shorter opportunity, you can also start by volunteering or by joining a mission trip.
+ワイワマーになる第一歩は、 \[弟子訓練学校（DTS）\]({{< ref "/dts/index.md" >}}). まずは半年間、神様を中心とした生活を他の仲間たちとしてみませんか。異文化体験や心の変革を通じて、きっと人生に転機をもたらしてくれるでしょう。
