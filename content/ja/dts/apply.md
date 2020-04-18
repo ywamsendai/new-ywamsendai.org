@@ -1,8 +1,8 @@
 +++
 active = true
 headless = true
-subtitle = "How to Apply"
-title = "Pray for God to lead you as you explore."
+subtitle = "出願方法"
+title = "祈ってから、一歩踏み出してみよう"
 weight = "40"
 widget = "blank"
 [advanced]
