@@ -1,7 +1,7 @@
 +++
 active = true
 headless = true
-subtitle = "日本ワイワム"
+subtitle = "YWAMのことです！"
 title = "ワイワムって何？"
 weight = 10
 widget = "blank"
@@ -16,6 +16,6 @@ text_color_light = false
 padding = ["20px", "0", "20px", "0"]
 
 +++
-「神を知り、神を知らせる」ことをモットーとするクリスチャンの世界的運動です。日本では1975以来活動しています。
+Youth With A Missionの頭文字です。「神を知り、神を知らせる」ことをモットーとするクリスチャンの世界的運動で、世界各国で宣教や訓練を通した働きをしています。日本では1975以来活動しています。
 
 \[ワイワムとは\]({{< ref "/about/index.md" >}})
