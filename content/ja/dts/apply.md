@@ -16,8 +16,8 @@ text_color_light = false
 padding = ["20px", "0", "20px", "0"]
 
 +++
-Apply for the DTS at over 600 YWAM locations all over the world. Many offer a special focus on a specific interest, an area of service, or a nation.
+DTS は世界各国の 600 以上あるワイワムで随時開催されています。中には特化した分野やテーマ（たとえば、スポーツや奉仕分野など）に沿って開催されるものもあります。
 
-If you would like to apply for the DTS in Japan, please explore what we have available on our [homepage](../#explore).
+日本での DTS に関心がある方は、[こちら](../#explore)をご覧ください。
 
-For more information about DTS, including finding the DTS all over the world, please visit [YWAM.org](https://ywam.org/dts).
+また、DTS 全般についてもっと知りたい場合や海外でのDTS に興味がある方は、[国際ワイワムのホームページ](https://ywam.org/dts)をご覧下さい（こちらは英語のみになります）。
