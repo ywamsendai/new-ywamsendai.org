@@ -2,7 +2,7 @@
 active = true
 headless = true
 subtitle = "何から始める？"
-title = "そのやる気、神様に捧げよう"
+title = "誰でも参加できます"
 weight = 20
 widget = "blank"
 [advanced]
