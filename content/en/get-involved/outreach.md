@@ -7,11 +7,11 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 25  # Order that this section will appear.
 
-title = "Become a Volunteer"
+title = "Volunteer or go on a Mission Trip"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -48,6 +48,10 @@ title = "Become a Volunteer"
  css_class = ""
 +++
 
-Spend some time designing a website, working with local churches, maintaining an old building, or doing one of hundreds of other jobs alongside YWAM’s full-time staff. YWAM’s [Mission Builders](https://www.missionbuilders.org/) ministry specializes in helping people volunteer with YWAM. You can also find a volunteer opportunity by contacting one of our locations directly.
+Spend some time designing a website, working with local churches, maintaining an old building, ministering to the homeless, proclaiming the gospel, playing sports with locals, or doing one of hundreds of other jobs alongside YWAM’s full-time staff.
+
+For individuals, YWAM’s [Mission Builders](https://www.missionbuilders.org/) ministry specializes in helping people volunteer with YWAM. Alternatively, you can contact a location directly to find how you can serve.
+
+For groups, you can come as a family with children, as a church group, youth group, or outreach as part of a YWAM school based in a different country. Please contact specific locations in Japan about possibilities.
 
 [Find a location >]({{< ref "/#explore" >}})
