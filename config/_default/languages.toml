@@ -16,7 +16,6 @@
 
   [ja.params]
     description = "神を知り、神を知らせる"
-    ywam ="国際ワイワムの一部。"
 
 ## Location addresses in Japanese
     azumino_address = {street = "豊科5584-1", city = "安曇野市", region = "長野県", postcode = "〒399-8205", country = "Japan", country_code = "JP"}
@@ -33,7 +32,7 @@
     address_format = "ja"
 
   [[ja.menu.main]]
-    name = "探索する"
+    name = "調べてみる"
     url = "#explore"
     weight = 10
 
