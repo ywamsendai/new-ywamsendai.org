@@ -42,7 +42,7 @@
     weight = 20
 
   [[ja.menu.main]]
-    name = "Get Involved"
+    name = "参加する"
     url = "/get-involved"
     weight = 30
 
