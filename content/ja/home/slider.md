@@ -29,7 +29,7 @@ height = "calc(100vh - 70px)"
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "探る"
+  cta_label = "探索する"
   cta_url = "#explore"
   cta_icon_pack = "fas"
   cta_icon = "compass"

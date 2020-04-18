@@ -33,7 +33,7 @@
     address_format = "ja"
 
   [[ja.menu.main]]
-    name = "探す"
+    name = "探索する"
     url = "#explore"
     weight = 10
 
@@ -43,6 +43,11 @@
     weight = 20
 
   [[ja.menu.main]]
+    name = "Get Involved"
+    url = "/get-involved"
+    weight = 30
+
+  [[ja.menu.main]]
     name = "ワイワムとは"
     url = "/about"
-    weight = 30
+    weight = 40
