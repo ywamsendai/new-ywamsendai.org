@@ -8,7 +8,7 @@ header:
   image: ''
 
 ---
-日本ワイワム（宗教法人世界青年宣教会）は、個人情報の取り扱いの重要性を認識し、適切に管理、運営していくために以下のように方針を定めています。The following are Youth With A Mission (YWAM) Japan’s statements in regard to privacy, honesty, security, links, trademarks, and copyrights.
+日本ワイワム（宗教法人世界青年宣教会）は、個人情報の取り扱いの重要性を認識し、適切に管理、運営していくために以下のように方針を定めています。
 
 ## プライバシー保護
 
@@ -22,9 +22,9 @@ header:
 
 YWAMJapan.org では提供された個人情報（氏名、メールアドレス、メッセージ内容など）が第三者により閲覧されないように適切に保護管理されています。
 
-## Disclaimer Regarding Links
+## 免責条項
 
-YWAMJapan.org contains links to other sites. YWAM is not responsible for the privacy practices or the content of such websites.
+YWAMJapan.org には外部へのリンクが含まれています。外部リンクに記載されている内容や外部リンクにおける個人情報保護関連事項については一切責任を負いません。
 
 ## Copyright and Trademarks
 
