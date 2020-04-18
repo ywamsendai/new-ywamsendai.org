@@ -5,9 +5,9 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 25  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
-title = "Volunteer or go on a Mission Trip"
+title = "Specialized studies in YWAM’s UofN."
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -48,10 +48,8 @@ title = "Volunteer or go on a Mission Trip"
  css_class = ""
 +++
 
-Spend some time designing a website, working with local churches, maintaining an old building, ministering to the homeless, proclaiming the gospel, playing sports with locals, or doing one of hundreds of other jobs alongside YWAM’s full-time staff.
+YWAM offers everything from one-day seminars to University of the Nations degrees. Learn the Bible, counselling, performing arts, healthcare, missions, and much more. YWAM courses, often called “schools,” combine theory with practical application. They usually last between three and nine months. To find schools in Japan, please click the following link.
 
-For individuals, YWAM’s [Mission Builders](https://www.missionbuilders.org/) ministry specializes in helping people volunteer with YWAM. Alternatively, you can contact a location directly to find how you can serve.
+[Join a UofN Course >]({{< ref "/#explore" >}})
 
-For groups, you can come as a family with children, as a church group, youth group, or outreach as part of a YWAM school based in a different country. Please contact specific locations in Japan about possibilities.
-
-[Find a location >]({{< ref "/#explore" >}})
+Note: For most YWAM training programs including seminars, a Discipleship Training School (YWAM DTS) is a prerequisite.
