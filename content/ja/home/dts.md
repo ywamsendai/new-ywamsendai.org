@@ -1,7 +1,7 @@
 +++
 active = true
 headless = true
-subtitle = "何から始める？"
+subtitle = "弟子訓練学校"
 title = "初めの一歩"
 weight = 20
 widget = "blank"
