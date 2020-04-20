@@ -1,7 +1,7 @@
 +++
 active = true
 headless = true
-subtitle = "ローレン・カニンガム"
+subtitle = "ローレン・カニンガムについて"
 title = "創立者"
 weight = 30
 widget = "blank"
