@@ -1,60 +1,27 @@
 +++
-# Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
-
-widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 25  # Order that this section will appear.
-
-title = "Chase After Your God-Given Dream."
-subtitle = "A world of opportunities"
-
-[design]
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
-
-[design.background]
-  # Apply a background color, gradient, or image.
-  #   Uncomment (by removing `#`) an option to apply it.
-  #   Choose a light or dark text color by setting `text_color_light`.
-  #   Any HTML color name or Hex value is valid.
-
-  # Background color.
-  # color = "white"
-
-  # Background gradient.
-  # gradient_start = "DarkGreen"
-  # gradient_end = "ForestGreen"
-
-  # Background image.
-  #image = "get-involved.jpg"  # Name of image in `static/img/`.
-  #image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  #image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
-  #image_position = "center"  # Options include `left`, `center` (default), or `right`.
-  #image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
-
-  # Text color (true=light or false=dark).
-  text_color_light = false
-
-[design.spacing]
-  # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
-
+active = true
+headless = true
+subtitle = "様々な機会が待ち受けています！"
+title = "神様と、さらなる冒険へ"
+weight = 25
+widget = "blank"
 [advanced]
- # Custom CSS.
- css_style = ""
+css_class = ""
+css_style = ""
+[design]
+columns = "2"
+[design.background]
+text_color_light = false
+[design.spacing]
+padding = ["20px", "0", "20px", "0"]
 
- # CSS class.
- css_class = ""
 +++
+弟子訓練学校を修了後は様々な形を通して学びを深めたり、伝道や宣教の働きに参加することができます。 \[Discipleship Training School\]({{< ref "/dts/index.md" >}})
 
-After the [Discipleship Training School]({{< ref "/dts/index.md" >}}), spend two or more years journeying alongside a community of people who desperately want to serve Jesus in Japan with their whole lives.
+賜物や夢を生かして働くために、さらなる訓練を受けることも可能です。あるいは、全く新しい何かを始めることに導かれるかもしれません。神様と祈り、夢見て、さらなる冒険が始まります。
 
-Deepen your training for what God is leading you into. Learn by doing. Start something new Japan.
+特に、日本ではまだまだ福音が広がっていません。数週間の短期でも、一生涯をかけての長期でも、日本での神様の働きに参加することを祈り検討してみて下さい！
 
-Feeling called to Japan? Consider coming to Japan either for a few weeks, a couple of years, or your whole life!
+\[参加してみる>\]({{< ref "/get-involved/index.md" >}})
 
-[Get involved >]({{< ref "/get-involved/index.md" >}})
-
-Explore the different possibilities in Japan below.
+以下から、日本国内での様々な機会について知ることができます。
