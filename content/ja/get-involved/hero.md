@@ -15,4 +15,4 @@ image_size = "cover"
 text_color_light = true
 
 +++
-参加してみる
+神様はあなたを用いたいと願っておられます
