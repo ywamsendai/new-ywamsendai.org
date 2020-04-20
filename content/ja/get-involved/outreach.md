@@ -1,7 +1,7 @@
 +++
 active = true
 headless = true
-title = "ボランティアとして参加してみる"
+title = "ボランティアとして参加する"
 weight = 25
 widget = "blank"
 [advanced]
