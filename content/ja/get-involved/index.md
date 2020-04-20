@@ -1,5 +1,5 @@
 ---
-title: 参加してみる
+title: 参加する
 type: widget_page
 
 ---
