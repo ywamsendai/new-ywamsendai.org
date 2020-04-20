@@ -1,4 +1,5 @@
 ---
-title: Get Involved
-type: "widget_page"
+title: 参加してみる
+type: widget_page
+
 ---
