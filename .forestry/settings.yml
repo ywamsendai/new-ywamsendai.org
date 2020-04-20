@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: ''
-webhook_url: 
+webhook_url:
 sections:
 - type: heading
   label: Home
@@ -38,6 +38,18 @@ sections:
 - type: directory
   path: content/ja/dts
   label: DTS (Ja)
+  create: all
+  match: "**/*"
+- type: heading
+  label: Get Involved
+- type: directory
+  path: content/en/get-involved
+  label: Get Involved (En)
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/ja/get-involved
+  label: Get Involved (Ja)
   create: all
   match: "**/*"
 - type: heading
