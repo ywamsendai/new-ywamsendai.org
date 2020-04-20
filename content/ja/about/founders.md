@@ -2,7 +2,7 @@
 active = true
 headless = true
 subtitle = "Our Founders & Elders"
-title = ""
+title = "創立者"
 weight = 30
 widget = "blank"
 [advanced]
@@ -18,6 +18,8 @@ padding = ["20px", "0", "20px", "0"]
 +++
 {{< figure library="true" src="LorenandDarleneCunningham.jpg" lightbox="true" >}}
 
-> "Loren and Darlene, through their obedience to the Lord, have transformed the global mission movement. Their actions directly affected countless lives from every nation!" - Rev. Leonard Ravenhill
+> 「ローレンとダーリーンは神への従順を通して、世界宣教のあり方に革命をもたらしたといえる。彼らの行動は世界中のすべての国において、大勢の人の人生に大きな影響をもたらしています。」
+>
+> レオナルド・レイヴンヒル牧師
 
-YWAM was founded by Loren Cunningham in 1960 after God gave him a vision of waves of young people crashing onto the shores of all nations of the world with the Gospel. Loren also co-founded the University of the Nations in 1978 in order to better train and equip people for missions. As YWAM is a decentralised mission with no global headquarters, Loren and his wife Darlene make up part of YWAM's Founders' Circle overseeing the mission and pointing YWAMers across the world back to Jesus.
+ワイワムの誕生は、ローレン・カニンガムというアメリカ人の青年があるビジョンを受け取ったことに遡ります。1960年に、彼は全世界のすべての国々の岸辺に、幾重にもなる波となって大勢の若者が福音を伝えるために押し寄せていく夢を見ました。彼はその後1978年にユニバーシティ・オブ・ザ・ネイションズを他の有志と創立し、宣教のための訓練と学びをより本格的に提供することができるようにしました。ワイワムはトップダウンの組織構造を持たず、世界各地の活動拠点が独立しているため「本部」のような司令塔は存在しません。カニンガム夫妻と創立時から関わっている数名が「創設者委員会」として、世界各国での働きを見守り、必要な時にはキリストの導きに立ち返るように指導しています。
