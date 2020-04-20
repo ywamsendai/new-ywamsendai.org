@@ -1,7 +1,7 @@
 +++
 active = true
 headless = true
-title = "ボランティアや伝道旅行に参加してみる"
+title = "ボランティアとして参加してみる"
 weight = 25
 widget = "blank"
 [advanced]
@@ -15,10 +15,6 @@ text_color_light = false
 padding = ["20px", "0", "20px", "0"]
 
 +++
-Spend some time designing a website, working with local churches, maintaining an old building, ministering to the homeless, proclaiming the gospel, playing sports with locals, or doing one of hundreds of other jobs alongside YWAM’s full-time staff.
+世界中のワイワムでは、様々な形でボランティアを受け入れています。その奉仕内容は多岐にわたり、現地の教会でイベントを手伝ったり、芸術やスポーツを通して交流したり、建物の管理運営に関わったり、トラクト配布やホームレスの人々への炊き出しに至るまで、様々です。日本国外でのボランティア活動に関しては、英語（あるいは現地語）を話せることが条件になります。[Mission Builders](https://www.missionbuilders.org/)として出願することもできますし、各国のワイワムに直接問い合わせることも可能です。
 
-For individuals, YWAM’s [Mission Builders](https://www.missionbuilders.org/) ministry specializes in helping people volunteer with YWAM. Alternatively, you can contact a location directly to find how you can serve.
-
-For groups, you can come as a family with children, as a church group, youth group, or outreach as part of a YWAM school based in a different country. Please contact specific locations in Japan about possibilities.
-
-[Find a location >]({{< ref "/#explore" >}})
+\[Find a location >\]({{< ref "/#explore" >}})
