@@ -15,32 +15,30 @@ text_color_light = false
 padding = ["20px", "0", "20px", "0"]
 
 +++
-Whatever way you want to serve God, you can most likely do it in YWAM! Being on staff with YWAM is an adventure in faith. Join staff for a couple of years, or stay for life.
+ワイワムではおそらく、神様の御心ならどんな形でも活動することが可能です！ワイワムに参加することは、信仰と従順にもとづく冒険です。２年ほどスタッフになってみることから始める人が多いですが、そこから生涯にわたって宣教活動に献身する人も大勢います。
 
-In many of our locations, one of the joys of joining staff is to serve side by side with people from a variety of nations. Our staff come from numerous different Christian denominations and nearly half of our staff come from Non-Western countries, such as Brazil, South Korea, Indonesia, India and Nepal.
+ワイワムの中で活動することの大きな喜びの一つは、様々な国や教派出身の仲間達と働けることです。日本ワイワムでも、北米だけでなく南米やヨーロッパ、アジア各国など様々な国からのスタッフが宣教師として来日して活動しています。日本からもぜひ世界各国へ出かけていき、神様に仕える人が多く起こされることを願っています！
 
-Here are a few of the many staff openings in YWAM:
+ワイワムスタッフとしての活動は以下のように様々です：
 
-* Accountants
-* Graphic Designers
-* Evangelists
-* Receptionists
-* Administrators
-* Church Planters
-* Teachers
-* Physicians/Nurses
-* Cooks
-* Carpenters
-* Journalists/Editors
+* 教会開拓
+* 伝道
+* 事務・会計
+* グラフィック・デザイン
+* 教育関係
+* 医療関係
+* 料理
+* 大工や建築
+* ジャーナリストなどメディア関係
 
-## Salary and Benefits
+## 給与や報酬
 
-YWAM does not pay its staff. Most of our staff meet their financial needs by partnering with friends and churches who support their ministry. In some areas, our staff work in other businesses for financial, practical or ministry reasons.
+ワイワムでは一切給与や報酬が出ません。ほとんどのスタッフは、自分の働きに賛同し応援してくれる教会や個人からの寄付金を募って活動しています。中には、宣教の働きも兼ねて報酬がある仕事をしながらスタッフとして活動している人もいます。（この点については各ワイワムによって方針が異なりますが、ほとんどの場合サポーターを通して生計を立てることが期待されます。）
 
-## How to Apply
+## 出願方法
 
-To join YWAM staff you first need to complete a Discipleship Training School (DTS). DTS is the prerequisite to all our other training and opportunities and is offered at over 600 locations around the world.
+ワイワムスタッフとして出願するには、まず弟子訓練学校(DTS)を修了していることが第一条件です。これは全世界のワイワムで共通することです。
 
-To explore available staff positions within YWAM Japan, please find a location by clicking the link below, then using the contact form on the location's page to ask about staffing opportunities.
+日本ワイワムでも随時スタッフを募集しています。海外からだけでなく、自国への宣教に導かれた日本人のスタッフもいます。より多くの人が日本ワイワムに加わって下さることを願っています！詳しくは以下から各拠点に直接お問い合わせ下さい。
 
-[Find a location >]({{< ref "/#explore" >}})
+\[調べてみる >\]({{< ref "/#explore" >}})
