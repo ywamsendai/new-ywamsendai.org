@@ -16,6 +16,8 @@ text_color_light = false
 padding = ["20px", "0", "20px", "0"]
 
 +++
+
+安曇野教会開拓チーム
 Shekinah Christian Fellowship
 Team: Glynis Osborne, Judith Cassell
 
