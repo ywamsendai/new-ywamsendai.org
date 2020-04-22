@@ -22,16 +22,12 @@ subtitle = ""
   filter_default = 0
 
   [[content.filter_button]]
-    name = "All"
-    tag = "Explore"
+    name = "Locations"
+    tag = "Location"
 
   [[content.filter_button]]
     name = "DTS"
     tag = "DTS"
-
-  [[content.filter_button]]
-    name = "Locations"
-    tag = "Location"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

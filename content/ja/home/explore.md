@@ -12,14 +12,11 @@ css_style = ""
 filter_default = 0
 page_type = "widget_page"
 [[content.filter_button]]
-name = "すべて"
-tag = "Explore"
+name = "場所"
+tag = "Location"
 [[content.filter_button]]
 name = "DTS"
 tag = "DTS"
-[[content.filter_button]]
-name = "場所"
-tag = "Location"
 [design]
 columns = "2"
 flip_alt_rows = false

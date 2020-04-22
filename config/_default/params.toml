@@ -170,7 +170,7 @@ oita_coordinates = {latitude = "33.242238", longitude = "131.608024"}
 # Okinawa contact details. To hide a field, clear it to "".
 okinawa_website = "https://www.ywamokinawa.org"
 okinawa_email = "ywamokinawa@gmail.com"
-okinawa_phone = "098-937-9027"
+okinawa_phone = "098-988-7330"
 okinawa_address = {street = "2-10-16 Shirahama Ishikawa", city = "Uruma", region = "Okinawa", postcode = "904-1105", country = "Japan", country_code = "JP"}
 okinawa_coordinates = {latitude = "26.423932", longitude = "127.825819"}
 
