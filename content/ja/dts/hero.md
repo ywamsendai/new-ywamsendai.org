@@ -1,7 +1,7 @@
 +++
 active = true
 headless = true
-title = "そのやる気、捧げてみよう"
+title = "立ち止まり、神様を求めてみよう"
 weight = 1
 widget = "hero"
 [design.background]
