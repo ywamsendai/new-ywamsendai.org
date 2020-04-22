@@ -19,6 +19,8 @@ padding = ["20px", "0", "20px", "0"]
 Shekinah Christian Fellowship
 Team: Glynis Osborne, Judith Cassell
 
+[ホームページへ](https://shekinahcf.wixsite.com/ywam/home)
+
 ## 詳細
 
 * **言語：** 英語、日本語

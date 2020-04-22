@@ -18,7 +18,7 @@
     description = "神を知り、神を知らせる"
 
 ## Location addresses in Japanese
-    azumino_address = {street = "豊科5584-1", city = "安曇野市", region = "長野県", postcode = "〒399-8205", country = "Japan", country_code = "JP"}
+    azumino_address = {street = "三郷明盛2303-4", city = "安曇野市", region = "長野県", postcode = "〒399-8201", country = "Japan", country_code = "JP"}
     kagoshima_address = {street = "大口里2698", city = "伊佐市", region = "鹿児島県", postcode = "〒895-2511", country = "Japan", country_code = "JP"}
     kobe_address = {street = "", city = "神戸市", region = "兵庫県", postcode = "", country = "Japan", country_code = "JP"}
     kyoto_address = {street = "", city = "京都市", region = "京都府", postcode = "", country = "Japan", country_code = "JP"}
