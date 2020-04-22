@@ -2,7 +2,7 @@
 active = true
 headless = true
 subtitle = "出願方法"
-title = "祈ってから、一歩踏み出してみよう"
+title = "祈って、一歩踏み出してみよう"
 weight = "40"
 widget = "blank"
 [advanced]
