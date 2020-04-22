@@ -49,9 +49,8 @@ subtitle = ""
  css_class = ""
 +++
 
-Southern part of Kyushu Island in Japan.
-
-Hope Chapel church planting team.
+Kagoshima Church Planting Team
+Hope Chapel in Kagoshima and Isa cities
 
 [Visit Website](http://hopekago.luna.weblife.me/index.html)
 
@@ -59,4 +58,4 @@ Hope Chapel church planting team.
 
 * **Language(s):** Korean, Japanese, English
 * **Omega Zone & Region:** Kagoshima, Kyushu
-* **Last Updated:** 2020-04-13
+* **Last Updated:** 2020-04-22

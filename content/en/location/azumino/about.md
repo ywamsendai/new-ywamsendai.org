@@ -49,6 +49,7 @@ subtitle = ""
  css_class = ""
 +++
 
+Azumino Church Planting Team
 Shekinah Christian Fellowship
 Team: Glynis Osborne, Judith Cassell
 
