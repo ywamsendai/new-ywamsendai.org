@@ -49,7 +49,7 @@ subtitle = ""
  css_class = ""
 +++
 
-[Visit Website](http://ywamjpoffice.blogspot.com)
+
 
 ## Details
 

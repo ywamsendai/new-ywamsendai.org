@@ -16,7 +16,7 @@ text_color_light = false
 padding = ["20px", "0", "20px", "0"]
 
 +++
-[ホームページへ](http://ywamjpoffice.blogspot.com)
+
 
 ## 詳細
 
