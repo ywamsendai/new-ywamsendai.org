@@ -183,7 +183,7 @@ sendai_coordinates = {latitude = "38.2728", longitude = "140.761462"}
 
 # Takatsuki contact details. To hide a field, clear it to "".
 takatsuki_website = "https://www.ywamtakatsuki.org"
-takatsuki_email = "ywamosaka@gmail.com"
+takatsuki_email = "info@ywamtakatsuki.org"
 takatsuki_phone = "072-669-0555"
 takatsuki_address = {street = "2-15-3 Kanmaki-cho", city = "Takatsuki", region = "Osaka", postcode = "569-0003", country = "Japan", country_code = "JP"}
 takatsuki_coordinates = {latitude = "34.864127", longitude = "135.662477"}
