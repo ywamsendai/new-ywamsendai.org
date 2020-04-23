@@ -26,6 +26,7 @@
     no_address = {street = "日本堤1-19-6", city = "台東区", region = "東京都", postcode = "〒111-0021", country = "Japan", country_code = "JP"}
     oita_address = {street = "", city = "大分市", region = "大分県", postcode = "", country = "Japan", country_code = "JP"}
     okinawa_address = {street = "石川白浜2-10-16", city = "うるま市", region = "沖縄県", postcode = "〒904-1105", country = "Japan", country_code = "JP"}
+    okinawa_phone2 = "電話の対応が出来ない事が多いので出来るだけメールでご連絡下さい。"
     sendai_address = {street = "青葉区愛子中央", city = "仙台市", region = "宮城県", postcode = "〒989-3128", country = "Japan", country_code = "JP"}
     takatsuki_address = {street = "上牧町2-15-3", city = "高槻市", region = "大阪府", postcode = "〒569-0003", country = "Japan", country_code = "JP"}
     tokyo_address = {street = "新川町1-17-7", city = "東久留米市", region = "東京都", postcode = "〒203-0013", country = "Japan", country_code = "JP"}
