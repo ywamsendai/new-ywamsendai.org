@@ -49,7 +49,6 @@ subtitle = ""
  css_class = ""
 +++
 
-Azumino Church Planting Team
 Shekinah Christian Fellowship
 Team: Glynis Osborne, Judith Cassell
 
@@ -59,4 +58,4 @@ Team: Glynis Osborne, Judith Cassell
 
 * **Language(s):** English, Japanese
 * **Omega Zone & Region:** Nagano, Hokuriku-Shinetsu
-* **Last Updated:** 2020-04-22
+* **Last Updated:** 2020-04-23

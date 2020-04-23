@@ -59,6 +59,7 @@
         <i class="fa-li fas fa-phone fa-2x" aria-hidden="true"></i>
         <span id="person-telephone">
         {{- if $autolink }}<a href="tel:{{ . }}">{{ . }}</a>{{ else }}{{ . }}{{ end -}}
+        <br />{{ $data.okinawa_phone2 }}
         </span>
       </li>
       {{ end }}
