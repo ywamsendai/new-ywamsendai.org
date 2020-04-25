@@ -16,7 +16,6 @@ text_color_light = false
 padding = ["20px", "0", "20px", "0"]
 
 +++
-The YWAM centre in Kanmaki Town is located in the district of Takatsuki, in Osaka Prefecture. We are half-way between Osaka City and Kyoto. The closest international airport is Osaka-Kansai (KIX). Contact us for information about joining us as long or short term staff, coming on outreach, or about DTS!
 
 [ホームページへ](https://www.ywamtakatsuki.org)
 

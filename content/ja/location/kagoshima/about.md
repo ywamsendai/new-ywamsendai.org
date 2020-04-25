@@ -18,7 +18,6 @@ padding = ["20px", "0", "20px", "0"]
 +++
 
 鹿児島教会開拓チーム
-Hope Chapel church planting team.
 
 [ホームページへ](http://hopekago.luna.weblife.me/index.html)
 

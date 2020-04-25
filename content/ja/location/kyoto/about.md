@@ -16,7 +16,6 @@ text_color_light = false
 padding = ["20px", "0", "20px", "0"]
 
 +++
-New YWAM location in Kyoto.
 
 ## 詳細
 

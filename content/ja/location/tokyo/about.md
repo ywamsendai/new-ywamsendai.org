@@ -49,8 +49,6 @@ subtitle = ""
  css_class = ""
 +++
 
-We are an international community of people settled in Tokyo, Japan, to build an altar of worship to the Lord. We desire to love God and love people by seeking intimate relationship with God - Father, Son, and Holy Spirit - as well as His Word, living in wholehearted relationship with others, and championing the Kingdom of God around us.
-
 [ホームページへ](https://ywamtokyo.org)
 
 ## 明細
