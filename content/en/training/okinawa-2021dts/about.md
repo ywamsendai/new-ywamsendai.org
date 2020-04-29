@@ -49,18 +49,18 @@ title = "Overview"
  css_class = ""
 +++
 
-First ever DTS in Tohoku, Japan!
+Bilingual Japanese and English DTS.
 
-[Visit Website](https://ywamsendai.org)
+[Visit Website](https://www.ywamokinawa.org/dts/)
 
 ## Details
 
 * **UofN Code:** DSP 211/212
 * **Start date:** April 2021
-* **Length:** 22 Weeks
-* **Language(s):** English, Japanese
+* **Length:** 24 Weeks
+* **Language(s):** Japanese, English
 * **Outreach Locations:** N/A
 * **Related Passion:** N/A
-* **Omega Zone:** Miyagi
-* **Region:** Tohoku
-* **Last Updated:** 2020-04-13
+* **Omega Zone:** Okinawa
+* **Region:** Okinawa Islands
+* **Last Updated:** 2020-04-29

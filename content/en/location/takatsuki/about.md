@@ -51,12 +51,13 @@ subtitle = ""
 
 Located halfway between Osaka and Kyoto, we sit next to two of the biggest cities in Japan. As a strategic location for Japan and for the nations, we want to see people encounter God and equip them to share the Good News with the people around them! Our heart is to build community that showcases what God's love is, and through intentional relationships teach others more of who God is!
 
-We invite you to partner and to join us in taking this nation for Jesus! We have opportunities for those that want to come as short or long term staff, as well as for outreach teams. And for those that want to go on a six month journey of growing closer to God, please contact us about our DTS! 
+We invite you to partner and to join us in taking this nation for Jesus! We have opportunities for those that want to come as short or long term staff, as well as for outreach teams. And for those that want to go on a six month journey of growing closer to God, please contact us about our DTS!
 
 [Visit Website](https://www.ywamtakatsuki.org)
 
 ## Details
 
 * **Language(s):** English
-* **Omega Zone & Region:** North Osaka, Kansai
+* **Omega Zone:** North Osaka
+* **Region:** Kansai
 * **Last Updated:** 2020-04-23

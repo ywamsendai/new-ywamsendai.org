@@ -2,7 +2,7 @@
 active = true
 headless = true
 subtitle = ""
-title = "調べてみる"
+title = "活動拠点"
 weight = 30
 widget = "portfolio"
 [advanced]

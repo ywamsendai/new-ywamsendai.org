@@ -54,5 +54,6 @@ New YWAM location in Kobe.
 ## Details
 
 * **Language(s):** Chinese, English
-* **Omega Zone & Region:** Hyogo, Kansai
+* **Omega Zone:** Hyogo
+* **Region:** Kansai
 * **Last Updated:** 2020-04-13

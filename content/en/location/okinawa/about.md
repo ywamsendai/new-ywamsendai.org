@@ -56,5 +56,6 @@ subtitle = ""
 ## Details
 
 * **Language(s):** Japanese, Korean, English
-* **Omega Zone & Region:** Okinawa, Okinawa Islands
+* **Omega Zone:** Okinawa
+* **Region:** Okinawa Islands
 * **Last Updated:** 2020-04-13

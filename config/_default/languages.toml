@@ -33,7 +33,7 @@
     address_format = "ja"
 
   [[ja.menu.main]]
-    name = "調べてみる"
+    name = "活動拠点"
     url = "#explore"
     weight = 10
 

@@ -56,5 +56,6 @@ New YWAM location in Hokkaido.
 ## Details
 
 * **Language(s):** English
-* **Omega Zone & Region:** Hokkaido
+* **Omega Zone:** Hokkaido
+* **Region:** Hokkaido
 * **Last Updated:** 2020-04-13

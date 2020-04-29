@@ -57,5 +57,6 @@ Hope Chapel in Kagoshima and Isa cities
 ## Details
 
 * **Language(s):** Korean, Japanese, English
-* **Omega Zone & Region:** Kagoshima, Kyushu
+* **Omega Zone:** Kagoshima
+* **Region:** Kyushu
 * **Last Updated:** 2020-04-22

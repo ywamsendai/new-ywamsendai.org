@@ -50,9 +50,9 @@ subtitle = ""
 +++
 
 
-
 ## Details
 
 * **Language(s):** Japanese, English
-* **Omega Zone & Region:** East Tokyo, Kanto
+* **Omega Zone:** East Tokyo
+* **Region:** Kanto
 * **Last Updated:** 2020-04-13

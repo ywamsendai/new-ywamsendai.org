@@ -69,5 +69,6 @@ The Discipleship Training School (DTS) is a six month Christian course designed 
 * **Language(s):** English
 * **Outreach Locations:** N/A
 * **Related Passion:** N/A
-* **Omega Zone & Region:** North Osaka, Kansai
+* **Omega Zone:** North Osaka
+* **Region:** Kansai
 * **Last Updated:** 2020-04-14

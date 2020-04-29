@@ -61,5 +61,6 @@ First ever DTS in Tohoku, Japan!
 * **Language(s):** English, Japanese
 * **Outreach Locations:** N/A
 * **Related Passion:** N/A
-* **領域とオメガゾーン：** 東北地方・宮城県
+* **オメガゾーン：** 宮城県
+* **領域：** 東北地方
 * **Last Updated:** 2020-04-13

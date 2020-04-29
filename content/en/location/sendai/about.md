@@ -58,5 +58,6 @@ As Tohoku is a large region that is mostly unreached by the gospel, we want to s
 ## Details
 
 * **Language(s):** English, Japanese (transitioning)
-* **Omega Zone & Region:** Miyagi, Tohoku
+* **Omega Zone:** Miyagi
+* **Region:** Tohoku
 * **Last Updated:** 2020-04-13

@@ -55,5 +55,6 @@ New YWAM location in Oita.
 ## Details
 
 * **Language(s):** English
-* **Omega Zone & Region:** Oita, Kyushu
+* **Omega Zone:** Oita
+* **Region:** Kyushu
 * **Last Updated:** 2020-04-13
