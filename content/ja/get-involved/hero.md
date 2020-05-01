@@ -1,7 +1,7 @@
 +++
 active = true
 headless = true
-title = "あなたが世界に貢献できることは何ですか？"
+title = "世界のために、あなたにしかできないことがある"
 weight = 1
 widget = "hero"
 [design.background]
