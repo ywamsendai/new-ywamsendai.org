@@ -24,4 +24,4 @@ padding = ["20px", "0", "20px", "0"]
 
 以下から、日本国内での様々な機会について知ることができます。
 
-\[参加してみる >\]({{< ref "/get-involved/index.md" >}})
+[参加してみる >]({{< ref "/get-involved/index.md" >}})

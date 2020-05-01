@@ -50,6 +50,6 @@ title = "Specialized studies in YWAM’s UofN."
 
 YWAM offers everything from one-day seminars to University of the Nations degrees. Learn the Bible, counselling, performing arts, healthcare, missions, and much more. YWAM courses, often called “schools,” combine theory with practical application. They usually last between three and nine months. To find schools in Japan, please click the following link.
 
-[Join a UofN Course >]({{< ref "/#explore" >}})
+**Sorry, there are currently no UofN courses in Japan. Check back later.**
 
 Note: For most YWAM training programs including seminars, a Discipleship Training School (YWAM DTS) is a prerequisite.
