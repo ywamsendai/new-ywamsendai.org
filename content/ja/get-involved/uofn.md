@@ -1,7 +1,7 @@
 +++
 active = true
 headless = true
-title = "University of the Nationsで専門分野を学ぶ"
+title = "University of the Nationsで学ぶ"
 weight = 40
 widget = "blank"
 [advanced]
