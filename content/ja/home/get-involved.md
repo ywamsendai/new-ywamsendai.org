@@ -1,8 +1,8 @@
 +++
 active = true
 headless = true
-subtitle = "様々な機会が待ち受けています！"
-title = "神様と、さらなる冒険へ"
+subtitle = "あらゆる可能性が待ち受けています！"
+title = "さらなる冒険へ"
 weight = 25
 widget = "blank"
 [advanced]
