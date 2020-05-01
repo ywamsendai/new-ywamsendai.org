@@ -1,7 +1,7 @@
 +++
 active = true
 headless = true
-title = "ワイワムスタッフになる"
+title = "スタッフになる"
 weight = 35
 widget = "blank"
 [advanced]
