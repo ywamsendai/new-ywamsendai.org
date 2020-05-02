@@ -51,4 +51,4 @@ title = "ワイワム沖縄"
   # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-場所｜沖縄県・うるま市
+場所｜九州地方・沖縄県・うるま市

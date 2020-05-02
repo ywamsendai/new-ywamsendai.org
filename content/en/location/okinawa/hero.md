@@ -51,4 +51,4 @@ title = "YWAM Okinawa"
   # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-Uruma City, Okinawa, Okinawa Islands, Japan
+Uruma City, Okinawa, Kyushu, Japan

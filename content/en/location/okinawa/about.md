@@ -57,5 +57,5 @@ subtitle = ""
 
 * **Language(s):** Japanese, Korean, English
 * **Omega Zone:** Okinawa
-* **Region:** Okinawa Islands
+* **Region:** Kyushu
 * **Last Updated:** 2020-04-13

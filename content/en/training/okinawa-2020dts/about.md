@@ -62,5 +62,5 @@ Bilingual Korean and Japanese DTS.
 * **Outreach Locations:** N/A
 * **Related Passion:** N/A
 * **Omega Zone:** Okinawa
-* **Region:** Okinawa Islands
-* **Last Updated:** 2020-04-14
+* **Region:** Kyushu
+* **Last Updated:** 2020-05-02
