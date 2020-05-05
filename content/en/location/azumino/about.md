@@ -57,6 +57,6 @@ Team: Glynis Osborne, Judith Cassell
 ## Details
 
 * **Language(s):** English, Japanese
-* **[Omega Zone & Region]({{< ref "../omegazones.md" >}}):** Nagano, Hokuriku-Shinetsu
+* **[Omega Zone & Region]({{< ref "../../omegazones.md" >}}):** Nagano, Hokuriku-Shinetsu
 * **Region:** Hokuriku-Shinetsu
 * **Last Updated:** 2020-04-23
