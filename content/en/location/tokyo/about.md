@@ -56,6 +56,5 @@ We are an international community of people settled in Tokyo, Japan, to build an
 ## Details
 
 * **Language(s):** English, Japanese (transitioning)
-* **Omega Zone:** Central Tokyo
-* **Region:** Kanto
+* **[Omega Zone & Region]({{< ref "../../omegazones.md" >}}):** Central Tokyo, Kanto
 * **Last Updated:** 2020-04-13

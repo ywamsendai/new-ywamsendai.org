@@ -58,6 +58,5 @@ We invite you to partner and to join us in taking this nation for Jesus! We have
 ## Details
 
 * **Language(s):** English
-* **Omega Zone:** North Osaka
-* **Region:** Kansai
+* **[Omega Zone & Region]({{< ref "../../omegazones.md" >}}):** North Osaka, Kansai
 * **Last Updated:** 2020-04-23

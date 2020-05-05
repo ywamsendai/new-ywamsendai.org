@@ -1,5 +1,5 @@
 ---
-title: Omega Zones
+title: オメガゾーン
 draft: false
 share: false
 commentable: false

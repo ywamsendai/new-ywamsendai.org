@@ -54,6 +54,5 @@ New YWAM location in Kyoto.
 ## Details
 
 * **Language(s):** Korean
-* **Omega Zone:** Kyoto
-* **Region:** Kansai
+* **[Omega Zone & Region]({{< ref "../../omegazones.md" >}}):** Kyoto, Kansai
 * **Last Updated:** 2020-04-13

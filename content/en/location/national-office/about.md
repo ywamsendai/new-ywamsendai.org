@@ -53,6 +53,5 @@ subtitle = ""
 ## Details
 
 * **Language(s):** Japanese, English
-* **Omega Zone:** East Tokyo
-* **Region:** Kanto
+* **[Omega Zone & Region]({{< ref "../../omegazones.md" >}}):** East Tokyo, Kanto
 * **Last Updated:** 2020-04-13

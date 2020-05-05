@@ -56,6 +56,5 @@ subtitle = ""
 ## Details
 
 * **Language(s):** Japanese, Korean, English
-* **Omega Zone:** Okinawa
-* **Region:** Kyushu
+* **[Omega Zone & Region]({{< ref "../../omegazones.md" >}}):** Okinawa, Kyushu
 * **Last Updated:** 2020-04-13

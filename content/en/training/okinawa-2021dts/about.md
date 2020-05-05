@@ -61,6 +61,5 @@ Bilingual Japanese and English DTS.
 * **Language(s):** Japanese, English
 * **Outreach Locations:** N/A
 * **Related Passion:** N/A
-* **Omega Zone:** Okinawa
-* **Region:** Kyushu
+* **[Omega Zone & Region]({{< ref "../../omegazones.md" >}}):** Okinawa, Kyushu
 * **Last Updated:** 2020-05-02
