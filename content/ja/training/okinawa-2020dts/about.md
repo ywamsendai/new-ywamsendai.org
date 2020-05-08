@@ -25,5 +25,5 @@ padding = ["20px", "0", "20px", "0"]
 * **言語：** 日本語、韓国語
 * **Outreach Locations:** N/A
 * **Related Passion:** N/A
-* **[領域とオメガゾーン]({{< ref "../../omegazones.md" >}})：** 九州地方・沖縄県
+* **[地域とオメガゾーン]({{< ref "../../omegazones.md" >}})：** 九州地方・沖縄県
 * **最終更新：** 2020-04-15

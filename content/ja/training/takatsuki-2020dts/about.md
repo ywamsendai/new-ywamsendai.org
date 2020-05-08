@@ -35,5 +35,5 @@ The Discipleship Training School (DTS) is a six month Christian course designed 
 * **言語：** 英語
 * **Outreach Locations:** N/A
 * **Related Passion:** N/A
-* **[領域とオメガゾーン]({{< ref "../../omegazones.md" >}})：** 関西地方・大阪府北部
+* **[地域とオメガゾーン]({{< ref "../../omegazones.md" >}})：** 関西地方・大阪府北部
 * **最終更新：** 2020-04-15
