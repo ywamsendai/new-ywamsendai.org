@@ -1,7 +1,7 @@
 +++
 active = true
 headless = true
-title = "世界のために、あなたにしかできないことがある"
+title = "あなたにしかできないことがある"
 weight = 1
 widget = "hero"
 [design.background]
