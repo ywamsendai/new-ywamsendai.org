@@ -22,9 +22,9 @@ header:
 
 （これはあくまでもワイワムの働きであって、教会が存在しないというわけではありません。働き人が少ない厳しい日本宣教の現状の中、特に過疎地域で主に従い、働きを継続している教会の働きを応援したいというのがワイワムの願いです。）
 
-Here you can find a table detailing all of the Omega Zones in Japan, separated by region. The Major Metropolitan Areas (MMAs) have also been highlighted as these are key areas to focus on.
+以下は、日本の地域別のオメガゾーンを示す表です。人口が特に多い大都市圏も含まれています。
 
-Updated: 2020-05-02
+最終更新：2020-05-02
 
 | Region | Omega Zone | Population | YWAM Location? | MMA | MMA Population (Rank) |
 | --- | --- | --- | --- | --- | --- |
