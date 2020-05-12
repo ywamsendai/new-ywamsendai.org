@@ -56,5 +56,3 @@ Deepen your training for what God is leading you into. Learn by doing. Start som
 Feeling called to Japan? Consider coming to Japan either for a few weeks, a couple of years, or your whole life!
 
 [Get involved >]({{< ref "/get-involved/index.md" >}})
-
-Explore the different possibilities in Japan below.

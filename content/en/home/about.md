@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
 title = "Meet real needs with the love of Jesus."
-subtitle = "Youth With A Mission Japan"
+subtitle = "Youth With A Mission Sendai"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -49,6 +49,6 @@ subtitle = "Youth With A Mission Japan"
  css_class = ""
 +++
 
-YWAM is a global movement, full of young people who are driven by a passion to know God and make Him known. We have been making waves here in Japan since 1975.
+YWAM is a global movement, full of young people who are driven by a passion to know God and make Him known. We have been making waves here in Japan since 1975, and Tohoku (north-east Japan) since 2018!
 
 [Who we are]({{< ref "/about/index.md" >}})
