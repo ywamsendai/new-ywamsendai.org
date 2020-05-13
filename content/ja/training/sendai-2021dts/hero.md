@@ -36,9 +36,9 @@ title = "弟子訓練学校２０２１年"
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-[cta]
-  url = "/location/sendai"
-  label = "仙台ワイワム、宮城県"
+#[cta]
+#  url = "/location/sendai"
+#  label = "仙台ワイワム、宮城県"
 #   icon_pack = "fas"
 #   icon = "download"
 

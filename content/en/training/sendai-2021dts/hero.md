@@ -36,9 +36,9 @@ title = "2021 Discipleship Training School"
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-[cta]
-  url = "/location/sendai"
-  label = "YWAM Sendai, Miyagi"
+#[cta]
+#  url = "/location/sendai"
+#  label = "YWAM Sendai, Miyagi"
 #   icon_pack = "fas"
 #   icon = "download"
 
