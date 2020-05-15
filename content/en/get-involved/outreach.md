@@ -48,10 +48,8 @@ title = "Volunteer or go on a Mission Trip"
  css_class = ""
 +++
 
-Spend some time designing a website, working with local churches, maintaining an old building, ministering to the homeless, proclaiming the gospel, playing sports with locals, or doing one of hundreds of other jobs alongside YWAM’s full-time staff.
+Are you interested in volunteering with us short-term, or bringing an outreach team? That's great! You are welcome! As we are still a new and small community, we are unable to plan schedules or ministries for outreach teams. But you are welcome to prayer walk, do evangelism, and get involved in things we do regularly as a community! Individual volunteers will have a taste of what it is like to be a long-term team member with us.
 
-For individuals, YWAM’s [Mission Builders](https://www.missionbuilders.org/) ministry specializes in helping people volunteer with YWAM. Alternatively, you can contact a location directly to find how you can serve.
+Please get in touch and ask us any questions you have about coming to Sendai!
 
-For groups, you can come as a family with children, as a church group, youth group, or outreach as part of a YWAM school based in a different country. Please contact specific locations in Japan about possibilities.
-
-[Find a location >]({{< ref "/#explore" >}})
+[Get in touch >]({{< ref "/#contact" >}})

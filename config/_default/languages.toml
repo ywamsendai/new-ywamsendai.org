@@ -21,21 +21,21 @@
     address_format = "ja"
 
   [[ja.menu.main]]
-    name = "活動拠点"
-    url = "#explore"
-    weight = 10
-
-  [[ja.menu.main]]
     name = "弟子訓練学校（DTS）"
     url = "/dts"
-    weight = 20
+    weight = 10
 
   [[ja.menu.main]]
     name = "参加する"
     url = "/get-involved"
-    weight = 30
+    weight = 20
 
   [[ja.menu.main]]
     name = "ワイワムとは"
     url = "/about"
+    weight = 30
+
+  [[ja.menu.main]]
+    name = "献金"
+    url = "/donate"
     weight = 40

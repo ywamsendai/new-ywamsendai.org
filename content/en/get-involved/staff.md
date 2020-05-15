@@ -50,30 +50,33 @@ title = "Become YWAM staff"
 
 Whatever way you want to serve God, you can most likely do it in YWAM! Being on staff with YWAM is an adventure in faith. Join staff for a couple of years, or stay for life.
 
-In many of our locations, one of the joys of joining staff is to serve side by side with people from a variety of nations. Our staff come from numerous different Christian denominations and nearly half of our staff come from Non-Western countries, such as Brazil, South Korea, Indonesia, India and Nepal.
+In Sendai, one of the joys of joining staff is to serve side by side with people from a variety of nations and Christian backgrounds. As well as this, you will be immersed in the unreached region of Tohoku (North-East Japan), with its rich traditional Japanese culture and history, and scenic, peaceful nature.
 
-Here are a few of the many staff openings in YWAM:
+Here are a few of the ways you can serve as staff in Sendai:
 
 * Accountants
 * Graphic Designers
 * Evangelists
-* Receptionists
 * Administrators
 * Church Planters
 * Teachers
-* Physicians/Nurses
 * Cooks
-* Carpenters
 * Journalists/Editors
+* Musicians
+* Artists
+* Gardeners
+* Farmers
+* Video Gamers
+* Web Designers
 
 ## Salary and Benefits
 
-YWAM does not pay its staff. Most of our staff meet their financial needs by partnering with friends and churches who support their ministry. In some areas, our staff work in other businesses for financial, practical or ministry reasons.
+YWAM does not pay its staff. Most of our staff meet their financial needs by partnering with friends and churches who support their ministry.
 
 ## How to Apply
 
-To join YWAM staff you first need to complete a Discipleship Training School (DTS). DTS is the prerequisite to all our other training and opportunities and is offered at over 600 locations around the world.
+To join YWAM Sendai staff you first need to complete a Discipleship Training School (DTS). DTS is the prerequisite to all our other training and opportunities and is offered at over 600 locations around the world.
 
-To explore available staff positions within YWAM Japan, please find a location by clicking the link below, then using the contact form on the location's page to ask about staffing opportunities.
+To find out more about staffing with us, please check out our wiki or contact us with any questions.
 
-[Find a location >]({{< ref "/#explore" >}})
+[Find out more >](https://wiki.ywamsendai.org/ywam/join)

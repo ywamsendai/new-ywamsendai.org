@@ -17,7 +17,7 @@ height = "calc(100vh - 70px)"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "To know God and make Him known."
-  content = "Reach the unreached millions in Japan."
+  content = "Reach the unreached millions in Northern Japan, and beyond!"
   align = "left"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -29,8 +29,8 @@ height = "calc(100vh - 70px)"
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Explore"
-  cta_url = "#explore"
+  cta_label = "Join Us"
+  cta_url = "/join"
   cta_icon_pack = "fas"
   cta_icon = "compass"
 

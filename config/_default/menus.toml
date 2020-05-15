@@ -4,23 +4,23 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Explore"
-  url = "#explore"
-  weight = 10
-
-[[main]]
   name = "Discipleship Training School"
   url = "/dts"
-  weight = 20
+  weight = 10
 
 [[main]]
   name = "Get Involved"
   url = "/get-involved"
-  weight = 30
+  weight = 20
 
 [[main]]
   name = "Who We Are"
   url = "/about"
+  weight = 30
+
+[[main]]
+  name = "Donate"
+  url = "/donate"
   weight = 40
 
 # Link to a PDF of your resume/CV from the menu.
