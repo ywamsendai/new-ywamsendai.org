@@ -20,10 +20,10 @@
     address = {street = "青葉区愛子中央", city = "仙台市", region = "宮城県", postcode = "〒989-3128", country = "Japan", country_code = "JP"}
     address_format = "ja"
 
-  [[ja.menu.main]]
-    name = "弟子訓練学校（DTS）"
-    url = "/dts"
-    weight = 10
+#  [[ja.menu.main]]
+#    name = "弟子訓練学校（DTS）"
+#    url = "/dts"
+#    weight = 10
 
   [[ja.menu.main]]
     name = "参加する"
@@ -36,11 +36,16 @@
     weight = 30
 
   [[ja.menu.main]]
+    name = "ニュース"
+    url = "https://www.medium.com/ywamsendai"
+    weight = 40
+
+  [[ja.menu.main]]
     name = "献金"
     url = "/donate"
-    weight = 40
+    weight = 50
 
   [[ja.menu.main]]
     name = "ワイワマーへ（英語）"
     url = "https://wiki.ywamsendai.org"
-    weight = 50
+    weight = 60
