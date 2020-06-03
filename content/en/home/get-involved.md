@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 25  # Order that this section will appear.
 
-title = "Chase After Your God-Given Dream."
-subtitle = "A world of opportunities"
+title = "The harvest is plentiful."
+subtitle = "Join us in Sendai"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -49,10 +49,10 @@ subtitle = "A world of opportunities"
  css_class = ""
 +++
 
-After the [Discipleship Training School]({{< ref "/dts/index.md" >}}), spend two or more years journeying alongside a community of people who desperately want to serve Jesus in Japan with their whole lives.
+After the [Discipleship Training School]({{< ref "/dts/index.md" >}}), journey alongside a community of people who desperately want to serve Jesus in North-East Japan with their whole lives.
 
-Deepen your training for what God is leading you into. Learn by doing. Start something new Japan.
+Invest in learning the Japanese culture and language, desiring to demonstrate the Gospel to the unreached millions you will encounter every day. Become like a Japanese, to win the Japanese (1 Cor. 9.20).
 
-Feeling called to Japan? Consider coming to Japan either for a few weeks, a couple of years, or your whole life!
+Feeling called to Japan? Consider coming to Sendai either for a few weeks, a couple of years, or your whole life!
 
 [Get involved >]({{< ref "/get-involved/index.md" >}})

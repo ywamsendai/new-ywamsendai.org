@@ -11,26 +11,40 @@ header:
   image: ""
 ---
 
-The following are Youth With A Mission (YWAM) Japan’s statements in regard to privacy, honesty, security, links, trademarks, and copyrights.
+Each member of our team is supported financially to serve with us in Japan. That being the case, YWAM Sendai has its own expenses, such as ministry expenses. We are also desiring to purchase property for office and meeting space, as well as accommodation for staff, teams, volunteers, and students. We would also like to own a vehicle to make it easier to travel around this region. If you would like to give towards YWAM Sendai, please use the following bank details depending on your location.
 
-## Privacy
+## International
 
-YWAM respects your right to privacy. We also want to present information on YWAMJapan.org that is tailored to the needs of our visitors. For this reason, we may ask you to provide personal information when you visit certain areas of the site, such as submitting a contact form. YWAM Japan assures you that the identity of all who contact us through this website is kept confidential: we do not rent, sell, or exchange our mailing lists. We only collect your willingly submitted contact information. We do not send information that is not requested.
+You can make a transfer to us via your bank account (or a transfer service such as TransferWise for cheaper fees). Here are the details you will need:
 
-## Honesty
+* Bank: Mizuho Bank Ltd.
+* Branch: Senju
+* Branch number: 527
+* Branch address: 2-58 Senju, Adachi-ku, Tokyo, 120-0034, JAPAN
+* SWIFT code: MHCBJPJT
+* Account number: 1992774
+* Account name: Sekaiseinensenkyoukai
+* Recipient's address: 2-15-3 Kanmaki-cho, Takatsuki-shi, Osaka-fu, 569-0003, JAPAN
 
-YWAM will always strive to be responsible in our management, truthful in our advertising, and cost-effective in our fund raising. We are committed to using all funds in a honest manner—bringing the gospel, mercy ministry, and biblical training to the nations.
+Please send us an email telling us you have sent your donation, including the amount and date of transfer, to admin@ywamsendai.org
 
-## Security
+## Within Japan
 
-YWAMJapan.org is securely encrypted to ensure that personal information (names, email addresses, messages etc.) cannot be viewed by outside parties.
+The YWAM Sendai JP Bank account number is: **10140-65305041**
 
-## Disclaimer Regarding Links
+For those that aren't sure how to make transfers through the Japan Post Bank, here are directions:
 
-YWAMJapan.org contains links to other sites. YWAM is not responsible for the privacy practices or the content of such websites.
+### Online (Japanese only):
 
-## Copyright and Trademarks
+You can find directions on how to make a transfer here.
 
-Youth With A Mission, Y.W.A.M. and the YWAM logo are all registered trademarks of Youth With A Mission, a California corporation. All www.ywamjapan.org content is Copyright 2020, Youth With A Mission Japan (宗教法人　世界青年宣教会). All rights reserved. Christian non-profit organizations, churches, small groups and individuals may print and copy the material on this site for ministry and educational purposes only. For uses outside this you will need specific permissions and must contact us. The content may not be re-published, sold or used for making profit without specific permissions.
+### ATM:
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please contact us.
+* At the ATM, insert your cashcard or bank book, then press the English button
+* Next, press Remittance and enter your PIN number
+* Input the first 5 numbers of the account number: 10140
+* Next, input the next 8 numbers: 65305041
+* Input the amount you wish to send
+* Confirm
+* You will be given an option to save this account. Doing this will make the process quick and easy from now on if you wanted to make future payments.
+* From now on, after pressing Remittance, you can choose the saved account, then input the amount.

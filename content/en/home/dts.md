@@ -49,4 +49,6 @@ subtitle = "How to begin"
  css_class = ""
 +++
 
-Start with the [Discipleship Training School (DTS)]({{< ref "/dts/index.md" >}}). Spend six months centring your life in God. Seek personal breakthroughs. Stretch yourself by serving God in a cross-cultural setting. For a shorter opportunity, you can also start by volunteering or by joining a mission trip.
+Start with the [Discipleship Training School (DTS)]({{< ref "/dts/index.md" >}}). Spend six months centring your life in God. Seek personal breakthroughs. Stretch yourself by serving God in a cross-cultural setting.
+
+We currently do not run DTSes here in Sendai, though we hope to in the future! Please check out [YWAM Japan's website](https://www.ywamjapan.org) for details on DTSes in Japan.
