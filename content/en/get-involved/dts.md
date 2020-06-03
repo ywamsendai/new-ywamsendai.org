@@ -5,7 +5,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+weight = 35  # Order that this section will appear.
 
 title = "Discipleship Training School"
 
@@ -49,5 +49,7 @@ title = "Discipleship Training School"
 +++
 
 The Discipleship Training School (YWAM DTS) offers six months of growing deeper with God and impacting the world, all in a community environment.
+
+Note: Currently, we do not run DTSes in Sendai, but we hope to in the future!
 
 [Learn about our DTS >]({{< ref "/dts/index.md" >}})

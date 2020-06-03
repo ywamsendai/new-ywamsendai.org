@@ -5,7 +5,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 35  # Order that this section will appear.
+weight = 15  # Order that this section will appear.
 
 title = "Become YWAM staff"
 
@@ -51,6 +51,8 @@ title = "Become YWAM staff"
 Whatever way you want to serve God, you can most likely do it in YWAM! Being on staff with YWAM is an adventure in faith. Join staff for a couple of years, or stay for life.
 
 In Sendai, one of the joys of joining staff is to serve side by side with people from a variety of nations and Christian backgrounds. As well as this, you will be immersed in the unreached region of Tohoku (North-East Japan), with its rich traditional Japanese culture and history, and scenic, peaceful nature.
+
+All YWAMers in Sendai will be expected to invest in learning the Japanese culture and language, desiring to demonstrate the Gospel to the unreached millions you will encounter every day. Become like a Japanese, to win the Japanese (1 Cor. 9.20).
 
 Here are a few of the ways you can serve as staff in Sendai:
 

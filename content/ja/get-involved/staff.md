@@ -2,7 +2,7 @@
 active = true
 headless = true
 title = "スタッフになる"
-weight = 35
+weight = 15
 widget = "blank"
 [advanced]
 css_class = ""
@@ -15,18 +15,38 @@ text_color_light = false
 padding = ["20px", "0", "20px", "0"]
 
 +++
-ワイワムではおそらく、神様の御心ならどんな形でも活動することが可能です！ワイワムに参加することは、信仰と従順にもとづく冒険です。２年ほどスタッフになってみることから始める人が多いですが、そこから生涯にわたって宣教活動に献身する人も大勢います。
 
-ワイワムの中で活動することの大きな喜びの一つは、様々な国や教派出身の仲間達と働けることです。日本ワイワムでも、北米だけでなく南米やヨーロッパ、アジア各国など様々な国からのスタッフが宣教師として来日して活動しています。日本からもぜひ世界各国へ出かけていき、神様に仕える人が多く起こされることを願っています！
+Whatever way you want to serve God, you can most likely do it in YWAM! Being on staff with YWAM is an adventure in faith. Join staff for a couple of years, or stay for life.
 
-## 給与や報酬
+In Sendai, one of the joys of joining staff is to serve side by side with people from a variety of nations and Christian backgrounds. As well as this, you will be immersed in the unreached region of Tohoku (North-East Japan), with its rich traditional Japanese culture and history, and scenic, peaceful nature.
 
-ワイワムでは一切給与や報酬が出ません。ほとんどのスタッフは、自分の働きに賛同し応援してくれる教会や個人からの寄付金を募って活動しています。中には、宣教の働きも兼ねて報酬がある仕事をしながらスタッフとして活動している人もいます。（この点については各ワイワムによって方針が異なりますが、ほとんどの場合サポーターを通して生計を立てることが期待されます。）
+All YWAMers in Sendai will be expected to invest in learning the Japanese culture and language, desiring to demonstrate the Gospel to the unreached millions you will encounter every day. Become like a Japanese, to win the Japanese (1 Cor. 9.20).
 
-## 出願方法
+Here are a few of the ways you can serve as staff in Sendai:
 
-ワイワムスタッフとして出願するには、まず弟子訓練学校(DTS)を修了していることが第一条件です。これは全世界のワイワムで共通することです。次に、スタッフとして生活するにあたり、生計を立てるだけのサポートを集める必要があります。
+* Accountants
+* Graphic Designers
+* Evangelists
+* Administrators
+* Church Planters
+* Teachers
+* Cooks
+* Journalists/Editors
+* Musicians
+* Artists
+* Gardeners
+* Farmers
+* Video Gamers
+* Web Designers
 
-日本ワイワムでも随時スタッフを募集しています。海外からだけでなく、自国への宣教に導かれた日本人のスタッフもいます。より多くの人が日本ワイワムに加わって下さることを願っています！詳しくは以下から各拠点に直接お問い合わせ下さい。
+## Salary and Benefits
 
-[日本国内の活動拠点 >]({{< ref "/#explore" >}})
+YWAM does not pay its staff. Most of our staff meet their financial needs by partnering with friends and churches who support their ministry.
+
+## How to Apply
+
+To join YWAM Sendai staff you first need to complete a Discipleship Training School (DTS). DTS is the prerequisite to all our other training and opportunities and is offered at over 600 locations around the world.
+
+To find out more about staffing with us, please check out our wiki or contact us with any questions.
+
+[Find out more >](https://wiki.ywamsendai.org/ywam/join)

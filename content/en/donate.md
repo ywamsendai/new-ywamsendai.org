@@ -36,7 +36,7 @@ For those that aren't sure how to make transfers through the Japan Post Bank, he
 
 ### Online (Japanese only):
 
-You can find directions on how to make a transfer here.
+You can find directions on how to make a transfer [here](https://www.jp-bank.japanpost.jp/direct/pc/guide/dr_pc_gd_densin.html).
 
 ### ATM:
 

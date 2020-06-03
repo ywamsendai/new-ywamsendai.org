@@ -2,7 +2,7 @@
 active = true
 headless = true
 title = "ボランティアとして参加する"
-weight = 25
+weight = 40
 widget = "blank"
 [advanced]
 css_class = ""
@@ -15,8 +15,9 @@ text_color_light = false
 padding = ["20px", "0", "20px", "0"]
 
 +++
-世界中のワイワムでは、様々な形でボランティアを受け入れています。その奉仕内容は多岐にわたり、現地の教会でイベントを手伝ったり、芸術やスポーツを通して交流したり、建物の管理運営に関わったり、トラクト配布やホームレスの人々への炊き出しに至るまで、様々です。日本国外でのボランティア活動に関しては、英語（あるいは現地語）を話せることが条件になります。その場合、[Mission Builders](https://www.missionbuilders.org/)として出願することもできますし、各国のワイワムに直接問い合わせることも可能です。
 
-また、日本国内でもインターンやボランティアとしての参加を受け入れている場合があります。興味のある方は以下から関心のある活動拠点に直接お問い合わせください。
+Are you interested in volunteering with us short-term, or bringing an outreach team? That's great! You are welcome! As we are still a new and small community, we are unable to plan schedules or ministries for outreach teams. But you are welcome to prayer walk, do evangelism, and get involved in things we do regularly as a community! Individual volunteers will have a taste of what it is like to be a long-term team member with us.
 
-[日本ワイワムの活動拠点 >]({{< ref "/#explore" >}})
+Please get in touch and ask us any questions you have about coming to Sendai!
+
+[Get in touch >]({{< ref "/#contact" >}})
