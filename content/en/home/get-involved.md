@@ -49,7 +49,7 @@ subtitle = "Join us in Sendai"
  css_class = ""
 +++
 
-After the [Discipleship Training School]({{< ref "/dts/index.md" >}}), journey alongside a community of people who desperately want to serve Jesus in North-East Japan with their whole lives.
+After the Discipleship Training School, journey alongside a community of people who desperately want to serve Jesus in North-East Japan with their whole lives.
 
 Invest in learning the Japanese culture and language, desiring to demonstrate the Gospel to the unreached millions you will encounter every day. Become like a Japanese, to win the Japanese (1 Cor. 9.20).
 
