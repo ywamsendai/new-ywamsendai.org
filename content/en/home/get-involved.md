@@ -53,6 +53,6 @@ After the [Discipleship Training School]({{< ref "/dts/index.md" >}}), journey a
 
 Invest in learning the Japanese culture and language, desiring to demonstrate the Gospel to the unreached millions you will encounter every day. Become like a Japanese, to win the Japanese (1 Cor. 9.20).
 
-Feeling called to Japan? Consider coming to Sendai either for a few weeks, a couple of years, or your whole life!
+Feeling called to Japan? Consider coming to Sendai either for a few weeks, a couple of years, or longer!
 
 [Get involved >]({{< ref "/get-involved/index.md" >}})

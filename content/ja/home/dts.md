@@ -22,3 +22,5 @@ padding = ["20px", "0", "20px", "0"]
 
 +++
 ワイワマーになる第一歩は、[弟子訓練学校（DTS）]({{< ref "/dts/index.md" >}})に参加すること。まずは半年間、神様を中心とした生活を他の仲間たちとしてみませんか。異文化体験や心の変革を通じて、きっと人生に転機をもたらしてくれるでしょう。
+
+We currently do not run DTSes here in Sendai, though we hope to in the future! Please check out [YWAM Japan's website](https://www.ywamjapan.org) for details on DTSes in Japan.

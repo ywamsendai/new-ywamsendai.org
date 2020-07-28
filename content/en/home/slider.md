@@ -30,7 +30,7 @@ height = "calc(100vh - 70px)"
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Join Us"
-  cta_url = "/join"
+  cta_url = "/get-involved"
   cta_icon_pack = "fas"
   cta_icon = "compass"
 

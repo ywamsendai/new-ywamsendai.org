@@ -1,8 +1,8 @@
 +++
 active = true
 headless = true
-subtitle = "YWAMのことです！"
-title = "ワイワムって何？"
+subtitle = "Youth With A Mission Sendai"
+title = "仙台ワイワムって何？"
 weight = 10
 widget = "blank"
 [advanced]

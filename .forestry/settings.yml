@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: ''
-webhook_url: 
+webhook_url:
 sections:
 - type: heading
   label: Home
@@ -14,30 +14,6 @@ sections:
 - type: directory
   path: content/ja/home
   label: Home (Ja)
-  create: all
-  match: "**/*"
-- type: heading
-  label: About
-- type: directory
-  path: content/en/about
-  label: About (En)
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/ja/about
-  label: About (Ja)
-  create: all
-  match: "**/*"
-- type: heading
-  label: DTS
-- type: directory
-  path: content/en/dts
-  label: DTS (En)
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/ja/dts
-  label: DTS (Ja)
   create: all
   match: "**/*"
 - type: heading
@@ -53,27 +29,15 @@ sections:
   create: all
   match: "**/*"
 - type: heading
-  label: Location
+  label: About
 - type: directory
-  path: content/en/location
-  label: Location (En)
+  path: content/en/about
+  label: About (En)
   create: all
   match: "**/*"
 - type: directory
-  path: content/ja/location
-  label: Location (Ja)
-  create: all
-  match: "**/*"
-- type: heading
-  label: Training
-- type: directory
-  path: content/en/training
-  label: Training (En)
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/ja/training
-  label: Training (Ja)
+  path: content/ja/about
+  label: About (Ja)
   create: all
   match: "**/*"
 - type: heading

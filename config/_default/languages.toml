@@ -20,6 +20,16 @@
     address = {street = "青葉区愛子中央", city = "仙台市", region = "宮城県", postcode = "〒989-3128", country = "Japan", country_code = "JP"}
     address_format = "ja"
 
+    contact_links = [
+       {icon = "comments", icon_pack = "fas", name = "Chat on Matrix", link = "https://app.element.io/#/group/+ywamsendai:matrix.org"},
+       {icon = "twitter", icon_pack = "fab", name = "DM or Follow us on Twitter", link = "https://twitter.com/ywamsendai"},
+       {icon = "facebook", icon_pack = "fab", name = "Message or Follow us on Facebook", link = "https://facebook.com/ywamsendai"},
+       {icon = "youtube", icon_pack = "fab", name = "Check out our videos", link = "https://www.youtube.com/channel/UCH4EWvQQGs2VEtYtH_Pr_lw"},
+       {icon = "instagram", icon_pack = "fab", name = "Check out our pictures", link = "https://instagram.com/ywamsendai"},
+      # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
+      # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@YWAMSendai"},
+      ]
+
 #  [[ja.menu.main]]
 #    name = "弟子訓練学校（DTS）"
 #    url = "/dts"
