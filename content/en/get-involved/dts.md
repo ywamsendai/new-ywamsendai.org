@@ -50,6 +50,6 @@ title = "Discipleship Training School"
 
 The Discipleship Training School (YWAM DTS) offers six months of growing deeper with God and impacting the world, all in a community environment.
 
-Note: Currently, we do not run DTSes in Sendai, but we hope to in the future!
+In order to come join us in Sendai as staff, you will have to have completed a DTS somewhere in the world. Sadly, we do not currently run DTS in Sendai, but we hope to in the future! You can find more information about DTS on the YWAM.org website:
 
-[Learn about our DTS >]({{< ref "/dts/index.md" >}})
+[Find a YWAM DTS >](https://www.ywam.org/dts/)

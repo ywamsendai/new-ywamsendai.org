@@ -20,6 +20,8 @@ text_color_light = true
 padding = ["20px", "0", "20px", "0"]
 
 +++
-弟子訓練学校（DTS）はクリスチャンとしての歩みを深めるための基本的な訓練コースで、半年間の共同生活を通して学びます。世界各国で様々な形態で開催されているので、自分に合った[DTS]({{< ref "/dts/index.md" >}})を探してみましょう。
+弟子訓練学校（DTS）はクリスチャンとしての歩みを深めるための基本的な訓練コースで、半年間の共同生活を通して学びます。
 
-Note: Currently, we do not run DTSes in Sendai, but we hope to in the future!
+In order to come join us in Sendai as staff, you will have to have completed a DTS somewhere in the world. Sadly, we do not currently run DTS in Sendai, but we hope to in the future! You can find more information about DTS on the YWAM.org website:
+
+[Find a YWAM DTS >](https://www.ywam.org/dts/)
