@@ -15,38 +15,16 @@ text_color_light = false
 padding = ["20px", "0", "20px", "0"]
 
 +++
+ワイワム仙台では、様々な国や教団の背景を持つスタッフが活動しています。海外から来たスタッフは全員、東北の美しい自然と豊かな伝統文化に触れ、この地に対して深い思いを抱いています。仙台で、そして東北で福音を広めるために、日本人のスタッフももちろん必要です！
 
-Whatever way you want to serve God, you can most likely do it in YWAM! Being on staff with YWAM is an adventure in faith. Join staff for a couple of years, or stay for life.
+ワイワム仙台のスタッフは全員日本語を習得することが求められます。なので、日本人スタッフの場合は英語を勉強する必要はありません。日本人としてのあり方や文化を分かち合い、チームメイトの日本語習得を応援してあげてください。そして、日本人の心に届く宣教のあり方を探ってほしいです。
 
-In Sendai, one of the joys of joining staff is to serve side by side with people from a variety of nations and Christian backgrounds. As well as this, you will be immersed in the unreached region of Tohoku (North-East Japan), with its rich traditional Japanese culture and history, and scenic, peaceful nature.
+## 給与と報酬
 
-All YWAMers in Sendai will be expected to invest in learning the Japanese culture and language, desiring to demonstrate the Gospel to the unreached millions you will encounter every day. Become like a Japanese, to win the Japanese (1 Cor. 9.20).
+ワイワムでは一切給与や報酬が出ません。ほとんどのスタッフは、自分の働きに賛同し応援してくれる教会や個人からの寄付金を募って活動しています。中には、宣教の働きも兼ねて報酬がある仕事をしながらスタッフとして活動している人もいます。日本人の場合は、完全にサポートだけで生活することは難しいかもしれません。神様からの導きがあるなら、必ず道は開けます。ご相談ください！
 
-Here are a few of the ways you can serve as staff in Sendai:
+## 出願方法
 
-* Accountants
-* Graphic Designers
-* Evangelists
-* Administrators
-* Church Planters
-* Teachers
-* Cooks
-* Journalists/Editors
-* Musicians
-* Artists
-* Gardeners
-* Farmers
-* Video Gamers
-* Web Designers
+ワイワムスタッフとして出願するには、まず弟子訓練学校(DTS)を修了していることが第一条件です。これは全世界のワイワムで共通することです。次に、スタッフとして生活するにあたり、生計を立てるだけのサポートを集める必要があります。
 
-## Salary and Benefits
-
-YWAM does not pay its staff. Most of our staff meet their financial needs by partnering with friends and churches who support their ministry.
-
-## How to Apply
-
-To join YWAM Sendai staff you first need to complete a Discipleship Training School (DTS). DTS is the prerequisite to all our other training and opportunities and is offered at over 600 locations around the world.
-
-To find out more about staffing with us, please check out our wiki or contact us with any questions.
-
-[Find out more >](https://wiki.ywamsendai.org/ywam/join)
+仙台でも随時スタッフを募集しています。海外からだけでなく、自国への宣教に導かれた日本人のスタッフもいます。より多くの人が仙台ワイワムに加わって下さることを願っています！

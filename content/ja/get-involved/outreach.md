@@ -15,9 +15,8 @@ text_color_light = false
 padding = ["20px", "0", "20px", "0"]
 
 +++
+短期のボランティアという形でワイワム仙台の活動に参加することもできます。あるいは、教会や有志で宣教チームを連れて仙台に来ることも可能です。
 
-Are you interested in volunteering with us short-term, or bringing an outreach team? That's great! You are welcome! As we are still a new and small community, we are unable to plan schedules or ministries for outreach teams. But you are welcome to prayer walk, do evangelism, and get involved in things we do regularly as a community! Individual volunteers will have a taste of what it is like to be a long-term team member with us.
+具体的な活動としては、祈りの歩行や路傍伝道といった形でしかまだミニストリーはしていませんが、開拓されたばかりのワイワム仙台での日々を体験してもらえます。もし興味がある方はいつでもお気軽にご連絡ください！（奉仕スケジュールを立てることはしないので、自分で仙台での活動企画を立てられる人に限ります。）
 
-Please get in touch and ask us any questions you have about coming to Sendai!
-
-[Get in touch >]({{< ref "/#contact" >}})
+[問い合わせ >]({{< ref "/#contact" >}})
