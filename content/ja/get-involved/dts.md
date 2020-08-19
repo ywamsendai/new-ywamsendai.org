@@ -1,5 +1,5 @@
 +++
-active = true
+active = false
 headless = true
 title = "弟子訓練学校（DTS）"
 weight = 35
