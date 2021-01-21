@@ -5,7 +5,7 @@ share: false
 commentable: false
 editable: false
 
-# Optional header image (relative to `static/img/` folder).
+# Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
   image: ""
@@ -31,6 +31,6 @@ YWAMSendai.org contains links to other sites. YWAM is not responsible for the pr
 
 ## Copyright and Trademarks
 
-Youth With A Mission, Y.W.A.M. and the YWAM logo are all registered trademarks of Youth With A Mission, a California corporation. All www.ywamsendai.org content is Copyright 2020, Youth With A Mission Sendai. All rights reserved. Christian non-profit organizations, churches, small groups and individuals may print and copy the material on this site for ministry and educational purposes only. For uses outside this you will need specific permissions and must contact us. The content may not be re-published, sold or used for making profit without specific permissions.
+Youth With A Mission, Y.W.A.M. and the YWAM logo are all registered trademarks of Youth With A Mission, a California corporation. All www.ywamsendai.org content is Copyright 2021, Youth With A Mission Sendai. All rights reserved. Christian non-profit organizations, churches, small groups and individuals may print and copy the material on this site for ministry and educational purposes only. For uses outside this you will need specific permissions and must contact us. The content may not be re-published, sold or used for making profit without specific permissions.
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please contact us.
