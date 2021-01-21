@@ -1,7 +1,7 @@
 ---
 widget: slider
 headless: true  # This file represents a page section.
-active: true
+active: false
 
 # ... Put Your Section Options Here (section position etc.) ...
 weight: 1  # Order that this section will appear.
@@ -23,7 +23,7 @@ item:
     # Overlay a color or image (optional).
     #   Deactivate an option by commenting out the line, prefixing it with `#`.
     overlay_color: '#666'  # An HTML color value.
-    overlay_img: hero-area.jpg  # Image path relative to your `static/media/` folder
+    overlay_img: hero.jpg  # Image path relative to your `static/media/` folder
     overlay_filter: 0.5  # Darken the image. Value in range 0-1.
     # Call to action button (optional).
     #   Activate the button by specifying a URL and button label below.

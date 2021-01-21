@@ -1,7 +1,7 @@
 ---
 widget: slider
 headless: true  # This file represents a page section.
-active: true
+active: false
 
 # ... Put Your Section Options Here (section position etc.) ...
 weight: 1  # Order that this section will appear.

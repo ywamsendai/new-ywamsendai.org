@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "To know God and make Him known"
+title = "神を知り、神を知らせる。"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 # hero_media = "hero-academic.png"
@@ -38,7 +38,7 @@ title = "To know God and make Him known"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "#get-involved"
-  label = "Join Us"
+  label = "活動拠点"
   icon_pack = "fas"
   icon = "compass"
 
@@ -51,4 +51,4 @@ title = "To know God and make Him known"
 #   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-Reach the unreached millions in Northern Japan, and beyond!
+福音を知らない東北の何百万の人々のために
