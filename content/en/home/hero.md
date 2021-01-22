@@ -51,4 +51,4 @@ title = "To know God and make Him known"
 #   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-Reach the unreached millions in Northern Japan, and beyond!
+Reach the unreached millions in Northern Japan.
