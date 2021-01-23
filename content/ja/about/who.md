@@ -1,21 +1,20 @@
-+++
-active = true
-headless = true
-subtitle = "ワイワムとは"
-title = "ワイワムという「世界的動き」"
-weight = 10
-widget = "blank"
-[advanced]
-css_class = ""
-css_style = ""
-[design]
-columns = "2"
-[design.background]
-text_color_light = false
-[design.spacing]
-padding = ["20px", "0", "20px", "0"]
+---
+widget: blank
+active: true
+headless: true
+weight: 10
 
-+++
+title: ワイワムという「世界的動き」
+subtitle: ワイワムとは
+
+design:
+  columns: "2"
+
+  spacing:
+    padding: ["20px", "0", "20px", "0"]
+
+---
+
 ## 様々な文化、世代、教派や伝統を超えて繋がる、イエス・キリストに従うクリスチャンの世界的運動です
 
 ワイワムは1960年にアメリカで創立された国際的な超教派のキリスト教宣教団体で、「神を知り、神を知らせる」ことをモットーとして世界180カ国以上で活動しています。

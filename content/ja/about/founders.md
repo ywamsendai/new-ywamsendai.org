@@ -1,22 +1,21 @@
-+++
-active = true
-headless = true
-subtitle = "ローレン・カニングハムについて"
-title = "創立者"
-weight = 30
-widget = "blank"
-[advanced]
-css_class = ""
-css_style = ""
-[design]
-columns = "2"
-[design.background]
-text_color_light = false
-[design.spacing]
-padding = ["20px", "0", "20px", "0"]
+---
+widget: blank
+active: true
+headless: true
+weight: 30
 
-+++
-{{< figure library="true" src="LorenandDarleneCunningham.jpg" lightbox="true" >}}
+title: 創立者
+subtitle: ローレン・カニングハムについて
+
+design:
+  columns: "2"
+
+  spacing:
+    padding: ["20px", "0", "20px", "0"]
+
+---
+
+{{< figure library="true" src="LorenandDarleneCunningham.jpg" title="ローレンとダーリーン" >}}
 
 > 「ローレンと彼の妻ダーリーンは神への従順を通して、世界宣教のあり方に革命をもたらしたと言えます。彼らの行動は世界中のすべての国において、大勢の人の人生に大きな影響を与えています。」
 >

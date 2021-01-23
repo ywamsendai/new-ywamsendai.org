@@ -1,21 +1,20 @@
-+++
-active = true
-headless = true
-subtitle = "目的・信念・基本理念"
-title = "神を知り、神を知らせる"
-weight = 40
-widget = "blank"
-[advanced]
-css_class = ""
-css_style = ""
-[design]
-columns = "2"
-[design.background]
-text_color_light = false
-[design.spacing]
-padding = ["20px", "0", "20px", "0"]
+---
+widget: blank
+active: true
+headless: true
+weight: 40
 
-+++
+title: 神を知り、神を知らせる
+subtitle: 目的・信念・基本理念
+
+design:
+  columns: "2"
+
+  spacing:
+    padding: ["20px", "0", "20px", "0"]
+
+---
+
 ワイワムの目的、核となる信念、基本理念は、1960年の設立時から明確に与えられてきた指示をまとめ、次世代に引き継ぐために記録したものです。
 
 キリスト教全般にあてはまるものもあればワイワム独特のものもあり、これらの目的、信念、理念の組み合わせによって、ワイワム独自のあり方を生み出しています。
