@@ -1,20 +1,19 @@
-+++
-active = true
-headless = true
-title = "スタッフになる"
-weight = 15
-widget = "blank"
-[advanced]
-css_class = ""
-css_style = ""
-[design]
-columns = "2"
-[design.background]
-text_color_light = false
-[design.spacing]
-padding = ["20px", "0", "20px", "0"]
+---
+widget: blank
+active: true
+headless: true
+weight: 15
 
-+++
+title: スタッフになる
+
+design:
+  columns: "2"
+
+  spacing:
+    padding: ["20px", "0", "20px", "0"]
+
+---
+
 ワイワム仙台では、様々な国や教団の背景を持つスタッフが活動しています。海外から来たスタッフは全員、東北の美しい自然と豊かな伝統文化に触れ、この地に対して深い思いを抱いています。仙台で、そして東北で福音を広めるために、日本人のスタッフももちろん必要です！
 
 ワイワム仙台のスタッフは全員日本語を習得することが求められます。なので、日本人スタッフの場合は英語を勉強する必要はありません。日本人としてのあり方や文化を分かち合い、チームメイトの日本語習得を応援してあげてください。そして、日本人の心に届く宣教のあり方を探ってほしいです。
