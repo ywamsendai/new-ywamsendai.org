@@ -271,7 +271,7 @@ plugins_js  = []
 ## Marketing
 ############################
 [marketing]
-  google_analytics = "UA-20132770-3"
+  google_analytics = ""
   google_tag_manager = "GTM-5PKMSRP"
 
   # Content Management System
