@@ -12,7 +12,7 @@
   languageCode = "ja-jp"
   contentDir = "content/ja"
   title = "仙台ワイワム"
-  copyright = "ywam&reg;sendai.org &copy; {year}。全著作権所有。"
+  copyright = "ywam&reg;sendai.jp &copy; {year}。全著作権所有。"
 
   [ja.params]
     description = "神を知り、神を知らせる"
